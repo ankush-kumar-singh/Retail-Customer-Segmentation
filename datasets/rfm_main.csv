@@ -1,0 +1,4315 @@
+Customer ID,Recency,Frequency,Monetary,M_score,F_score,R_score,Score,Segment
+12346,164,11,372,2,4,2,242,At Risk
+12347,2,2,1323,4,2,5,524,Potential Loyalists
+12348,73,1,222,1,1,2,211,Lost Customers
+12349,42,3,2671,5,3,3,335,Regular Customers
+12351,10,1,300,2,1,5,512,New Customers
+12352,10,2,343,2,2,5,522,Potential Loyalists
+12353,43,1,317,2,1,3,312,Regular Customers
+12355,202,1,488,2,1,1,112,Lost Customers
+12356,15,3,3562,5,3,4,435,Potential Loyalists
+12357,23,2,12079,5,2,4,425,Potential Loyalists
+12358,10,3,2719,5,3,5,535,Potential Loyalists
+12359,60,6,2563,5,4,3,345,Regular Customers
+12360,14,5,1590,4,3,5,534,Potential Loyalists
+12361,97,3,321,2,3,2,232,Hibernating
+12362,373,1,130,1,1,1,111,Lost Customers
+12366,268,1,500,2,1,1,112,Lost Customers
+12368,263,1,917,3,1,1,113,Lost Customers
+12369,48,3,1791,4,3,3,334,Regular Customers
+12370,259,3,774,3,3,1,133,Hibernating
+12371,44,3,2179,5,3,3,335,Regular Customers
+12373,259,2,763,3,2,1,123,Hibernating
+12374,56,3,2246,5,3,3,335,Regular Customers
+12376,24,2,503,2,2,4,422,Potential Loyalists
+12377,16,2,1798,4,2,4,424,Potential Loyalists
+12378,197,1,1407,4,1,1,114,Lost Customers
+12379,57,2,767,3,2,3,323,Regular Customers
+12380,100,7,6951,5,4,2,245,At Risk
+12385,14,1,1938,4,1,5,514,New Customers
+12386,1,1,258,2,1,5,512,New Customers
+12387,50,1,143,1,1,3,311,Regular Customers
+12388,80,2,1120,4,2,2,224,Hibernating
+12389,37,3,1433,4,3,3,334,Regular Customers
+12391,99,5,2312,5,3,2,235,Hibernating
+12392,226,1,234,1,1,1,111,Lost Customers
+12393,17,2,816,3,2,4,423,Potential Loyalists
+12395,6,4,2048,4,3,5,534,Potential Loyalists
+12396,309,1,931,3,1,1,113,Lost Customers
+12399,20,3,853,3,3,4,433,Potential Loyalists
+12400,49,1,205,1,1,3,311,Regular Customers
+12402,27,5,1031,4,3,4,434,Potential Loyalists
+12403,156,1,591,3,1,2,213,Lost Customers
+12404,317,1,63,1,1,1,111,Lost Customers
+12406,34,3,2975,5,3,4,435,Potential Loyalists
+12408,20,3,1452,4,3,4,434,Potential Loyalists
+12409,55,4,12346,5,3,3,335,Regular Customers
+12410,137,1,320,2,1,2,212,Lost Customers
+12411,44,1,346,2,1,3,312,Regular Customers
+12412,37,3,1370,4,3,3,334,Regular Customers
+12413,37,1,241,1,1,3,311,Regular Customers
+12414,98,3,390,2,3,2,232,Hibernating
+12415,10,7,19543,5,4,5,545,Champions
+12416,291,1,202,1,1,1,111,Lost Customers
+12417,45,11,3167,5,4,3,345,Regular Customers
+12418,48,3,1352,4,3,3,334,Regular Customers
+12419,20,2,503,2,2,4,422,Potential Loyalists
+12421,50,2,291,2,2,3,322,Regular Customers
+12422,29,14,4428,5,4,4,445,Loyal Customers
+12423,22,2,763,3,2,4,423,Potential Loyalists
+12424,57,2,1579,4,2,3,324,Regular Customers
+12425,83,1,964,3,1,2,213,Lost Customers
+12426,297,1,762,3,1,1,113,Lost Customers
+12427,6,1,303,2,1,5,512,New Customers
+12429,0,5,3735,5,3,5,535,Potential Loyalists
+12431,8,13,4370,5,4,5,545,Champions
+12433,1,5,7205,5,3,5,535,Potential Loyalists
+12434,16,1,297,2,1,4,412,New Customers
+12435,31,4,6096,5,3,4,435,Potential Loyalists
+12437,30,21,7731,5,5,4,455,Loyal Customers
+12439,317,2,1158,4,2,1,124,Hibernating
+12440,97,2,859,3,2,2,223,Hibernating
+12441,1,1,173,1,1,5,511,New Customers
+12443,367,1,485,2,1,1,112,Lost Customers
+12445,55,1,301,2,1,3,312,Regular Customers
+12449,45,2,768,3,2,3,323,Regular Customers
+12450,34,3,490,2,3,4,432,Potential Loyalists
+12451,98,3,3634,5,3,2,235,Hibernating
+12454,30,4,13151,5,3,4,435,Potential Loyalists
+12455,80,4,3413,5,3,2,235,Hibernating
+12457,70,1,632,3,1,3,313,Regular Customers
+12458,62,2,830,3,2,3,323,Regular Customers
+12459,240,1,454,2,1,1,112,Lost Customers
+12460,91,1,326,2,1,2,212,Lost Customers
+12466,317,1,56,1,1,1,111,Lost Customers
+12467,58,1,132,1,1,3,311,Regular Customers
+12468,161,3,2941,5,3,2,235,Hibernating
+12469,157,2,3070,5,2,2,225,Hibernating
+12470,324,1,211,1,1,1,111,Lost Customers
+12471,9,49,20139,5,5,5,555,Champions
+12472,4,13,11308,5,4,5,545,Champions
+12474,13,13,5048,5,4,5,545,Champions
+12475,44,1,426,2,1,3,312,Regular Customers
+12476,31,12,7298,5,4,4,445,Loyal Customers
+12477,34,3,7056,5,3,4,435,Potential Loyalists
+12480,34,3,2183,5,3,4,435,Potential Loyalists
+12481,0,6,6765,5,4,5,545,Champions
+12482,211,29,23691,5,5,1,155,At Risk
+12483,13,11,2635,5,4,5,545,Champions
+12484,118,6,1828,4,4,2,244,At Risk
+12485,164,1,708,3,1,2,213,Lost Customers
+12486,66,1,1037,4,1,3,314,Regular Customers
+12487,365,1,285,2,1,1,112,Lost Customers
+12490,13,11,4405,5,4,5,545,Champions
+12492,38,1,452,2,1,3,312,Regular Customers
+12494,0,3,626,3,3,5,533,Potential Loyalists
+12495,275,1,357,2,1,1,112,Lost Customers
+12496,255,2,54,1,2,1,121,Hibernating
+12497,35,2,5205,5,2,4,425,Potential Loyalists
+12499,195,1,393,2,1,1,112,Lost Customers
+12500,70,8,1697,4,4,3,344,Regular Customers
+12503,219,1,1126,4,1,1,114,Lost Customers
+12504,52,2,297,2,2,3,322,Regular Customers
+12505,43,1,955,3,1,3,313,Regular Customers
+12507,219,1,539,3,1,1,113,Lost Customers
+12510,94,7,4195,5,4,2,245,At Risk
+12511,63,1,3084,5,1,3,315,Regular Customers
+12514,276,1,580,3,1,1,113,Lost Customers
+12516,65,2,1336,4,2,3,324,Regular Customers
+12519,111,1,385,2,1,2,212,Lost Customers
+12523,9,12,2582,5,4,5,545,Champions
+12524,23,9,6640,5,4,4,445,Loyal Customers
+12525,133,3,973,3,3,2,233,Hibernating
+12527,129,2,386,2,2,2,222,Hibernating
+12529,163,1,316,2,1,2,212,Lost Customers
+12530,50,5,2096,4,3,3,334,Regular Customers
+12531,321,1,1807,4,1,1,114,Lost Customers
+12533,262,2,1367,4,2,1,124,Hibernating
+12537,43,1,732,3,1,3,313,Regular Customers
+12538,13,1,276,2,1,5,512,New Customers
+12539,85,3,5646,5,3,2,235,Hibernating
+12540,13,16,8854,5,4,5,545,Champions
+12542,119,2,481,2,2,2,222,Hibernating
+12543,83,1,980,3,1,2,213,Lost Customers
+12547,135,1,175,1,1,2,211,Lost Customers
+12549,210,6,1575,4,4,1,144,At Risk
+12553,20,2,916,3,2,4,423,Potential Loyalists
+12554,83,1,468,2,1,2,212,Lost Customers
+12555,317,1,129,1,1,1,111,Lost Customers
+12557,6,4,6725,5,3,5,535,Potential Loyalists
+12562,20,2,1185,4,2,4,424,Potential Loyalists
+12563,43,1,249,1,1,3,311,Regular Customers
+12567,2,7,4308,5,4,5,545,Champions
+12568,279,1,70,1,1,1,111,Lost Customers
+12570,317,1,77,1,1,1,111,Lost Customers
+12573,16,4,556,3,3,4,433,Potential Loyalists
+12575,92,2,622,3,2,2,223,Hibernating
+12576,27,3,826,3,3,4,433,Potential Loyalists
+12577,16,5,995,4,3,4,434,Potential Loyalists
+12578,20,2,1847,4,2,4,424,Potential Loyalists
+12580,211,1,637,3,1,1,113,Lost Customers
+12582,57,2,1469,4,2,3,324,Regular Customers
+12583,8,13,7166,5,4,5,545,Champions
+12586,9,3,1865,4,3,5,534,Potential Loyalists
+12588,34,3,743,3,3,4,433,Potential Loyalists
+12589,56,6,4048,5,4,3,345,Regular Customers
+12591,25,2,899,3,2,4,423,Potential Loyalists
+12592,154,3,2145,4,3,2,234,Hibernating
+12594,13,5,1751,4,3,5,534,Potential Loyalists
+12595,139,1,299,2,1,2,212,Lost Customers
+12598,98,3,1511,4,3,2,234,Hibernating
+12599,16,6,1264,4,4,4,444,Loyal Customers
+12600,6,12,2444,5,4,5,545,Champions
+12601,39,1,104,1,1,3,311,Regular Customers
+12605,11,4,1232,4,3,5,534,Potential Loyalists
+12606,317,1,21,1,1,1,111,Lost Customers
+12608,39,1,415,2,1,3,312,Regular Customers
+12609,9,6,2309,5,4,5,545,Champions
+12613,23,5,3490,5,3,4,435,Potential Loyalists
+12615,48,4,3449,5,3,3,335,Regular Customers
+12616,23,1,417,2,1,4,412,New Customers
+12619,195,1,140,1,1,1,111,Lost Customers
+12621,0,16,11086,5,4,5,545,Champions
+12623,51,6,3442,5,4,3,345,Regular Customers
+12625,144,2,2481,5,2,2,225,Hibernating
+12629,20,2,1558,4,2,4,424,Potential Loyalists
+12631,91,5,2841,5,3,2,235,Hibernating
+12632,155,2,804,3,2,2,223,Hibernating
+12633,17,3,3514,5,3,4,435,Potential Loyalists
+12634,170,2,490,2,2,2,222,Hibernating
+12635,27,2,1241,4,2,4,424,Potential Loyalists
+12636,373,1,141,1,1,1,111,Lost Customers
+12637,13,4,2318,5,3,5,535,Potential Loyalists
+12638,274,1,249,1,1,1,111,Lost Customers
+12639,69,2,826,3,2,3,323,Regular Customers
+12643,20,6,5005,5,4,4,445,Loyal Customers
+12644,65,3,1440,4,3,3,334,Regular Customers
+12645,44,4,1764,4,3,3,334,Regular Customers
+12647,2,27,14201,5,5,5,555,Champions
+12648,72,3,793,3,3,2,233,Hibernating
+12649,17,5,1671,4,3,4,434,Potential Loyalists
+12651,13,3,263,2,3,5,532,Potential Loyalists
+12652,69,1,97,1,1,3,311,Regular Customers
+12653,161,1,1950,4,1,2,214,Lost Customers
+12655,58,1,261,2,1,3,312,Regular Customers
+12656,60,3,2356,5,3,3,335,Regular Customers
+12661,71,1,162,1,1,2,211,Lost Customers
+12662,8,10,3138,5,4,5,545,Champions
+12663,259,2,239,1,2,1,121,Hibernating
+12664,149,2,1188,4,2,2,224,Hibernating
+12665,52,2,250,1,2,3,321,Regular Customers
+12666,29,1,1248,4,1,4,414,New Customers
+12668,13,6,7637,5,4,5,545,Champions
+12670,20,2,764,3,2,4,423,Potential Loyalists
+12671,241,1,2622,5,1,1,115,Lost Customers
+12672,230,1,211,1,1,1,111,Lost Customers
+12673,36,1,619,3,1,3,313,Regular Customers
+12675,188,2,958,3,2,1,123,Hibernating
+12676,43,5,1511,4,3,3,334,Regular Customers
+12677,190,2,395,2,2,1,122,Hibernating
+12678,10,9,16652,5,4,5,545,Champions
+12681,2,24,17080,5,5,5,555,Champions
+12682,0,23,11745,5,5,5,555,Champions
+12683,0,8,4220,5,4,5,545,Champions
+12686,6,1,89,1,1,5,511,New Customers
+12687,115,2,2138,4,2,2,224,Hibernating
+12691,55,1,134,1,1,3,311,Regular Customers
+12692,272,1,110,1,1,1,111,Lost Customers
+12693,31,3,847,3,3,4,433,Potential Loyalists
+12694,56,1,973,3,1,3,313,Regular Customers
+12695,163,3,825,3,3,2,233,Hibernating
+12696,69,2,851,3,2,3,323,Regular Customers
+12698,225,1,339,2,1,1,112,Lost Customers
+12699,52,1,638,3,1,3,313,Regular Customers
+12701,164,4,1648,4,3,2,234,Hibernating
+12703,268,3,722,3,3,1,133,Hibernating
+12705,18,5,4893,5,3,4,435,Potential Loyalists
+12708,3,9,2601,5,4,5,545,Champions
+12709,1,20,21356,5,4,5,545,Champions
+12711,246,2,1339,4,2,1,124,Hibernating
+12712,0,10,2797,5,4,5,545,Champions
+12714,23,7,9384,5,4,4,445,Loyal Customers
+12717,225,1,277,2,1,1,112,Lost Customers
+12720,4,6,2478,5,4,5,545,Champions
+12721,20,2,1356,4,2,4,424,Potential Loyalists
+12724,18,3,1286,4,3,4,434,Potential Loyalists
+12725,6,4,2266,5,3,5,535,Potential Loyalists
+12726,22,4,1405,4,3,4,434,Potential Loyalists
+12727,77,3,1698,4,3,2,234,Hibernating
+12728,18,1,233,1,1,4,411,New Customers
+12730,156,1,829,3,1,2,213,Lost Customers
+12731,77,5,6879,5,3,2,235,Hibernating
+12733,24,3,2040,4,3,4,434,Potential Loyalists
+12734,9,2,529,3,2,5,523,Potential Loyalists
+12737,133,2,3710,5,2,2,225,Hibernating
+12738,7,1,155,1,1,5,511,New Customers
+12739,20,2,1713,4,2,4,424,Potential Loyalists
+12741,164,2,406,2,2,2,222,Hibernating
+12742,260,1,1201,4,1,1,114,Lost Customers
+12744,94,4,4037,5,3,2,235,Hibernating
+12745,121,3,925,3,3,2,233,Hibernating
+12746,175,1,254,2,1,2,212,Lost Customers
+12747,4,16,5080,5,4,5,545,Champions
+12748,0,144,22879,5,5,5,555,Champions
+12749,34,4,2806,5,3,4,435,Potential Loyalists
+12751,79,1,268,2,1,2,212,Lost Customers
+12755,0,10,5218,5,4,5,545,Champions
+12758,94,5,7111,5,3,2,235,Hibernating
+12759,21,5,3489,5,3,4,435,Potential Loyalists
+12760,90,1,347,2,1,2,212,Lost Customers
+12761,92,2,782,3,2,2,223,Hibernating
+12763,4,1,320,2,1,5,512,New Customers
+12765,107,6,1404,4,4,2,244,At Risk
+12766,1,3,3078,5,3,5,535,Potential Loyalists
+12767,10,1,949,3,1,5,513,New Customers
+12768,85,1,168,1,1,2,211,Lost Customers
+12770,91,1,1895,4,1,2,214,Lost Customers
+12771,120,1,282,2,1,2,212,Lost Customers
+12773,199,1,124,1,1,1,111,Lost Customers
+12774,170,1,98,1,1,2,211,Lost Customers
+12775,23,2,300,2,2,4,422,Potential Loyalists
+12776,302,1,55,1,1,1,111,Lost Customers
+12777,92,1,519,3,1,2,213,Lost Customers
+12778,31,3,953,3,3,4,433,Potential Loyalists
+12779,6,7,2740,5,4,5,545,Champions
+12780,233,1,337,2,1,1,112,Lost Customers
+12782,9,6,2287,5,4,5,545,Champions
+12784,164,1,1230,4,1,2,214,Lost Customers
+12785,170,2,788,3,2,2,223,Hibernating
+12786,244,1,728,3,1,1,113,Lost Customers
+12787,48,1,398,2,1,3,312,Regular Customers
+12788,98,4,444,2,3,2,232,Hibernating
+12789,147,2,181,1,2,2,221,Hibernating
+12790,45,1,266,2,1,3,312,Regular Customers
+12791,8,6,863,3,4,5,543,Loyal Customers
+12792,169,1,426,2,1,2,212,Lost Customers
+12793,6,2,471,2,2,5,522,Potential Loyalists
+12796,263,1,381,2,1,1,112,Lost Customers
+12797,0,2,552,3,2,5,523,Potential Loyalists
+12798,56,1,1533,4,1,3,314,Regular Customers
+12799,164,1,219,1,1,2,211,Lost Customers
+12800,105,3,584,3,3,2,233,Hibernating
+12801,135,1,1071,4,1,2,214,Lost Customers
+12802,77,6,1988,4,4,2,244,At Risk
+12803,28,1,1092,4,1,4,414,New Customers
+12804,100,2,327,2,2,2,222,Hibernating
+12805,16,4,1434,4,3,4,434,Potential Loyalists
+12806,70,4,2878,5,3,3,335,Regular Customers
+12807,18,1,330,2,1,4,412,New Customers
+12808,3,3,422,2,3,5,532,Potential Loyalists
+12809,200,2,1266,4,2,1,124,Hibernating
+12810,169,2,534,3,2,2,223,Hibernating
+12811,13,2,519,3,2,5,523,Potential Loyalists
+12813,136,3,1687,4,3,2,234,Hibernating
+12817,34,2,524,3,2,4,423,Potential Loyalists
+12819,93,1,540,3,1,2,213,Lost Customers
+12820,32,7,1747,4,4,4,444,Loyal Customers
+12821,246,1,128,1,1,1,111,Lost Customers
+12823,29,13,4742,5,4,4,445,Loyal Customers
+12825,156,2,518,3,2,2,223,Hibernating
+12826,0,6,1481,4,4,5,544,Champions
+12829,185,1,92,1,1,1,111,Lost Customers
+12831,98,2,236,1,2,2,221,Hibernating
+12835,62,41,6043,5,5,3,355,Regular Customers
+12836,24,11,3972,5,4,4,445,Loyal Customers
+12837,204,1,554,3,1,1,113,Lost Customers
+12838,8,9,2715,5,4,5,545,Champions
+12839,2,13,4480,5,4,5,545,Champions
+12840,72,3,1315,4,3,2,234,Hibernating
+12841,4,17,3518,5,4,5,545,Champions
+12842,39,2,799,3,2,3,323,Regular Customers
+12843,17,22,4886,5,5,4,455,Loyal Customers
+12844,77,2,322,2,2,2,222,Hibernating
+12846,317,1,15,1,1,1,111,Lost Customers
+12847,22,1,765,3,1,4,413,New Customers
+12848,310,1,208,1,1,1,111,Lost Customers
+12849,16,4,2039,4,3,4,434,Potential Loyalists
+12850,80,1,330,2,1,2,212,Lost Customers
+12851,112,1,148,1,1,2,211,Lost Customers
+12853,62,5,1950,4,3,3,334,Regular Customers
+12854,196,4,1669,4,3,1,134,Hibernating
+12855,7,4,612,3,3,5,533,Potential Loyalists
+12857,71,4,2581,5,3,2,235,Hibernating
+12858,18,1,177,1,1,4,411,New Customers
+12859,93,1,575,3,1,2,213,Lost Customers
+12860,328,1,55,1,1,1,111,Lost Customers
+12861,254,1,68,1,1,1,111,Lost Customers
+12862,60,2,1008,4,2,3,324,Regular Customers
+12863,14,5,2271,5,3,5,535,Potential Loyalists
+12864,143,1,152,1,1,2,211,Lost Customers
+12865,13,2,1755,4,2,5,524,Potential Loyalists
+12866,109,2,668,3,2,2,223,Hibernating
+12867,32,6,3876,5,4,4,445,Loyal Customers
+12868,8,3,640,3,3,5,533,Potential Loyalists
+12869,316,1,337,2,1,1,112,Lost Customers
+12870,10,3,1676,4,3,5,534,Potential Loyalists
+12871,74,1,363,2,1,2,212,Lost Customers
+12872,0,11,3085,5,4,5,545,Champions
+12873,32,2,1653,4,2,4,424,Potential Loyalists
+12874,20,2,948,3,2,4,423,Potential Loyalists
+12875,106,3,1013,4,3,2,234,Hibernating
+12876,29,2,1863,4,2,4,424,Potential Loyalists
+12877,36,8,1419,4,4,3,344,Regular Customers
+12880,16,2,640,3,2,4,423,Potential Loyalists
+12887,18,1,222,1,1,4,411,New Customers
+12889,16,4,385,2,3,4,432,Potential Loyalists
+12890,22,1,336,2,1,4,412,New Customers
+12891,93,8,509,3,4,2,243,At Risk
+12892,31,1,263,2,1,4,412,New Customers
+12894,210,1,157,1,1,1,111,Lost Customers
+12897,16,2,297,2,2,4,422,Potential Loyalists
+12898,98,2,310,2,2,2,222,Hibernating
+12899,48,1,366,2,1,3,312,Regular Customers
+12900,57,1,340,2,1,3,312,Regular Customers
+12903,63,1,833,3,1,3,313,Regular Customers
+12905,211,2,1018,4,2,1,124,Hibernating
+12907,30,2,508,3,2,4,423,Potential Loyalists
+12908,15,3,1026,4,3,4,434,Potential Loyalists
+12909,59,3,924,3,3,3,333,Regular Customers
+12910,14,5,2721,5,3,5,535,Potential Loyalists
+12911,186,1,1680,4,1,1,114,Lost Customers
+12913,3,9,4217,5,4,5,545,Champions
+12914,35,1,223,1,1,4,411,New Customers
+12915,7,3,811,3,3,5,533,Potential Loyalists
+12916,77,3,1647,4,3,2,234,Hibernating
+12917,35,5,3765,5,3,4,435,Potential Loyalists
+12918,261,1,10953,5,1,1,115,Lost Customers
+12920,206,3,323,2,3,1,132,Hibernating
+12921,1,39,19333,5,5,5,555,Champions
+12923,25,2,612,3,2,4,423,Potential Loyalists
+12924,28,8,1535,4,4,4,444,Loyal Customers
+12925,227,1,35,1,1,1,111,Lost Customers
+12926,46,4,1548,4,3,3,334,Regular Customers
+12927,29,1,197,1,1,4,411,New Customers
+12928,13,7,2242,5,4,5,545,Champions
+12931,15,42,50291,5,5,4,455,Loyal Customers
+12932,174,8,1698,4,4,2,244,At Risk
+12933,15,5,1079,4,3,4,434,Potential Loyalists
+12934,371,1,181,1,1,1,111,Lost Customers
+12935,10,8,2083,4,4,5,544,Champions
+12937,98,5,1593,4,3,2,234,Hibernating
+12939,14,12,13683,5,4,5,545,Champions
+12941,359,1,377,2,1,1,112,Lost Customers
+12942,0,1,258,2,1,5,512,New Customers
+12943,193,2,496,2,2,1,122,Hibernating
+12945,291,1,437,2,1,1,112,Lost Customers
+12946,71,1,324,2,1,2,212,Lost Customers
+12947,8,1,304,2,1,5,512,New Customers
+12948,365,2,252,2,2,1,122,Hibernating
+12949,17,14,11359,5,4,4,445,Loyal Customers
+12951,21,9,2149,5,4,4,445,Loyal Customers
+12953,157,1,498,2,1,2,212,Lost Customers
+12954,273,1,162,1,1,1,111,Lost Customers
+12956,319,3,413,2,3,1,132,Hibernating
+12957,176,5,4689,5,3,1,135,Hibernating
+12958,35,2,539,3,2,4,423,Potential Loyalists
+12959,119,1,150,1,1,2,211,Lost Customers
+12960,48,4,1322,4,3,3,334,Regular Customers
+12961,14,1,211,1,1,5,511,New Customers
+12963,0,5,1744,4,3,5,534,Potential Loyalists
+12964,72,1,132,1,1,2,211,Lost Customers
+12967,6,2,2646,5,2,5,525,Potential Loyalists
+12969,237,1,122,1,1,1,111,Lost Customers
+12970,15,6,1072,4,4,4,444,Loyal Customers
+12971,1,33,4782,5,5,5,555,Champions
+12972,48,4,1161,4,3,3,334,Regular Customers
+12973,48,1,385,2,1,3,312,Regular Customers
+12974,200,1,264,2,1,1,112,Lost Customers
+12975,71,6,2100,4,4,2,244,At Risk
+12976,13,7,2417,5,4,5,545,Champions
+12977,136,3,478,2,3,2,232,Hibernating
+12978,20,5,2502,5,3,4,435,Potential Loyalists
+12979,364,1,517,3,1,1,113,Lost Customers
+12980,21,12,8870,5,4,4,445,Loyal Customers
+12982,29,7,2354,5,4,4,445,Loyal Customers
+12983,233,1,490,2,1,1,112,Lost Customers
+12986,63,10,2729,5,4,3,345,Regular Customers
+12987,55,3,753,3,3,3,333,Regular Customers
+12989,59,18,6627,5,4,3,345,Regular Customers
+12990,52,4,546,3,3,3,333,Regular Customers
+12991,24,1,261,2,1,4,412,New Customers
+12992,360,1,93,1,1,1,111,Lost Customers
+12993,80,4,844,3,3,2,233,Hibernating
+12996,10,1,355,2,1,5,512,New Customers
+12997,29,4,884,3,3,4,433,Potential Loyalists
+12998,127,3,920,3,3,2,233,Hibernating
+13000,360,1,497,2,1,1,112,Lost Customers
+13001,39,20,14353,5,4,3,345,Regular Customers
+13002,51,2,293,2,2,3,322,Regular Customers
+13004,21,18,5994,5,4,4,445,Loyal Customers
+13005,66,2,485,2,2,3,322,Regular Customers
+13007,214,1,175,1,1,1,111,Lost Customers
+13008,32,2,382,2,2,4,422,Potential Loyalists
+13009,307,1,234,1,1,1,111,Lost Customers
+13010,9,2,330,2,2,5,522,Potential Loyalists
+13011,7,1,50,1,1,5,511,New Customers
+13012,64,3,1310,4,3,3,334,Regular Customers
+13013,6,18,7814,5,4,5,545,Champions
+13014,67,1,1914,4,1,3,314,Regular Customers
+13015,73,6,3240,5,4,2,245,At Risk
+13018,48,7,2485,5,4,3,345,Regular Customers
+13019,14,6,1229,4,4,5,544,Champions
+13020,197,2,618,3,2,1,123,Hibernating
+13021,9,8,2270,5,4,5,545,Champions
+13022,64,1,65,1,1,3,311,Regular Customers
+13023,163,1,759,3,1,2,213,Lost Customers
+13024,105,2,555,3,2,2,223,Hibernating
+13025,366,1,323,2,1,1,112,Lost Customers
+13026,123,4,757,3,3,2,233,Hibernating
+13027,20,13,10423,5,4,4,445,Loyal Customers
+13029,9,2,679,3,2,5,523,Potential Loyalists
+13030,3,1,427,2,1,5,512,New Customers
+13031,42,5,3419,5,3,3,335,Regular Customers
+13032,27,7,1833,4,4,4,444,Loyal Customers
+13033,64,1,30,1,1,3,311,Regular Customers
+13034,4,2,279,2,2,5,522,Potential Loyalists
+13035,66,1,442,2,1,3,312,Regular Customers
+13036,319,1,307,2,1,1,112,Lost Customers
+13037,34,9,3033,5,4,4,445,Loyal Customers
+13039,219,4,1010,4,3,1,134,Hibernating
+13041,85,4,799,3,3,2,233,Hibernating
+13042,233,3,1556,4,3,1,134,Hibernating
+13044,127,10,4293,5,4,2,245,At Risk
+13045,36,2,503,2,2,3,322,Regular Customers
+13046,91,1,319,2,1,2,212,Lost Customers
+13047,8,17,5557,5,4,5,545,Champions
+13048,71,5,2248,5,3,2,235,Hibernating
+13049,24,2,751,3,2,4,423,Potential Loyalists
+13050,1,19,6507,5,4,5,545,Champions
+13051,213,2,155,1,2,1,121,Hibernating
+13052,55,6,2820,5,4,3,345,Regular Customers
+13053,256,1,127,1,1,1,111,Lost Customers
+13055,64,1,1106,4,1,3,314,Regular Customers
+13056,186,1,209,1,1,1,111,Lost Customers
+13057,165,3,722,3,3,2,233,Hibernating
+13059,48,9,2119,4,4,3,344,Regular Customers
+13063,115,1,188,1,1,2,211,Lost Customers
+13064,185,2,561,3,2,1,123,Hibernating
+13065,8,5,1055,4,3,5,534,Potential Loyalists
+13067,44,2,393,2,2,3,322,Regular Customers
+13069,4,16,5247,5,4,5,545,Champions
+13070,94,3,522,3,3,2,233,Hibernating
+13071,247,1,129,1,1,1,111,Lost Customers
+13073,46,2,418,2,2,3,322,Regular Customers
+13074,146,4,1378,4,3,2,234,Hibernating
+13076,92,1,135,1,1,2,211,Lost Customers
+13077,1,8,2335,5,4,5,545,Champions
+13078,1,32,16904,5,5,5,555,Champions
+13079,52,1,199,1,1,3,311,Regular Customers
+13080,36,3,222,1,3,3,331,Regular Customers
+13081,6,19,30867,5,4,5,545,Champions
+13082,59,12,3722,5,4,3,345,Regular Customers
+13083,60,1,91,1,1,3,311,Regular Customers
+13084,126,1,122,1,1,2,211,Lost Customers
+13085,314,6,2017,4,4,1,144,At Risk
+13086,17,1,439,2,1,4,412,New Customers
+13087,361,1,313,2,1,1,112,Lost Customers
+13088,52,1,236,1,1,3,311,Regular Customers
+13089,3,109,57912,5,5,5,555,Champions
+13090,0,13,5192,5,4,5,545,Champions
+13091,364,2,1976,4,2,1,124,Hibernating
+13092,49,7,1662,4,4,3,344,Regular Customers
+13093,8,48,47111,5,5,5,555,Champions
+13094,3,2,505,2,2,5,522,Potential Loyalists
+13096,29,1,419,2,1,4,412,New Customers
+13097,23,18,7378,5,4,4,445,Loyal Customers
+13101,133,3,594,3,3,2,233,Hibernating
+13102,0,14,5272,5,4,5,545,Champions
+13103,72,2,465,2,2,2,222,Hibernating
+13104,50,3,610,3,3,3,333,Regular Customers
+13105,71,1,72,1,1,2,211,Lost Customers
+13106,48,1,526,3,1,3,313,Regular Customers
+13107,48,5,3721,5,3,3,335,Regular Customers
+13108,7,2,748,3,2,5,523,Potential Loyalists
+13109,186,1,347,2,1,1,112,Lost Customers
+13110,72,5,1468,4,3,2,234,Hibernating
+13111,353,1,321,2,1,1,112,Lost Customers
+13112,176,1,20,1,1,1,111,Lost Customers
+13113,1,14,6379,5,4,5,545,Champions
+13114,365,1,234,1,1,1,111,Lost Customers
+13115,14,6,3199,5,4,5,545,Champions
+13117,0,12,1658,4,4,5,544,Champions
+13118,11,4,1217,4,3,5,534,Potential Loyalists
+13119,303,1,134,1,1,1,111,Lost Customers
+13123,107,2,506,3,2,2,223,Hibernating
+13124,20,1,916,3,1,4,413,New Customers
+13125,158,1,158,1,1,2,211,Lost Customers
+13126,1,7,1898,4,4,5,544,Champions
+13128,266,1,263,2,1,1,112,Lost Customers
+13129,87,2,233,1,2,2,221,Hibernating
+13131,53,4,2240,5,3,3,335,Regular Customers
+13133,94,1,90,1,1,2,211,Lost Customers
+13134,37,2,681,3,2,3,323,Regular Customers
+13135,126,1,275,2,1,2,212,Lost Customers
+13136,10,8,3666,5,4,5,545,Champions
+13137,21,8,4062,5,4,4,445,Loyal Customers
+13138,7,2,504,2,2,5,522,Potential Loyalists
+13139,72,1,3138,5,1,2,215,Lost Customers
+13140,1,3,791,3,3,5,533,Potential Loyalists
+13141,20,12,5279,5,4,4,445,Loyal Customers
+13143,219,1,405,2,1,1,112,Lost Customers
+13144,66,1,24,1,1,3,311,Regular Customers
+13145,7,4,805,3,3,5,533,Potential Loyalists
+13148,24,14,4914,5,4,4,445,Loyal Customers
+13150,119,3,449,2,3,2,232,Hibernating
+13151,260,2,1322,4,2,1,124,Hibernating
+13152,52,7,2146,5,4,3,345,Regular Customers
+13154,34,3,1624,4,3,4,434,Potential Loyalists
+13155,3,3,778,3,3,5,533,Potential Loyalists
+13156,20,3,1586,4,3,4,434,Potential Loyalists
+13157,44,5,3946,5,3,3,335,Regular Customers
+13158,23,1,307,2,1,4,412,New Customers
+13161,135,1,366,2,1,2,212,Lost Customers
+13162,15,12,7587,5,4,4,445,Loyal Customers
+13163,245,1,17,1,1,1,111,Lost Customers
+13164,204,2,372,2,2,1,122,Hibernating
+13165,48,1,429,2,1,3,312,Regular Customers
+13166,49,1,466,2,1,3,312,Regular Customers
+13167,25,1,333,2,1,4,412,New Customers
+13168,177,1,556,3,1,1,113,Lost Customers
+13169,197,1,127,1,1,1,111,Lost Customers
+13172,35,1,69,1,1,4,411,New Customers
+13173,2,10,2285,5,4,5,545,Champions
+13174,4,10,6677,5,4,5,545,Champions
+13175,217,2,831,3,2,1,123,Hibernating
+13177,65,1,229,1,1,3,311,Regular Customers
+13178,32,10,8333,5,4,4,445,Loyal Customers
+13179,253,1,572,3,1,1,113,Lost Customers
+13180,242,1,86,1,1,1,111,Lost Customers
+13181,16,1,359,2,1,4,412,New Customers
+13183,29,6,3078,5,4,4,445,Loyal Customers
+13187,259,3,130,1,3,1,131,Hibernating
+13190,179,3,570,3,3,1,133,Hibernating
+13191,293,1,164,1,1,1,111,Lost Customers
+13192,170,4,1646,4,3,2,234,Hibernating
+13194,56,1,412,2,1,3,312,Regular Customers
+13195,49,1,172,1,1,3,311,Regular Customers
+13196,78,3,1271,4,3,2,234,Hibernating
+13197,244,1,373,2,1,1,112,Lost Customers
+13198,22,2,1572,4,2,4,424,Potential Loyalists
+13199,1,30,6615,5,5,5,555,Champions
+13201,137,4,1240,4,3,2,234,Hibernating
+13202,29,7,1580,4,4,4,444,Loyal Customers
+13203,21,6,1778,4,4,4,444,Loyal Customers
+13204,366,1,966,3,1,1,113,Lost Customers
+13205,78,1,2803,5,1,2,215,Lost Customers
+13206,35,13,8377,5,4,4,445,Loyal Customers
+13207,86,2,285,2,2,2,222,Hibernating
+13208,84,3,764,3,3,2,233,Hibernating
+13209,149,5,2617,5,3,2,235,Hibernating
+13211,16,7,1531,4,4,4,444,Loyal Customers
+13213,18,6,2330,5,4,4,445,Loyal Customers
+13214,52,7,3264,5,4,3,345,Regular Customers
+13215,37,1,81,1,1,3,311,Regular Customers
+13217,290,1,132,1,1,1,111,Lost Customers
+13219,253,1,76,1,1,1,111,Lost Customers
+13220,210,1,516,3,1,1,113,Lost Customers
+13222,212,1,88,1,1,1,111,Lost Customers
+13223,58,4,805,3,3,3,333,Regular Customers
+13225,56,9,9796,5,4,3,345,Regular Customers
+13226,28,1,204,1,1,4,411,New Customers
+13230,0,17,3553,5,4,5,545,Champions
+13233,55,2,571,3,2,3,323,Regular Customers
+13234,307,2,356,2,2,1,122,Hibernating
+13237,22,1,643,3,1,4,413,New Customers
+13238,65,2,305,2,2,3,322,Regular Customers
+13239,72,4,1265,4,3,2,234,Hibernating
+13240,0,5,1074,4,3,5,534,Potential Loyalists
+13241,46,1,115,1,1,3,311,Regular Customers
+13242,86,4,429,2,3,2,232,Hibernating
+13243,84,4,677,3,3,2,233,Hibernating
+13245,67,1,558,3,1,3,313,Regular Customers
+13246,28,5,1400,4,3,4,434,Potential Loyalists
+13249,36,6,897,3,4,3,343,Regular Customers
+13250,95,2,256,2,2,2,222,Hibernating
+13251,37,1,252,2,1,3,312,Regular Customers
+13252,29,2,399,2,2,4,422,Potential Loyalists
+13253,65,2,1920,4,2,3,324,Regular Customers
+13254,11,1,51,1,1,5,511,New Customers
+13255,8,2,504,2,2,5,522,Potential Loyalists
+13257,71,1,149,1,1,2,211,Lost Customers
+13258,14,2,336,2,2,5,522,Potential Loyalists
+13259,32,8,1141,4,4,4,444,Loyal Customers
+13262,24,2,373,2,2,4,422,Potential Loyalists
+13263,28,4,1250,4,3,4,434,Potential Loyalists
+13264,77,1,722,3,1,2,213,Lost Customers
+13266,48,7,2300,5,4,3,345,Regular Customers
+13267,1,18,5236,5,4,5,545,Champions
+13269,4,14,3545,5,4,5,545,Champions
+13270,1,1,590,3,1,5,513,New Customers
+13274,44,1,360,2,1,3,312,Regular Customers
+13275,18,2,241,1,2,4,421,Potential Loyalists
+13276,32,3,1348,4,3,4,434,Potential Loyalists
+13277,15,3,264,2,3,4,432,Potential Loyalists
+13278,34,3,893,3,3,4,433,Potential Loyalists
+13280,14,4,1507,4,3,5,534,Potential Loyalists
+13281,74,1,350,2,1,2,212,Lost Customers
+13282,41,1,181,1,1,3,311,Regular Customers
+13283,202,2,279,2,2,1,122,Hibernating
+13285,235,2,655,3,2,1,123,Hibernating
+13286,235,1,734,3,1,1,113,Lost Customers
+13287,238,3,781,3,3,1,133,Hibernating
+13288,78,5,927,3,3,2,233,Hibernating
+13289,358,1,307,2,1,1,112,Lost Customers
+13290,73,1,208,1,1,2,211,Lost Customers
+13291,49,10,2959,5,4,3,345,Regular Customers
+13292,50,3,415,2,3,3,332,Regular Customers
+13293,27,6,1192,4,4,4,444,Loyal Customers
+13294,281,1,815,3,1,1,113,Lost Customers
+13295,11,3,900,3,3,5,533,Potential Loyalists
+13296,58,5,705,3,3,3,333,Regular Customers
+13297,20,3,2278,5,3,4,435,Potential Loyalists
+13299,58,2,1076,4,2,3,324,Regular Customers
+13300,23,2,913,3,2,4,423,Potential Loyalists
+13302,161,1,95,1,1,2,211,Lost Customers
+13303,35,1,61,1,1,4,411,New Customers
+13304,90,3,917,3,3,2,233,Hibernating
+13305,7,7,1753,4,4,5,544,Champions
+13306,65,1,53,1,1,3,311,Regular Customers
+13307,122,2,258,2,2,2,222,Hibernating
+13308,231,1,284,2,1,1,112,Lost Customers
+13309,27,1,249,1,1,4,411,New Customers
+13310,15,2,409,2,2,4,422,Potential Loyalists
+13312,86,1,124,1,1,2,211,Lost Customers
+13313,114,7,1890,4,4,2,244,At Risk
+13315,324,1,310,2,1,1,112,Lost Customers
+13316,27,6,7213,5,4,4,445,Loyal Customers
+13317,20,13,4212,5,4,4,445,Loyal Customers
+13319,0,34,11236,5,5,5,555,Champions
+13320,69,2,679,3,2,3,323,Regular Customers
+13324,63,8,3391,5,4,3,345,Regular Customers
+13326,67,1,281,2,1,3,312,Regular Customers
+13327,0,14,6251,5,4,5,545,Champions
+13329,1,7,4323,5,4,5,545,Champions
+13330,90,3,1665,4,3,2,234,Hibernating
+13331,36,1,262,2,1,3,312,Regular Customers
+13333,46,3,1015,4,3,3,334,Regular Customers
+13334,171,2,2726,5,2,2,225,Hibernating
+13337,181,1,1575,4,1,1,114,Lost Customers
+13338,176,3,1958,4,3,1,134,Hibernating
+13340,52,5,11364,5,3,3,335,Regular Customers
+13346,97,6,299,2,4,2,242,At Risk
+13357,129,4,3228,5,3,2,235,Hibernating
+13359,38,1,603,3,1,3,313,Regular Customers
+13360,66,4,1553,4,3,3,334,Regular Customers
+13361,107,2,1450,4,2,2,224,Hibernating
+13362,13,3,2303,5,3,5,535,Potential Loyalists
+13363,44,1,731,3,1,3,313,Regular Customers
+13367,66,1,510,3,1,3,313,Regular Customers
+13368,49,2,498,2,2,3,322,Regular Customers
+13369,0,1,308,2,1,5,512,New Customers
+13370,6,1,754,3,1,5,513,New Customers
+13371,140,2,2297,5,2,2,225,Hibernating
+13373,50,3,4274,5,3,3,335,Regular Customers
+13374,49,2,422,2,2,3,322,Regular Customers
+13375,79,1,1013,4,1,2,214,Lost Customers
+13377,31,2,1552,4,2,4,424,Potential Loyalists
+13380,67,1,62,1,1,3,311,Regular Customers
+13381,14,6,4585,5,4,5,545,Champions
+13382,63,4,1164,4,3,3,334,Regular Customers
+13383,178,1,305,2,1,1,112,Lost Customers
+13384,25,4,2528,5,3,4,435,Potential Loyalists
+13386,49,2,835,3,2,3,323,Regular Customers
+13387,52,1,189,1,1,3,311,Regular Customers
+13388,238,1,508,3,1,1,113,Lost Customers
+13392,312,1,91,1,1,1,111,Lost Customers
+13393,218,4,1131,4,3,1,134,Hibernating
+13394,14,11,4101,5,4,5,545,Champions
+13395,35,2,872,3,2,4,423,Potential Loyalists
+13397,72,5,1647,4,3,2,234,Hibernating
+13398,83,1,213,1,1,2,211,Lost Customers
+13399,99,3,275,2,3,2,232,Hibernating
+13400,217,1,310,2,1,1,112,Lost Customers
+13402,7,3,913,3,3,5,533,Potential Loyalists
+13403,22,2,154,1,2,4,421,Potential Loyalists
+13405,116,3,641,3,3,2,233,Hibernating
+13406,62,2,568,3,2,3,323,Regular Customers
+13407,213,3,2244,5,3,1,135,Hibernating
+13408,6,46,23616,5,5,5,555,Champions
+13410,28,4,1198,4,3,4,434,Potential Loyalists
+13412,255,1,487,2,1,1,112,Lost Customers
+13413,274,6,429,2,4,1,142,At Risk
+13414,98,3,1103,4,3,2,234,Hibernating
+13415,107,4,800,3,3,2,233,Hibernating
+13416,371,1,228,1,1,1,111,Lost Customers
+13417,182,4,1028,4,3,1,134,Hibernating
+13418,7,15,6106,5,4,5,545,Champions
+13421,41,6,2252,5,4,3,345,Regular Customers
+13423,63,1,217,1,1,3,311,Regular Customers
+13424,84,1,572,3,1,2,213,Lost Customers
+13425,143,2,1779,4,2,2,224,Hibernating
+13426,17,12,4526,5,4,4,445,Loyal Customers
+13427,112,3,423,2,3,2,232,Hibernating
+13428,149,2,281,2,2,2,222,Hibernating
+13431,41,6,2047,4,4,3,344,Regular Customers
+13432,206,2,439,2,2,1,122,Hibernating
+13433,136,4,658,3,3,2,233,Hibernating
+13434,20,3,1132,4,3,4,434,Potential Loyalists
+13435,11,2,665,3,2,5,523,Potential Loyalists
+13438,182,1,46,1,1,1,111,Lost Customers
+13439,23,2,702,3,2,4,423,Potential Loyalists
+13440,58,7,1295,4,4,3,344,Regular Customers
+13441,66,1,424,2,1,3,312,Regular Customers
+13442,302,3,419,2,3,1,132,Hibernating
+13443,83,6,1280,4,4,2,244,At Risk
+13444,9,2,631,3,2,5,523,Potential Loyalists
+13445,261,1,241,1,1,1,111,Lost Customers
+13446,65,11,3881,5,4,3,345,Regular Customers
+13448,8,9,5701,5,4,5,545,Champions
+13450,9,7,2076,4,4,5,544,Champions
+13451,16,6,4214,5,4,4,445,Loyal Customers
+13452,107,1,139,1,1,2,211,Lost Customers
+13453,37,1,424,2,1,3,312,Regular Customers
+13454,276,1,219,1,1,1,111,Lost Customers
+13455,1,5,1847,4,3,5,534,Potential Loyalists
+13457,323,2,148,1,2,1,121,Hibernating
+13458,14,2,2312,5,2,5,525,Potential Loyalists
+13459,259,2,1160,4,2,1,124,Hibernating
+13461,42,3,2715,5,3,3,335,Regular Customers
+13462,45,4,1002,4,3,3,334,Regular Customers
+13464,29,5,2422,5,3,4,435,Potential Loyalists
+13465,81,2,931,3,2,2,223,Hibernating
+13466,43,4,705,3,3,3,333,Regular Customers
+13468,3,38,7685,5,5,5,555,Champions
+13469,288,1,82,1,1,1,111,Lost Customers
+13472,98,2,592,3,2,2,223,Hibernating
+13473,209,6,2235,5,4,1,145,At Risk
+13474,78,2,434,2,2,2,222,Hibernating
+13476,41,3,823,3,3,3,333,Regular Customers
+13477,90,5,1379,4,3,2,234,Hibernating
+13478,104,5,2215,5,3,2,235,Hibernating
+13479,87,2,550,3,2,2,223,Hibernating
+13480,51,2,627,3,2,3,323,Regular Customers
+13481,9,6,2026,4,4,5,544,Champions
+13482,262,1,151,1,1,1,111,Lost Customers
+13484,18,2,476,2,2,4,422,Potential Loyalists
+13485,11,10,2564,5,4,5,545,Champions
+13487,140,2,271,2,2,2,222,Hibernating
+13488,2,11,6619,5,4,5,545,Champions
+13490,289,1,154,1,1,1,111,Lost Customers
+13491,7,18,3350,5,4,5,545,Champions
+13495,3,6,3329,5,4,5,545,Champions
+13497,3,5,972,3,3,5,533,Potential Loyalists
+13498,365,1,327,2,1,1,112,Lost Customers
+13500,36,1,299,2,1,3,312,Regular Customers
+13501,121,2,1544,4,2,2,224,Hibernating
+13502,50,2,488,2,2,3,322,Regular Customers
+13503,114,5,1688,4,3,2,234,Hibernating
+13506,4,4,1180,4,3,5,534,Potential Loyalists
+13508,277,1,176,1,1,1,111,Lost Customers
+13509,142,1,135,1,1,2,211,Lost Customers
+13510,10,7,2766,5,4,5,545,Champions
+13511,311,1,282,2,1,1,112,Lost Customers
+13512,22,3,462,2,3,4,432,Potential Loyalists
+13513,76,2,619,3,2,2,223,Hibernating
+13514,63,3,663,3,3,3,333,Regular Customers
+13515,84,2,374,2,2,2,222,Hibernating
+13516,52,1,295,2,1,3,312,Regular Customers
+13519,77,1,220,1,1,2,211,Lost Customers
+13520,6,6,3285,5,4,5,545,Champions
+13523,1,2,1136,4,2,5,524,Potential Loyalists
+13526,373,2,1182,4,2,1,124,Hibernating
+13527,53,5,2396,5,3,3,335,Regular Customers
+13530,269,1,402,2,1,1,112,Lost Customers
+13531,1,5,1254,4,3,5,534,Potential Loyalists
+13534,14,10,1850,4,4,5,544,Champions
+13535,37,1,89,1,1,3,311,Regular Customers
+13537,60,2,717,3,2,3,323,Regular Customers
+13538,31,5,1831,4,3,4,434,Potential Loyalists
+13539,55,4,938,3,3,3,333,Regular Customers
+13540,102,3,632,3,3,2,233,Hibernating
+13541,62,2,785,3,2,3,323,Regular Customers
+13542,11,17,4006,5,4,5,545,Champions
+13543,269,2,1439,4,2,1,124,Hibernating
+13544,46,4,537,3,3,3,333,Regular Customers
+13545,25,2,374,2,2,4,422,Potential Loyalists
+13546,17,2,465,2,2,4,422,Potential Loyalists
+13547,43,1,175,1,1,3,311,Regular Customers
+13548,106,1,226,1,1,2,211,Lost Customers
+13549,22,1,87,1,1,4,411,New Customers
+13550,18,1,349,2,1,4,412,New Customers
+13551,301,1,152,1,1,1,111,Lost Customers
+13552,63,10,3238,5,4,3,345,Regular Customers
+13553,309,1,517,3,1,1,113,Lost Customers
+13554,15,7,1638,4,4,4,444,Loyal Customers
+13555,13,9,4849,5,4,5,545,Champions
+13556,64,2,200,1,2,3,321,Regular Customers
+13557,50,11,2448,5,4,3,345,Regular Customers
+13559,147,2,990,3,2,2,223,Hibernating
+13561,32,10,1678,4,4,4,444,Loyal Customers
+13562,36,5,3038,5,3,3,335,Regular Customers
+13564,3,35,15500,5,5,5,555,Champions
+13565,46,1,174,1,1,3,311,Regular Customers
+13566,69,3,833,3,3,3,333,Regular Customers
+13567,63,4,1083,4,3,3,334,Regular Customers
+13569,2,3,520,3,3,5,533,Potential Loyalists
+13571,17,14,2454,5,4,4,445,Loyal Customers
+13573,14,4,622,3,3,5,533,Potential Loyalists
+13574,46,1,421,2,1,3,312,Regular Customers
+13576,8,11,4834,5,4,5,545,Champions
+13577,17,7,1801,4,4,4,444,Loyal Customers
+13578,44,1,147,1,1,3,311,Regular Customers
+13579,4,4,1072,4,3,5,534,Potential Loyalists
+13580,41,1,107,1,1,3,311,Regular Customers
+13581,49,1,162,1,1,3,311,Regular Customers
+13582,24,2,241,1,2,4,421,Potential Loyalists
+13583,314,1,664,3,1,1,113,Lost Customers
+13584,133,2,250,1,2,2,221,Hibernating
+13585,165,3,684,3,3,2,233,Hibernating
+13586,176,1,131,1,1,1,111,Lost Customers
+13587,84,3,961,3,3,2,233,Hibernating
+13589,84,4,741,3,3,2,233,Hibernating
+13590,10,12,4367,5,4,5,545,Champions
+13591,70,4,976,3,3,3,333,Regular Customers
+13593,22,9,3486,5,4,4,445,Loyal Customers
+13594,120,1,136,1,1,2,211,Lost Customers
+13595,151,3,818,3,3,2,233,Hibernating
+13597,35,2,396,2,2,4,422,Potential Loyalists
+13598,130,4,609,3,3,2,233,Hibernating
+13599,1,14,5013,5,4,5,545,Champions
+13600,269,1,298,2,1,1,112,Lost Customers
+13601,27,2,491,2,2,4,422,Potential Loyalists
+13602,16,3,596,3,3,4,433,Potential Loyalists
+13604,293,1,717,3,1,1,113,Lost Customers
+13605,22,2,522,3,2,4,423,Potential Loyalists
+13607,37,1,400,2,1,3,312,Regular Customers
+13608,175,1,236,1,1,2,211,Lost Customers
+13609,228,1,167,1,1,1,111,Lost Customers
+13610,22,7,1044,4,4,4,444,Loyal Customers
+13611,9,7,2147,5,4,5,545,Champions
+13612,267,1,818,3,1,1,113,Lost Customers
+13613,87,5,1039,4,3,2,234,Hibernating
+13614,28,2,748,3,2,4,423,Potential Loyalists
+13615,34,7,5854,5,4,4,445,Loyal Customers
+13616,203,2,288,2,2,1,122,Hibernating
+13617,43,5,734,3,3,3,333,Regular Customers
+13619,179,2,231,1,2,1,121,Hibernating
+13620,163,1,112,1,1,2,211,Lost Customers
+13622,331,1,658,3,1,1,113,Lost Customers
+13623,15,5,1818,4,3,4,434,Potential Loyalists
+13624,23,1,462,2,1,4,412,New Customers
+13625,231,1,301,2,1,1,112,Lost Customers
+13626,14,1,449,2,1,5,512,New Customers
+13627,123,2,607,3,2,2,223,Hibernating
+13628,311,1,310,2,1,1,112,Lost Customers
+13629,48,8,5578,5,4,3,345,Regular Customers
+13632,29,3,1526,4,3,4,434,Potential Loyalists
+13634,9,11,3498,5,4,5,545,Champions
+13635,77,3,1928,4,3,2,234,Hibernating
+13639,71,1,312,2,1,2,212,Lost Customers
+13640,246,1,405,2,1,1,112,Lost Customers
+13641,275,5,1016,4,3,1,134,Hibernating
+13642,67,3,159,1,3,3,331,Regular Customers
+13643,17,7,1637,4,4,4,444,Loyal Customers
+13646,34,2,326,2,2,4,422,Potential Loyalists
+13647,129,4,1393,4,3,2,234,Hibernating
+13648,35,8,1764,4,4,4,444,Loyal Customers
+13649,1,5,1332,4,3,5,534,Potential Loyalists
+13650,9,4,1451,4,3,5,534,Potential Loyalists
+13651,16,1,132,1,1,4,411,New Customers
+13652,3,3,1475,4,3,5,534,Potential Loyalists
+13653,122,1,152,1,1,2,211,Lost Customers
+13654,15,5,3600,5,3,4,435,Potential Loyalists
+13655,9,4,1347,4,3,5,534,Potential Loyalists
+13656,134,2,699,3,2,2,223,Hibernating
+13658,18,4,3386,5,3,4,435,Potential Loyalists
+13659,51,10,3321,5,4,3,345,Regular Customers
+13660,35,1,314,2,1,4,412,New Customers
+13661,238,1,325,2,1,1,112,Lost Customers
+13662,20,8,1352,4,4,4,444,Loyal Customers
+13663,15,4,1858,4,3,4,434,Potential Loyalists
+13665,21,3,1711,4,3,4,434,Potential Loyalists
+13666,55,2,43,1,2,3,321,Regular Customers
+13668,18,14,6726,5,4,4,445,Loyal Customers
+13669,42,1,195,1,1,3,311,Regular Customers
+13671,29,1,194,1,1,4,411,New Customers
+13672,365,1,233,1,1,1,111,Lost Customers
+13674,67,1,240,1,1,3,311,Regular Customers
+13676,174,2,243,1,2,2,221,Hibernating
+13677,39,2,556,3,2,3,323,Regular Customers
+13679,128,3,281,2,3,2,232,Hibernating
+13680,106,8,7713,5,4,2,245,At Risk
+13683,92,1,258,2,1,2,212,Lost Customers
+13684,25,3,529,3,3,4,433,Potential Loyalists
+13686,15,2,337,2,2,4,422,Potential Loyalists
+13687,73,1,11880,5,1,2,215,Lost Customers
+13688,270,1,375,2,1,1,112,Lost Customers
+13689,79,1,349,2,1,2,212,Lost Customers
+13691,31,1,212,1,1,4,411,New Customers
+13692,43,2,1626,4,2,3,324,Regular Customers
+13693,9,9,2011,4,4,5,544,Champions
+13694,8,94,131443,5,5,5,555,Champions
+13695,212,1,266,2,1,1,112,Lost Customers
+13696,56,3,2020,4,3,3,334,Regular Customers
+13698,231,2,465,2,2,1,122,Hibernating
+13699,185,1,455,2,1,1,112,Lost Customers
+13700,52,3,348,2,3,3,332,Regular Customers
+13701,81,1,161,1,1,2,211,Lost Customers
+13702,80,1,135,1,1,2,211,Lost Customers
+13703,50,1,326,2,1,3,312,Regular Customers
+13705,8,5,1323,4,3,5,534,Potential Loyalists
+13706,261,1,300,2,1,1,112,Lost Customers
+13707,64,3,2559,5,3,3,335,Regular Customers
+13709,81,5,1263,4,3,2,234,Hibernating
+13710,58,2,329,2,2,3,322,Regular Customers
+13711,41,7,1540,4,4,3,344,Regular Customers
+13712,245,1,537,3,1,1,113,Lost Customers
+13713,43,3,743,3,3,3,333,Regular Customers
+13714,100,1,161,1,1,2,211,Lost Customers
+13715,7,13,7403,5,4,5,545,Champions
+13717,92,2,318,2,2,2,222,Hibernating
+13719,28,6,1773,4,4,4,444,Loyal Customers
+13721,30,1,217,1,1,4,411,New Customers
+13722,55,7,3260,5,4,3,345,Regular Customers
+13723,27,5,1009,4,3,4,434,Potential Loyalists
+13724,272,1,213,1,1,1,111,Lost Customers
+13727,246,6,746,3,4,1,143,At Risk
+13728,22,10,1839,4,4,4,444,Loyal Customers
+13729,70,3,724,3,3,3,333,Regular Customers
+13733,45,2,487,2,2,3,322,Regular Customers
+13734,143,4,6701,5,3,2,235,Hibernating
+13735,11,9,6927,5,4,5,545,Champions
+13736,60,5,2034,4,3,3,334,Regular Customers
+13738,31,1,440,2,1,4,412,New Customers
+13739,162,1,75,1,1,2,211,Lost Customers
+13740,50,4,1247,4,3,3,334,Regular Customers
+13745,181,1,477,2,1,1,112,Lost Customers
+13746,48,1,176,1,1,3,311,Regular Customers
+13747,8,2,169,1,2,5,521,Potential Loyalists
+13748,8,5,1320,4,3,5,534,Potential Loyalists
+13750,15,6,1954,4,4,4,444,Loyal Customers
+13752,162,1,404,2,1,2,212,Lost Customers
+13753,233,3,1353,4,3,1,134,Hibernating
+13754,72,1,164,1,1,2,211,Lost Customers
+13756,2,10,4017,5,4,5,545,Champions
+13757,309,1,195,1,1,1,111,Lost Customers
+13758,1,10,6226,5,4,5,545,Champions
+13760,39,3,1076,4,3,3,334,Regular Customers
+13761,137,4,881,3,3,2,233,Hibernating
+13762,228,4,2165,5,3,1,135,Hibernating
+13763,52,2,3502,5,2,3,325,Regular Customers
+13764,204,3,1431,4,3,1,134,Hibernating
+13765,288,1,352,2,1,1,112,Lost Customers
+13766,130,1,190,1,1,2,211,Lost Customers
+13767,4,39,18320,5,5,5,555,Champions
+13768,361,2,875,3,2,1,123,Hibernating
+13769,2,11,3003,5,4,5,545,Champions
+13770,57,4,785,3,3,3,333,Regular Customers
+13771,168,5,3094,5,3,2,235,Hibernating
+13772,35,5,1982,4,3,4,434,Potential Loyalists
+13773,31,2,301,2,2,4,422,Potential Loyalists
+13775,225,1,1049,4,1,1,114,Lost Customers
+13776,63,2,623,3,2,3,323,Regular Customers
+13777,1,37,30501,5,5,5,555,Champions
+13778,126,3,945,3,3,2,233,Hibernating
+13779,150,1,161,1,1,2,211,Lost Customers
+13780,42,1,375,2,1,3,312,Regular Customers
+13781,227,2,650,3,2,1,123,Hibernating
+13782,88,7,881,3,4,2,243,At Risk
+13783,122,4,1542,4,3,2,234,Hibernating
+13784,69,3,447,2,3,3,332,Regular Customers
+13785,63,4,542,3,3,3,333,Regular Customers
+13786,2,6,3128,5,4,5,545,Champions
+13787,93,4,913,3,3,2,233,Hibernating
+13788,140,1,3,1,1,2,211,Lost Customers
+13789,23,1,239,1,1,4,411,New Customers
+13792,57,1,188,1,1,3,311,Regular Customers
+13793,281,1,96,1,1,1,111,Lost Customers
+13794,181,1,126,1,1,1,111,Lost Customers
+13795,23,4,836,3,3,4,433,Potential Loyalists
+13796,134,1,289,2,1,2,212,Lost Customers
+13797,71,3,1179,4,3,2,234,Hibernating
+13798,7,54,38683,5,5,5,555,Champions
+13799,79,7,2114,4,4,2,244,At Risk
+13800,65,2,1121,4,2,3,324,Regular Customers
+13802,9,16,21659,5,4,5,545,Champions
+13803,66,2,1061,4,2,3,324,Regular Customers
+13804,70,2,572,3,2,3,323,Regular Customers
+13807,2,3,422,2,3,5,532,Potential Loyalists
+13809,29,2,524,3,2,4,423,Potential Loyalists
+13813,162,4,1398,4,3,2,234,Hibernating
+13814,162,1,678,3,1,2,213,Lost Customers
+13815,41,4,3448,5,3,3,335,Regular Customers
+13818,64,1,61,1,1,3,311,Regular Customers
+13819,304,3,1502,4,3,1,134,Hibernating
+13820,53,3,660,3,3,3,333,Regular Customers
+13821,28,4,1025,4,3,4,434,Potential Loyalists
+13823,15,5,2445,5,3,4,435,Potential Loyalists
+13824,14,7,1615,4,4,5,544,Champions
+13825,256,2,255,2,2,1,122,Hibernating
+13829,56,1,102,1,1,3,311,Regular Customers
+13830,216,1,156,1,1,1,111,Lost Customers
+13831,4,13,4820,5,4,5,545,Champions
+13832,57,1,561,3,1,3,313,Regular Customers
+13833,39,1,316,2,1,3,312,Regular Customers
+13834,211,2,324,2,2,1,122,Hibernating
+13835,154,3,260,2,3,2,232,Hibernating
+13836,34,2,620,3,2,4,423,Potential Loyalists
+13838,4,7,1274,4,4,5,544,Champions
+13839,121,1,139,1,1,2,211,Lost Customers
+13840,51,1,651,3,1,3,313,Regular Customers
+13842,1,10,2244,5,4,5,545,Champions
+13843,16,1,319,2,1,4,412,New Customers
+13846,34,1,442,2,1,4,412,New Customers
+13847,354,1,310,2,1,1,112,Lost Customers
+13848,1,6,2080,4,4,5,544,Champions
+13849,32,3,1931,4,3,4,434,Potential Loyalists
+13851,14,5,1955,4,3,5,534,Potential Loyalists
+13852,245,1,187,1,1,1,111,Lost Customers
+13854,0,15,4144,5,4,5,545,Champions
+13855,135,4,1310,4,3,2,234,Hibernating
+13856,98,8,753,3,4,2,243,At Risk
+13857,28,6,1001,4,4,4,444,Loyal Customers
+13859,164,1,314,2,1,2,212,Lost Customers
+13861,64,2,273,2,2,3,322,Regular Customers
+13862,24,1,346,2,1,4,412,New Customers
+13863,100,3,933,3,3,2,233,Hibernating
+13864,21,1,662,3,1,4,413,New Customers
+13869,16,6,5006,5,4,4,445,Loyal Customers
+13870,22,7,2941,5,4,4,445,Loyal Customers
+13871,63,4,1482,4,3,3,334,Regular Customers
+13872,162,3,919,3,3,2,233,Hibernating
+13873,18,5,649,3,3,4,433,Potential Loyalists
+13874,139,6,1508,4,4,2,244,At Risk
+13875,22,9,3027,5,4,4,445,Loyal Customers
+13877,105,2,332,2,2,2,222,Hibernating
+13878,182,3,1191,4,3,1,134,Hibernating
+13879,280,1,395,2,1,1,112,Lost Customers
+13880,2,5,1171,4,3,5,534,Potential Loyalists
+13881,10,23,28019,5,5,5,555,Champions
+13883,38,10,3885,5,4,3,345,Regular Customers
+13884,11,5,1100,4,3,5,534,Potential Loyalists
+13888,39,5,1563,4,3,3,334,Regular Customers
+13889,17,5,1574,4,3,4,434,Potential Loyalists
+13890,9,4,1043,4,3,5,534,Potential Loyalists
+13891,13,3,863,3,3,5,533,Potential Loyalists
+13892,112,2,634,3,2,2,223,Hibernating
+13895,150,2,1415,4,2,2,224,Hibernating
+13896,260,1,388,2,1,1,112,Lost Customers
+13897,73,2,849,3,2,2,223,Hibernating
+13898,46,1,530,3,1,3,313,Regular Customers
+13900,24,3,869,3,3,4,433,Potential Loyalists
+13901,9,10,2809,5,4,5,545,Champions
+13902,267,5,34095,5,3,1,135,Hibernating
+13903,35,1,165,1,1,4,411,New Customers
+13905,367,1,312,2,1,1,112,Lost Customers
+13906,44,1,42,1,1,3,311,Regular Customers
+13907,326,1,136,1,1,1,111,Lost Customers
+13909,58,2,286,2,2,3,322,Regular Customers
+13911,14,11,1654,4,4,5,544,Champions
+13912,58,1,124,1,1,3,311,Regular Customers
+13913,141,1,42,1,1,2,211,Lost Customers
+13915,29,1,70,1,1,4,411,New Customers
+13916,98,4,1275,4,3,2,234,Hibernating
+13919,59,2,975,3,2,3,323,Regular Customers
+13920,66,4,1774,4,3,3,334,Regular Customers
+13921,37,4,730,3,3,3,333,Regular Customers
+13922,72,2,692,3,2,2,223,Hibernating
+13927,72,1,359,2,1,2,212,Lost Customers
+13929,51,9,2651,5,4,3,345,Regular Customers
+13931,27,9,4019,5,4,4,445,Loyal Customers
+13935,231,3,6116,5,3,1,135,Hibernating
+13936,17,2,563,3,2,4,423,Potential Loyalists
+13937,37,1,721,3,1,3,313,Regular Customers
+13939,66,4,992,4,3,3,334,Regular Customers
+13941,7,11,6009,5,4,5,545,Champions
+13942,169,1,320,2,1,2,212,Lost Customers
+13943,212,1,246,1,1,1,111,Lost Customers
+13944,288,1,200,1,1,1,111,Lost Customers
+13945,29,2,854,3,2,4,423,Potential Loyalists
+13946,11,3,1314,4,3,5,534,Potential Loyalists
+13948,46,3,446,2,3,3,332,Regular Customers
+13952,15,12,9572,5,4,4,445,Loyal Customers
+13953,44,5,3125,5,3,3,335,Regular Customers
+13955,10,1,222,1,1,5,511,New Customers
+13957,52,3,458,2,3,3,332,Regular Customers
+13958,14,8,4709,5,4,5,545,Champions
+13959,34,3,477,2,3,4,432,Potential Loyalists
+13961,27,1,538,3,1,4,413,New Customers
+13962,70,1,193,1,1,3,311,Regular Customers
+13963,2,14,2347,5,4,5,545,Champions
+13964,22,2,438,2,2,4,422,Potential Loyalists
+13965,111,3,996,4,3,2,234,Hibernating
+13966,70,1,390,2,1,3,312,Regular Customers
+13967,31,1,85,1,1,4,411,New Customers
+13968,58,1,123,1,1,3,311,Regular Customers
+13969,0,18,4311,5,4,5,545,Champions
+13970,21,2,846,3,2,4,423,Potential Loyalists
+13971,58,6,1909,4,4,3,344,Regular Customers
+13974,217,1,264,2,1,1,112,Lost Customers
+13975,28,6,2832,5,4,4,445,Loyal Customers
+13976,141,3,834,3,3,2,233,Hibernating
+13977,46,1,519,3,1,3,313,Regular Customers
+13979,28,6,2546,5,4,4,445,Loyal Customers
+13980,74,4,599,3,3,2,233,Hibernating
+13981,50,1,331,2,1,3,312,Regular Customers
+13982,0,6,2573,5,4,5,545,Champions
+13983,1,10,4505,5,4,5,545,Champions
+13984,1,8,1128,4,4,5,544,Champions
+13985,9,7,2960,5,4,5,545,Champions
+13987,14,2,682,3,2,5,523,Potential Loyalists
+13988,18,2,609,3,2,4,423,Potential Loyalists
+13989,99,3,759,3,3,2,233,Hibernating
+13992,15,2,142,1,2,4,421,Potential Loyalists
+13993,14,10,3309,5,4,5,545,Champions
+13995,14,9,2508,5,4,5,545,Champions
+13996,21,2,895,3,2,4,423,Potential Loyalists
+13997,154,3,382,2,3,2,232,Hibernating
+13998,81,3,566,3,3,2,233,Hibernating
+13999,9,17,5600,5,4,5,545,Champions
+14000,49,4,1410,4,3,3,334,Regular Customers
+14001,8,7,2487,5,4,5,545,Champions
+14003,367,1,209,1,1,1,111,Lost Customers
+14004,28,4,1675,4,3,4,434,Potential Loyalists
+14006,163,4,1234,4,3,2,234,Hibernating
+14007,147,1,79,1,1,2,211,Lost Customers
+14008,67,1,509,3,1,3,313,Regular Customers
+14009,97,1,404,2,1,2,212,Lost Customers
+14010,200,2,445,2,2,1,122,Hibernating
+14011,115,2,457,2,2,2,222,Hibernating
+14013,15,2,611,3,2,4,423,Potential Loyalists
+14014,11,2,1443,4,2,5,524,Potential Loyalists
+14016,31,7,7062,5,4,4,445,Loyal Customers
+14017,206,1,229,1,1,1,111,Lost Customers
+14018,280,1,367,2,1,1,112,Lost Customers
+14020,111,2,606,3,2,2,223,Hibernating
+14021,9,4,1084,4,3,5,534,Potential Loyalists
+14022,121,1,352,2,1,2,212,Lost Customers
+14024,25,1,318,2,1,4,412,New Customers
+14025,99,8,4057,5,4,2,245,At Risk
+14026,105,2,713,3,2,2,223,Hibernating
+14028,185,3,10396,5,3,1,135,Hibernating
+14030,1,14,5902,5,4,5,545,Champions
+14031,0,27,23712,5,5,5,555,Champions
+14032,1,6,1874,4,4,5,544,Champions
+14033,190,1,109,1,1,1,111,Lost Customers
+14035,41,4,1428,4,3,3,334,Regular Customers
+14037,113,4,689,3,3,2,233,Hibernating
+14038,32,2,1509,4,2,4,424,Potential Loyalists
+14039,210,1,115,1,1,1,111,Lost Customers
+14040,21,23,9030,5,5,4,455,Loyal Customers
+14042,360,1,431,2,1,1,112,Lost Customers
+14043,126,2,304,2,2,2,222,Hibernating
+14044,53,6,2470,5,4,3,345,Regular Customers
+14045,8,13,9653,5,4,5,545,Champions
+14047,7,10,2946,5,4,5,545,Champions
+14048,17,2,338,2,2,4,422,Potential Loyalists
+14049,22,9,7557,5,4,4,445,Loyal Customers
+14051,1,15,6823,5,4,5,545,Champions
+14052,25,1,255,2,1,4,412,New Customers
+14053,32,2,312,2,2,4,422,Potential Loyalists
+14055,212,2,795,3,2,1,123,Hibernating
+14057,16,5,2190,5,3,4,435,Potential Loyalists
+14058,97,2,469,2,2,2,222,Hibernating
+14060,1,13,3378,5,4,5,545,Champions
+14061,142,3,917,3,3,2,233,Hibernating
+14062,9,12,15139,5,4,5,545,Champions
+14063,73,9,22710,5,4,2,245,At Risk
+14064,65,10,1978,4,4,3,344,Regular Customers
+14065,24,3,891,3,3,4,433,Potential Loyalists
+14068,238,3,1262,4,3,1,134,Hibernating
+14069,149,2,230,1,2,2,221,Hibernating
+14070,319,1,326,2,1,1,112,Lost Customers
+14072,301,1,390,2,1,1,112,Lost Customers
+14074,258,1,219,1,1,1,111,Lost Customers
+14075,38,3,792,3,3,3,333,Regular Customers
+14077,30,1,115,1,1,4,411,New Customers
+14078,8,4,643,3,3,5,533,Potential Loyalists
+14079,317,1,243,1,1,1,111,Lost Customers
+14080,48,4,1070,4,3,3,334,Regular Customers
+14081,4,9,4435,5,4,5,545,Champions
+14082,27,1,231,1,1,4,411,New Customers
+14083,6,3,388,2,3,5,532,Potential Loyalists
+14084,147,1,150,1,1,2,211,Lost Customers
+14085,3,16,5656,5,4,5,545,Champions
+14086,97,1,39,1,1,2,211,Lost Customers
+14087,39,2,651,3,2,3,323,Regular Customers
+14088,41,3,13544,5,3,3,335,Regular Customers
+14091,289,2,9530,5,2,1,125,Hibernating
+14092,9,10,3152,5,4,5,545,Champions
+14094,74,1,335,2,1,2,212,Lost Customers
+14095,357,1,2,1,1,1,111,Lost Customers
+14097,116,2,422,2,2,2,222,Hibernating
+14099,10,9,2661,5,4,5,545,Champions
+14101,23,7,3985,5,4,4,445,Loyal Customers
+14103,300,1,0,1,1,1,111,Lost Customers
+14104,24,3,555,3,3,4,433,Potential Loyalists
+14105,43,4,4722,5,3,3,335,Regular Customers
+14106,372,1,214,1,1,1,111,Lost Customers
+14107,83,4,2174,5,3,2,235,Hibernating
+14108,366,2,447,2,2,1,122,Hibernating
+14110,70,21,7304,5,5,3,355,Regular Customers
+14112,86,6,2919,5,4,2,245,At Risk
+14113,10,12,5252,5,4,5,545,Champions
+14114,30,5,977,3,3,4,433,Potential Loyalists
+14115,136,2,622,3,2,2,223,Hibernating
+14118,63,1,458,2,1,3,312,Regular Customers
+14119,10,2,183,1,2,5,521,Potential Loyalists
+14122,41,3,362,2,3,3,332,Regular Customers
+14123,368,1,436,2,1,1,112,Lost Customers
+14126,79,1,466,2,1,2,212,Lost Customers
+14127,15,3,1190,4,3,4,434,Potential Loyalists
+14128,186,1,286,2,1,1,112,Lost Customers
+14129,34,4,1467,4,3,4,434,Potential Loyalists
+14130,10,3,1398,4,3,5,534,Potential Loyalists
+14131,283,1,187,1,1,1,111,Lost Customers
+14133,368,1,305,2,1,1,112,Lost Customers
+14134,17,15,11123,5,4,4,445,Loyal Customers
+14135,2,11,4953,5,4,5,545,Champions
+14136,35,5,1570,4,3,4,434,Potential Loyalists
+14137,330,1,332,2,1,1,112,Lost Customers
+14139,125,3,670,3,3,2,233,Hibernating
+14142,8,2,671,3,2,5,523,Potential Loyalists
+14144,121,1,30,1,1,2,211,Lost Customers
+14145,94,3,3857,5,3,2,235,Hibernating
+14146,18,7,5259,5,4,4,445,Loyal Customers
+14147,23,7,2106,4,4,4,444,Loyal Customers
+14148,49,1,309,2,1,3,312,Regular Customers
+14151,308,2,679,3,2,1,123,Hibernating
+14152,22,5,1376,4,3,4,434,Potential Loyalists
+14153,118,1,233,1,1,2,211,Lost Customers
+14154,16,6,5115,5,4,4,445,Loyal Customers
+14156,6,102,196566,5,5,5,555,Champions
+14157,24,3,569,3,3,4,433,Potential Loyalists
+14159,14,9,3245,5,4,5,545,Champions
+14160,245,7,8421,5,4,1,145,At Risk
+14161,4,5,2208,5,3,5,535,Potential Loyalists
+14163,97,1,148,1,1,2,211,Lost Customers
+14166,140,2,256,2,2,2,222,Hibernating
+14167,99,4,721,3,3,2,233,Hibernating
+14168,55,2,370,2,2,3,322,Regular Customers
+14169,65,2,624,3,2,3,323,Regular Customers
+14170,10,3,597,3,3,5,533,Potential Loyalists
+14171,365,1,135,1,1,1,111,Lost Customers
+14172,240,3,402,2,3,1,132,Hibernating
+14173,276,2,135,1,2,1,121,Hibernating
+14175,53,5,4456,5,3,3,335,Regular Customers
+14176,2,2,339,2,2,5,522,Potential Loyalists
+14177,16,9,1669,4,4,4,444,Loyal Customers
+14180,7,9,1570,4,4,5,544,Champions
+14181,45,2,310,2,2,3,322,Regular Customers
+14182,78,4,678,3,3,2,233,Hibernating
+14183,46,2,286,2,2,3,322,Regular Customers
+14186,62,5,1550,4,3,3,334,Regular Customers
+14187,108,1,123,1,1,2,211,Lost Customers
+14189,3,2,1160,4,2,5,524,Potential Loyalists
+14190,301,1,79,1,1,1,111,Lost Customers
+14191,29,2,132,1,2,4,421,Potential Loyalists
+14192,23,1,293,2,1,4,412,New Customers
+14193,31,1,356,2,1,4,412,New Customers
+14194,27,15,7321,5,4,4,445,Loyal Customers
+14195,74,4,1603,4,3,2,234,Hibernating
+14197,45,1,390,2,1,3,312,Regular Customers
+14198,35,5,868,3,3,4,433,Potential Loyalists
+14199,58,3,906,3,3,3,333,Regular Customers
+14200,252,1,379,2,1,1,112,Lost Customers
+14201,44,3,446,2,3,3,332,Regular Customers
+14202,16,3,847,3,3,4,433,Potential Loyalists
+14203,32,1,339,2,1,4,412,New Customers
+14204,57,3,901,3,3,3,333,Regular Customers
+14205,29,7,1947,4,4,4,444,Loyal Customers
+14206,23,2,856,3,2,4,423,Potential Loyalists
+14207,322,1,157,1,1,1,111,Lost Customers
+14208,186,1,415,2,1,1,112,Lost Customers
+14209,20,9,2919,5,4,4,445,Loyal Customers
+14210,6,11,3955,5,4,5,545,Champions
+14211,46,9,2161,5,4,3,345,Regular Customers
+14212,80,1,1119,4,1,2,214,Lost Customers
+14213,39,1,1192,4,1,3,314,Regular Customers
+14215,3,4,1626,4,3,5,534,Potential Loyalists
+14216,49,1,310,2,1,3,312,Regular Customers
+14217,1,7,1411,4,4,5,544,Champions
+14219,44,2,543,3,2,3,323,Regular Customers
+14220,202,2,882,3,2,1,123,Hibernating
+14221,84,8,3084,5,4,2,245,At Risk
+14224,25,5,847,3,3,4,433,Potential Loyalists
+14225,69,4,2037,4,3,3,334,Regular Customers
+14226,76,1,770,3,1,2,213,Lost Customers
+14227,49,5,3017,5,3,3,335,Regular Customers
+14228,72,3,745,3,3,2,233,Hibernating
+14229,38,4,1046,4,3,3,334,Regular Customers
+14230,70,3,979,3,3,3,333,Regular Customers
+14231,85,1,309,2,1,2,212,Lost Customers
+14233,100,3,1441,4,3,2,234,Hibernating
+14235,133,4,1573,4,3,2,234,Hibernating
+14236,7,4,1253,4,3,5,534,Potential Loyalists
+14237,8,2,471,2,2,5,522,Potential Loyalists
+14238,297,2,287,2,2,1,122,Hibernating
+14239,66,10,1882,4,4,3,344,Regular Customers
+14240,58,1,357,2,1,3,312,Regular Customers
+14241,331,1,120,1,1,1,111,Lost Customers
+14243,0,8,4842,5,4,5,545,Champions
+14244,295,1,366,2,1,1,112,Lost Customers
+14247,39,4,635,3,3,3,333,Regular Customers
+14248,94,2,730,3,2,2,223,Hibernating
+14249,45,12,5625,5,4,3,345,Regular Customers
+14252,16,1,350,2,1,4,412,New Customers
+14253,128,2,363,2,2,2,222,Hibernating
+14254,67,1,601,3,1,3,313,Regular Customers
+14255,181,1,1000,4,1,1,114,Lost Customers
+14256,126,3,1504,4,3,2,234,Hibernating
+14257,15,4,2854,5,3,4,435,Potential Loyalists
+14258,30,16,19381,5,4,4,445,Loyal Customers
+14260,106,3,824,3,3,2,233,Hibernating
+14263,58,1,322,2,1,3,312,Regular Customers
+14264,14,4,1183,4,3,5,534,Potential Loyalists
+14265,99,2,843,3,2,2,223,Hibernating
+14266,63,1,40,1,1,3,311,Regular Customers
+14268,105,1,354,2,1,2,212,Lost Customers
+14269,74,1,295,2,1,2,212,Lost Customers
+14271,44,1,106,1,1,3,311,Regular Customers
+14272,197,2,482,2,2,1,122,Hibernating
+14274,321,1,256,2,1,1,112,Lost Customers
+14275,30,6,1189,4,4,4,444,Loyal Customers
+14276,42,4,982,3,3,3,333,Regular Customers
+14277,46,6,13009,5,4,3,345,Regular Customers
+14278,44,1,205,1,1,3,311,Regular Customers
+14279,155,2,191,1,2,2,221,Hibernating
+14281,43,1,245,1,1,3,311,Regular Customers
+14282,2,11,4120,5,4,5,545,Champions
+14283,98,4,628,3,3,2,233,Hibernating
+14284,288,1,704,3,1,1,113,Lost Customers
+14285,148,4,1374,4,3,2,234,Hibernating
+14286,39,4,3851,5,3,3,335,Regular Customers
+14290,48,3,2201,5,3,3,335,Regular Customers
+14291,15,12,4020,5,4,4,445,Loyal Customers
+14292,45,7,4354,5,4,3,345,Regular Customers
+14293,3,6,2221,5,4,5,545,Champions
+14294,42,1,375,2,1,3,312,Regular Customers
+14295,73,4,2196,5,3,2,235,Hibernating
+14296,56,2,456,2,2,3,322,Regular Customers
+14298,10,38,39667,5,5,5,555,Champions
+14299,0,19,10533,5,4,5,545,Champions
+14301,51,3,1352,4,3,3,334,Regular Customers
+14302,65,3,742,3,3,3,333,Regular Customers
+14303,42,2,277,2,2,3,322,Regular Customers
+14304,14,2,1341,4,2,5,524,Potential Loyalists
+14306,13,4,1058,4,3,5,534,Potential Loyalists
+14307,8,5,2075,4,3,5,534,Potential Loyalists
+14308,184,2,1147,4,2,1,124,Hibernating
+14309,48,2,1428,4,2,3,324,Regular Customers
+14310,67,1,492,2,1,3,312,Regular Customers
+14311,202,1,206,1,1,1,111,Lost Customers
+14312,13,5,1478,4,3,5,534,Potential Loyalists
+14314,65,1,109,1,1,3,311,Regular Customers
+14315,199,2,716,3,2,1,123,Hibernating
+14316,57,5,1370,4,3,3,334,Regular Customers
+14318,95,1,158,1,1,2,211,Lost Customers
+14319,59,1,494,2,1,3,312,Regular Customers
+14320,181,3,868,3,3,1,133,Hibernating
+14321,66,2,687,3,2,3,323,Regular Customers
+14322,64,4,474,2,3,3,332,Regular Customers
+14324,44,2,701,3,2,3,323,Regular Customers
+14325,204,1,245,1,1,1,111,Lost Customers
+14326,98,2,757,3,2,2,223,Hibernating
+14327,17,5,1583,4,3,4,434,Potential Loyalists
+14328,73,1,445,2,1,2,212,Lost Customers
+14329,10,8,4912,5,4,5,545,Champions
+14330,258,1,200,1,1,1,111,Lost Customers
+14332,16,2,1077,4,2,4,424,Potential Loyalists
+14334,60,4,1766,4,3,3,334,Regular Customers
+14338,171,1,339,2,1,2,212,Lost Customers
+14339,63,1,310,2,1,3,312,Regular Customers
+14341,55,10,2285,5,4,3,345,Regular Customers
+14342,67,2,249,1,2,3,321,Regular Customers
+14343,56,4,1088,4,3,3,334,Regular Customers
+14344,2,14,2443,5,4,5,545,Champions
+14346,60,3,1294,4,3,3,334,Regular Customers
+14347,371,1,82,1,1,1,111,Lost Customers
+14350,15,2,689,3,2,4,423,Potential Loyalists
+14353,45,2,285,2,2,3,322,Regular Customers
+14355,0,3,840,3,3,5,533,Potential Loyalists
+14358,24,2,400,2,2,4,422,Potential Loyalists
+14361,213,1,214,1,1,1,111,Lost Customers
+14363,37,2,227,1,2,3,321,Regular Customers
+14365,29,2,634,3,2,4,423,Potential Loyalists
+14366,160,1,136,1,1,2,211,Lost Customers
+14369,277,2,469,2,2,1,122,Hibernating
+14370,85,6,1175,4,4,2,244,At Risk
+14372,78,2,860,3,2,2,223,Hibernating
+14374,176,1,108,1,1,1,111,Lost Customers
+14375,85,2,875,3,2,2,223,Hibernating
+14376,318,1,215,1,1,1,111,Lost Customers
+14378,256,1,131,1,1,1,111,Lost Customers
+14379,28,2,920,3,2,4,423,Potential Loyalists
+14380,317,1,48,1,1,1,111,Lost Customers
+14381,86,1,428,2,1,2,212,Lost Customers
+14382,25,1,620,3,1,4,413,New Customers
+14384,135,1,58,1,1,2,211,Lost Customers
+14388,7,9,3488,5,4,5,545,Champions
+14389,59,3,854,3,3,3,333,Regular Customers
+14390,7,5,1747,4,3,5,534,Potential Loyalists
+14391,211,1,135,1,1,1,111,Lost Customers
+14392,67,1,266,2,1,3,312,Regular Customers
+14394,199,1,93,1,1,1,111,Lost Customers
+14395,7,12,4700,5,4,5,545,Champions
+14396,6,6,1633,4,4,5,544,Champions
+14398,36,2,707,3,2,3,323,Regular Customers
+14399,29,8,2113,4,4,4,444,Loyal Customers
+14400,43,2,1157,4,2,3,324,Regular Customers
+14401,59,9,2744,5,4,3,345,Regular Customers
+14402,287,1,285,2,1,1,112,Lost Customers
+14403,224,2,404,2,2,1,122,Hibernating
+14404,4,8,1424,4,4,5,544,Champions
+14405,21,1,195,1,1,4,411,New Customers
+14408,106,4,1503,4,3,2,234,Hibernating
+14409,3,5,1696,4,3,5,534,Potential Loyalists
+14410,11,2,1546,4,2,5,524,Potential Loyalists
+14412,59,1,656,3,1,3,313,Regular Customers
+14413,45,3,647,3,3,3,333,Regular Customers
+14414,9,1,902,3,1,5,513,New Customers
+14415,14,10,6191,5,4,5,545,Champions
+14417,22,1,604,3,1,4,413,New Customers
+14419,17,1,202,1,1,4,411,New Customers
+14420,31,3,1251,4,3,4,434,Potential Loyalists
+14421,147,4,1656,4,3,2,234,Hibernating
+14422,9,13,6007,5,4,5,545,Champions
+14423,72,2,651,3,2,2,223,Hibernating
+14425,69,3,661,3,3,3,333,Regular Customers
+14426,38,7,7246,5,4,3,345,Regular Customers
+14427,129,2,900,3,2,2,223,Hibernating
+14429,38,1,516,3,1,3,313,Regular Customers
+14430,146,3,1220,4,3,2,234,Hibernating
+14431,14,3,2143,4,3,5,534,Potential Loyalists
+14433,100,1,289,2,1,2,212,Lost Customers
+14435,136,1,90,1,1,2,211,Lost Customers
+14436,188,1,182,1,1,1,111,Lost Customers
+14437,0,5,895,3,3,5,533,Potential Loyalists
+14439,78,4,6781,5,3,2,235,Hibernating
+14440,0,9,4281,5,4,5,545,Champions
+14441,9,7,2898,5,4,5,545,Champions
+14442,49,5,3777,5,3,3,335,Regular Customers
+14443,3,2,966,3,2,5,523,Potential Loyalists
+14444,91,1,132,1,1,2,211,Lost Customers
+14445,90,1,221,1,1,2,211,Lost Customers
+14446,21,1,201,1,1,4,411,New Customers
+14447,35,1,548,3,1,4,413,New Customers
+14449,7,5,1575,4,3,5,534,Potential Loyalists
+14450,14,4,645,3,3,5,533,Potential Loyalists
+14451,24,10,2646,5,4,4,445,Loyal Customers
+14452,30,2,401,2,2,4,422,Potential Loyalists
+14454,11,5,977,3,3,5,533,Potential Loyalists
+14455,67,4,628,3,3,3,333,Regular Customers
+14458,15,1,237,1,1,4,411,New Customers
+14459,286,1,3537,5,1,1,115,Lost Customers
+14460,31,6,659,3,4,4,443,Loyal Customers
+14461,17,10,4610,5,4,4,445,Loyal Customers
+14462,67,1,265,2,1,3,312,Regular Customers
+14463,134,1,256,2,1,2,212,Lost Customers
+14464,203,2,111,1,2,1,121,Hibernating
+14465,63,8,2887,5,4,3,345,Regular Customers
+14466,7,7,2374,5,4,5,545,Champions
+14467,24,8,1622,4,4,4,444,Loyal Customers
+14468,368,1,204,1,1,1,111,Lost Customers
+14469,51,4,2112,4,3,3,334,Regular Customers
+14470,65,1,250,1,1,3,311,Regular Customers
+14471,226,2,400,2,2,1,122,Hibernating
+14472,324,1,291,2,1,1,112,Lost Customers
+14474,214,1,730,3,1,1,113,Lost Customers
+14475,43,1,225,1,1,3,311,Regular Customers
+14477,71,3,660,3,3,2,233,Hibernating
+14478,17,4,1276,4,3,4,434,Potential Loyalists
+14479,0,3,982,3,3,5,533,Potential Loyalists
+14480,37,3,1020,4,3,3,334,Regular Customers
+14481,42,3,1674,4,3,3,334,Regular Customers
+14482,14,6,2289,5,4,5,545,Champions
+14483,371,1,120,1,1,1,111,Lost Customers
+14484,36,3,749,3,3,3,333,Regular Customers
+14486,146,2,175,1,2,2,221,Hibernating
+14487,3,2,257,2,2,5,522,Potential Loyalists
+14489,72,3,1111,4,3,2,234,Hibernating
+14490,41,2,1273,4,2,3,324,Regular Customers
+14491,7,1,127,1,1,5,511,New Customers
+14492,65,7,1921,4,4,3,344,Regular Customers
+14493,25,5,2746,5,3,4,435,Potential Loyalists
+14494,36,2,261,2,2,3,322,Regular Customers
+14495,294,1,51,1,1,1,111,Lost Customers
+14496,8,6,2129,4,4,5,544,Champions
+14497,308,1,221,1,1,1,111,Lost Customers
+14498,36,5,1953,4,3,3,334,Regular Customers
+14499,9,4,1323,4,3,5,534,Potential Loyalists
+14505,39,11,6096,5,4,3,345,Regular Customers
+14506,4,3,1278,4,3,5,534,Potential Loyalists
+14507,13,5,1901,4,3,5,534,Potential Loyalists
+14508,11,3,598,3,3,5,533,Potential Loyalists
+14509,169,1,110,1,1,2,211,Lost Customers
+14510,10,3,1007,4,3,5,534,Potential Loyalists
+14512,18,5,948,3,3,4,433,Potential Loyalists
+14513,71,3,332,2,3,2,232,Hibernating
+14514,71,6,3543,5,4,2,245,At Risk
+14515,22,6,1647,4,4,4,444,Loyal Customers
+14516,151,1,163,1,1,2,211,Lost Customers
+14519,318,2,206,1,2,1,121,Hibernating
+14521,126,1,199,1,1,2,211,Lost Customers
+14522,230,4,784,3,3,1,133,Hibernating
+14524,44,4,1066,4,3,3,334,Regular Customers
+14525,63,8,3908,5,4,3,345,Regular Customers
+14526,24,1,262,2,1,4,412,New Customers
+14527,0,69,19283,5,5,5,555,Champions
+14530,31,10,3271,5,4,4,445,Loyal Customers
+14531,114,1,376,2,1,2,212,Lost Customers
+14532,46,7,2926,5,4,3,345,Regular Customers
+14533,42,4,1516,4,3,3,334,Regular Customers
+14534,32,8,1824,4,4,4,444,Loyal Customers
+14535,30,6,3166,5,4,4,445,Loyal Customers
+14537,258,1,285,2,1,1,112,Lost Customers
+14538,165,3,982,3,3,2,233,Hibernating
+14540,14,8,2799,5,4,5,545,Champions
+14541,51,6,1038,4,4,3,344,Regular Customers
+14543,15,23,11276,5,5,4,455,Loyal Customers
+14544,105,1,957,3,1,2,213,Lost Customers
+14545,309,1,349,2,1,1,112,Lost Customers
+14546,11,6,2619,5,4,5,545,Champions
+14548,119,7,1974,4,4,2,244,At Risk
+14549,55,3,627,3,3,3,333,Regular Customers
+14550,23,2,587,3,2,4,423,Potential Loyalists
+14551,46,5,693,3,3,3,333,Regular Customers
+14552,15,2,346,2,2,4,422,Potential Loyalists
+14553,46,4,982,3,3,3,333,Regular Customers
+14555,16,4,1991,4,3,4,434,Potential Loyalists
+14556,231,3,835,3,3,1,133,Hibernating
+14558,289,3,655,3,3,1,133,Hibernating
+14559,25,1,75,1,1,4,411,New Customers
+14560,14,22,3876,5,5,5,555,Champions
+14562,25,8,1654,4,4,4,444,Loyal Customers
+14563,144,2,679,3,2,2,223,Hibernating
+14564,69,2,2605,5,2,3,325,Regular Customers
+14565,108,1,760,3,1,2,213,Lost Customers
+14566,52,3,2660,5,3,3,335,Regular Customers
+14568,70,1,919,3,1,3,313,Regular Customers
+14569,87,3,371,2,3,2,232,Hibernating
+14570,78,1,395,2,1,2,212,Lost Customers
+14571,60,1,161,1,1,3,311,Regular Customers
+14572,52,4,2782,5,3,3,335,Regular Customers
+14573,7,5,968,3,3,5,533,Potential Loyalists
+14574,367,1,143,1,1,1,111,Lost Customers
+14575,123,1,460,2,1,2,212,Lost Customers
+14576,7,1,35,1,1,5,511,New Customers
+14577,29,3,514,3,3,4,433,Potential Loyalists
+14579,67,1,105,1,1,3,311,Regular Customers
+14580,153,1,14,1,1,2,211,Lost Customers
+14581,179,1,295,2,1,1,112,Lost Customers
+14583,18,3,728,3,3,4,433,Potential Loyalists
+14584,56,4,705,3,3,3,333,Regular Customers
+14585,17,4,986,3,3,4,433,Potential Loyalists
+14588,213,1,135,1,1,1,111,Lost Customers
+14589,6,1,39,1,1,5,511,New Customers
+14590,59,20,3006,5,4,3,345,Regular Customers
+14593,32,9,3094,5,4,4,445,Loyal Customers
+14594,8,1,255,2,1,5,512,New Customers
+14595,88,2,423,2,2,2,222,Hibernating
+14596,261,1,229,1,1,1,111,Lost Customers
+14597,14,4,1318,4,3,5,534,Potential Loyalists
+14598,204,1,162,1,1,1,111,Lost Customers
+14599,25,2,474,2,2,4,422,Potential Loyalists
+14600,28,1,471,2,1,4,412,New Customers
+14602,291,1,205,1,1,1,111,Lost Customers
+14604,268,1,143,1,1,1,111,Lost Customers
+14605,9,4,937,3,3,5,533,Potential Loyalists
+14606,1,102,18704,5,5,5,555,Champions
+14607,102,8,7568,5,4,2,245,At Risk
+14608,14,7,1567,4,4,5,544,Champions
+14609,25,6,884,3,4,4,443,Loyal Customers
+14610,30,2,24,1,2,4,421,Potential Loyalists
+14611,78,2,604,3,2,2,223,Hibernating
+14612,50,1,877,3,1,3,313,Regular Customers
+14613,315,1,76,1,1,1,111,Lost Customers
+14614,21,1,295,2,1,4,412,New Customers
+14615,29,5,951,3,3,4,433,Potential Loyalists
+14616,20,2,121,1,2,4,421,Potential Loyalists
+14617,37,2,190,1,2,3,321,Regular Customers
+14618,11,4,788,3,3,5,533,Potential Loyalists
+14619,176,1,896,3,1,1,113,Lost Customers
+14621,146,4,1212,4,3,2,234,Hibernating
+14623,15,5,1170,4,3,4,434,Potential Loyalists
+14624,50,4,588,3,3,3,333,Regular Customers
+14625,9,9,3598,5,4,5,545,Champions
+14626,30,7,2619,5,4,4,445,Loyal Customers
+14627,14,1,462,2,1,5,512,New Customers
+14628,77,3,1326,4,3,2,234,Hibernating
+14630,119,1,338,2,1,2,212,Lost Customers
+14631,21,3,1018,4,3,4,434,Potential Loyalists
+14634,72,4,2124,4,3,2,234,Hibernating
+14635,88,1,215,1,1,2,211,Lost Customers
+14637,312,1,106,1,1,1,111,Lost Customers
+14639,43,3,1994,4,3,3,334,Regular Customers
+14640,44,4,1541,4,3,3,334,Regular Customers
+14643,252,3,986,3,3,1,133,Hibernating
+14644,49,5,1416,4,3,3,334,Regular Customers
+14645,269,1,279,2,1,1,112,Lost Customers
+14646,9,78,248396,5,5,5,555,Champions
+14647,158,1,276,2,1,2,212,Lost Customers
+14648,51,15,4546,5,4,3,345,Regular Customers
+14649,17,5,2358,5,3,4,435,Potential Loyalists
+14650,223,1,62,1,1,1,111,Lost Customers
+14651,29,7,1379,4,4,4,444,Loyal Customers
+14653,148,5,1666,4,3,2,234,Hibernating
+14654,373,1,246,1,1,1,111,Lost Customers
+14655,23,3,1946,4,3,4,434,Potential Loyalists
+14656,50,3,523,3,3,3,333,Regular Customers
+14657,64,2,612,3,2,3,323,Regular Customers
+14662,62,3,645,3,3,3,333,Regular Customers
+14663,65,2,490,2,2,3,322,Regular Customers
+14665,62,2,913,3,2,3,323,Regular Customers
+14667,0,31,12685,5,5,5,555,Champions
+14668,80,1,111,1,1,2,211,Lost Customers
+14669,268,4,1973,4,3,1,134,Hibernating
+14670,367,1,190,1,1,1,111,Lost Customers
+14671,184,2,1127,4,2,1,124,Hibernating
+14672,150,2,347,2,2,2,222,Hibernating
+14673,2,3,1674,4,3,5,534,Potential Loyalists
+14674,144,1,173,1,1,2,211,Lost Customers
+14675,23,1,462,2,1,4,412,New Customers
+14676,29,6,5808,5,4,4,445,Loyal Customers
+14677,227,1,184,1,1,1,111,Lost Customers
+14678,214,1,403,2,1,1,112,Lost Customers
+14679,16,3,1289,4,3,4,434,Potential Loyalists
+14680,6,43,28658,5,5,5,555,Champions
+14681,22,3,376,2,3,4,432,Potential Loyalists
+14682,63,4,1462,4,3,3,334,Regular Customers
+14683,223,1,146,1,1,1,111,Lost Customers
+14684,25,1,232,1,1,4,411,New Customers
+14685,211,8,4619,5,4,1,145,At Risk
+14686,49,5,885,3,3,3,333,Regular Customers
+14687,35,2,773,3,2,4,423,Potential Loyalists
+14688,8,8,2082,4,4,5,544,Champions
+14690,27,2,422,2,2,4,422,Potential Loyalists
+14692,15,8,1153,4,4,4,444,Loyal Customers
+14693,60,6,992,4,4,3,344,Regular Customers
+14694,252,1,244,1,1,1,111,Lost Customers
+14695,154,3,1620,4,3,2,234,Hibernating
+14696,8,2,688,3,2,5,523,Potential Loyalists
+14699,70,3,593,3,3,3,333,Regular Customers
+14700,50,2,880,3,2,3,323,Regular Customers
+14701,77,6,2012,4,4,2,244,At Risk
+14702,0,13,3462,5,4,5,545,Champions
+14704,59,2,266,2,2,3,322,Regular Customers
+14706,253,1,390,2,1,1,112,Lost Customers
+14707,70,2,139,1,2,3,321,Regular Customers
+14708,3,3,1085,4,3,5,534,Potential Loyalists
+14709,14,12,3965,5,4,5,545,Champions
+14710,14,9,1316,4,4,5,544,Champions
+14712,53,1,411,2,1,3,312,Regular Customers
+14713,0,11,2752,5,4,5,545,Champions
+14714,42,3,746,3,3,3,333,Regular Customers
+14715,77,4,973,3,3,2,233,Hibernating
+14716,79,1,235,1,1,2,211,Lost Customers
+14717,368,1,81,1,1,1,111,Lost Customers
+14718,45,1,226,1,1,3,311,Regular Customers
+14721,14,1,115,1,1,5,511,New Customers
+14722,112,2,325,2,2,2,222,Hibernating
+14723,6,7,934,3,4,5,543,Loyal Customers
+14724,225,1,345,2,1,1,112,Lost Customers
+14725,29,3,597,3,3,4,433,Potential Loyalists
+14726,289,1,124,1,1,1,111,Lost Customers
+14727,181,2,199,1,2,1,121,Hibernating
+14728,48,1,190,1,1,3,311,Regular Customers
+14729,8,3,593,3,3,5,533,Potential Loyalists
+14732,27,11,2814,5,4,4,445,Loyal Customers
+14733,2,4,6599,5,3,5,535,Potential Loyalists
+14734,60,4,1056,4,3,3,334,Regular Customers
+14735,23,24,6174,5,5,4,455,Loyal Customers
+14736,120,2,401,2,2,2,222,Hibernating
+14737,35,1,2389,5,1,4,415,New Customers
+14738,195,2,507,3,2,1,123,Hibernating
+14739,2,19,8385,5,4,5,545,Champions
+14740,44,8,2712,5,4,3,345,Regular Customers
+14741,7,2,497,2,2,5,522,Potential Loyalists
+14742,70,1,579,3,1,3,313,Regular Customers
+14743,227,1,50,1,1,1,111,Lost Customers
+14744,1,8,2785,5,4,5,545,Champions
+14745,136,7,1351,4,4,2,244,At Risk
+14746,41,4,593,3,3,3,333,Regular Customers
+14748,3,7,1736,4,4,5,544,Champions
+14749,114,1,310,2,1,2,212,Lost Customers
+14750,371,1,112,1,1,1,111,Lost Customers
+14751,319,2,126,1,2,1,121,Hibernating
+14753,95,1,306,2,1,2,212,Lost Customers
+14754,60,4,912,3,3,3,333,Regular Customers
+14755,16,14,4962,5,4,4,445,Loyal Customers
+14756,17,2,1914,4,2,4,424,Potential Loyalists
+14758,31,3,1380,4,3,4,434,Potential Loyalists
+14761,79,1,192,1,1,2,211,Lost Customers
+14762,261,1,117,1,1,1,111,Lost Customers
+14766,1,6,4082,5,4,5,545,Champions
+14767,109,1,382,2,1,2,212,Lost Customers
+14769,25,9,5097,5,4,4,445,Loyal Customers
+14770,102,6,2761,5,4,2,245,At Risk
+14771,256,2,594,3,2,1,123,Hibernating
+14773,227,1,140,1,1,1,111,Lost Customers
+14774,163,1,241,1,1,2,211,Lost Customers
+14775,7,1,406,2,1,5,512,New Customers
+14776,22,4,1170,4,3,4,434,Potential Loyalists
+14777,38,1,307,2,1,3,312,Regular Customers
+14783,294,1,307,2,1,1,112,Lost Customers
+14784,24,1,159,1,1,4,411,New Customers
+14786,185,1,90,1,1,1,111,Lost Customers
+14787,106,1,110,1,1,2,211,Lost Customers
+14788,231,1,476,2,1,1,112,Lost Customers
+14790,9,6,1781,4,4,5,544,Champions
+14791,241,1,303,2,1,1,112,Lost Customers
+14793,170,1,396,2,1,2,212,Lost Customers
+14794,37,3,633,3,3,3,333,Regular Customers
+14796,1,11,2867,5,4,5,545,Champions
+14797,142,1,300,2,1,2,212,Lost Customers
+14798,16,5,550,3,3,4,433,Potential Loyalists
+14799,372,1,180,1,1,1,111,Lost Customers
+14800,4,6,3434,5,4,5,545,Champions
+14802,73,2,1502,4,2,2,224,Hibernating
+14805,39,3,549,3,3,3,333,Regular Customers
+14806,74,1,110,1,1,2,211,Lost Customers
+14807,25,2,519,3,2,4,423,Potential Loyalists
+14809,256,2,686,3,2,1,123,Hibernating
+14810,4,3,449,2,3,5,532,Potential Loyalists
+14811,22,1,170,1,1,4,411,New Customers
+14812,233,1,185,1,1,1,111,Lost Customers
+14813,4,4,935,3,3,5,533,Potential Loyalists
+14814,216,1,160,1,1,1,111,Lost Customers
+14817,30,5,2849,5,3,4,435,Potential Loyalists
+14818,93,3,512,3,3,2,233,Hibernating
+14819,129,2,198,1,2,2,221,Hibernating
+14820,15,5,767,3,3,4,433,Potential Loyalists
+14821,1,7,1237,4,4,5,544,Champions
+14822,120,1,157,1,1,2,211,Lost Customers
+14824,14,6,2895,5,4,5,545,Champions
+14825,3,13,2698,5,4,5,545,Champions
+14826,216,2,385,2,2,1,122,Hibernating
+14827,300,1,0,1,1,1,111,Lost Customers
+14828,23,10,7699,5,4,4,445,Loyal Customers
+14829,7,4,995,4,3,5,534,Potential Loyalists
+14831,315,3,1676,4,3,1,134,Hibernating
+14832,265,1,322,2,1,1,112,Lost Customers
+14833,133,1,94,1,1,2,211,Lost Customers
+14834,42,1,485,2,1,3,312,Regular Customers
+14835,163,2,297,2,2,2,222,Hibernating
+14837,77,5,1810,4,3,2,234,Hibernating
+14838,58,2,773,3,2,3,323,Regular Customers
+14839,53,3,915,3,3,3,333,Regular Customers
+14840,174,1,299,2,1,2,212,Lost Customers
+14841,9,8,3867,5,4,5,545,Champions
+14843,71,1,211,1,1,2,211,Lost Customers
+14844,65,6,3512,5,4,3,345,Regular Customers
+14845,234,1,150,1,1,1,111,Lost Customers
+14846,62,1,437,2,1,3,312,Regular Customers
+14847,42,2,1039,4,2,3,324,Regular Customers
+14848,39,1,310,2,1,3,312,Regular Customers
+14849,8,21,7832,5,5,5,555,Champions
+14850,52,6,1468,4,4,3,344,Regular Customers
+14851,265,1,318,2,1,1,112,Lost Customers
+14852,59,12,3310,5,4,3,345,Regular Customers
+14853,58,3,901,3,3,3,333,Regular Customers
+14854,25,4,1563,4,3,4,434,Potential Loyalists
+14855,109,5,5874,5,3,2,235,Hibernating
+14857,77,5,2478,5,3,2,235,Hibernating
+14858,140,1,180,1,1,2,211,Lost Customers
+14859,189,1,351,2,1,1,112,Lost Customers
+14861,15,9,1254,4,4,4,444,Loyal Customers
+14865,7,3,77,1,3,5,531,Potential Loyalists
+14866,1,8,6460,5,4,5,545,Champions
+14867,30,13,2241,5,4,4,445,Loyal Customers
+14868,15,4,1230,4,3,4,434,Potential Loyalists
+14869,23,4,2078,4,3,4,434,Potential Loyalists
+14870,48,5,1511,4,3,3,334,Regular Customers
+14871,128,5,736,3,3,2,233,Hibernating
+14872,118,3,816,3,3,2,233,Hibernating
+14873,268,1,334,2,1,1,112,Lost Customers
+14874,170,1,116,1,1,2,211,Lost Customers
+14875,76,1,1397,4,1,2,214,Lost Customers
+14876,156,2,256,2,2,2,222,Hibernating
+14877,53,2,437,2,2,3,322,Regular Customers
+14878,11,16,2619,5,4,5,545,Champions
+14879,319,1,185,1,1,1,111,Lost Customers
+14882,25,12,3038,5,4,4,445,Loyal Customers
+14884,304,1,120,1,1,1,111,Lost Customers
+14885,62,2,832,3,2,3,323,Regular Customers
+14890,253,2,691,3,2,1,123,Hibernating
+14891,51,2,552,3,2,3,323,Regular Customers
+14892,325,1,202,1,1,1,111,Lost Customers
+14893,252,1,571,3,1,1,113,Lost Customers
+14894,78,2,837,3,2,2,223,Hibernating
+14895,18,18,13980,5,4,4,445,Loyal Customers
+14896,0,7,1623,4,4,5,544,Champions
+14897,44,4,1774,4,3,3,334,Regular Customers
+14898,6,9,2204,5,4,5,545,Champions
+14899,30,1,1384,4,1,4,414,New Customers
+14900,157,1,13,1,1,2,211,Lost Customers
+14901,1,5,868,3,3,5,533,Potential Loyalists
+14902,30,2,702,3,2,4,423,Potential Loyalists
+14904,43,2,615,3,2,3,323,Regular Customers
+14905,9,6,1355,4,4,5,544,Champions
+14906,80,1,68,1,1,2,211,Lost Customers
+14907,2,10,2664,5,4,5,545,Champions
+14908,98,1,104,1,1,2,211,Lost Customers
+14909,72,3,1404,4,3,2,234,Hibernating
+14911,0,205,152147,5,5,5,555,Champions
+14912,36,4,1021,4,3,3,334,Regular Customers
+14913,23,4,2845,5,3,4,435,Potential Loyalists
+14915,10,9,1503,4,4,5,544,Champions
+14916,66,4,1773,4,3,3,334,Regular Customers
+14917,231,2,1123,4,2,1,124,Hibernating
+14918,39,7,4345,5,4,3,345,Regular Customers
+14919,174,1,359,2,1,2,212,Lost Customers
+14920,200,1,629,3,1,1,113,Lost Customers
+14922,28,2,843,3,2,4,423,Potential Loyalists
+14924,245,2,620,3,2,1,123,Hibernating
+14926,16,2,359,2,2,4,422,Potential Loyalists
+14927,31,1,308,2,1,4,412,New Customers
+14928,262,1,223,1,1,1,111,Lost Customers
+14929,56,1,612,3,1,3,313,Regular Customers
+14930,105,3,2873,5,3,2,235,Hibernating
+14932,0,2,666,3,2,5,523,Potential Loyalists
+14933,78,4,1770,4,3,2,234,Hibernating
+14934,13,3,1612,4,3,5,534,Potential Loyalists
+14935,254,1,1065,4,1,1,114,Lost Customers
+14936,25,4,4273,5,3,4,435,Potential Loyalists
+14938,197,2,2322,5,2,1,125,Hibernating
+14940,52,2,531,3,2,3,323,Regular Customers
+14941,213,1,182,1,1,1,111,Lost Customers
+14942,36,4,746,3,3,3,333,Regular Customers
+14943,298,1,107,1,1,1,111,Lost Customers
+14944,24,7,3884,5,4,4,445,Loyal Customers
+14945,48,1,179,1,1,3,311,Regular Customers
+14947,23,4,758,3,3,4,433,Potential Loyalists
+14949,104,4,515,3,3,2,233,Hibernating
+14952,31,21,9529,5,5,4,455,Loyal Customers
+14953,53,3,723,3,3,3,333,Regular Customers
+14954,338,1,167,1,1,1,111,Lost Customers
+14955,367,1,163,1,1,1,111,Lost Customers
+14956,56,1,1325,4,1,3,314,Regular Customers
+14957,279,1,274,2,1,1,112,Lost Customers
+14958,230,3,458,2,3,1,132,Hibernating
+14961,14,13,9365,5,4,5,545,Champions
+14962,174,3,240,1,3,2,231,Hibernating
+14963,14,7,1676,4,4,5,544,Champions
+14966,22,5,924,3,3,4,433,Potential Loyalists
+14967,76,5,1518,4,3,2,234,Hibernating
+14968,93,1,357,2,1,2,212,Lost Customers
+14969,338,1,906,3,1,1,113,Lost Customers
+14970,44,8,3327,5,4,3,345,Regular Customers
+14972,16,1,30,1,1,4,411,New Customers
+14975,56,1,192,1,1,3,311,Regular Customers
+14977,360,1,31,1,1,1,111,Lost Customers
+14978,65,5,1210,4,3,3,334,Regular Customers
+14979,370,1,439,2,1,1,112,Lost Customers
+14980,372,1,150,1,1,1,111,Lost Customers
+14981,58,1,270,2,1,3,312,Regular Customers
+14982,207,1,237,1,1,1,111,Lost Customers
+14983,324,1,183,1,1,1,111,Lost Customers
+14984,23,4,1058,4,3,4,434,Potential Loyalists
+14986,11,2,566,3,2,5,523,Potential Loyalists
+14987,0,7,1387,4,4,5,544,Champions
+14988,15,6,1732,4,4,4,444,Loyal Customers
+14989,296,1,342,2,1,1,112,Lost Customers
+14990,247,2,305,2,2,1,122,Hibernating
+14991,65,1,314,2,1,3,312,Regular Customers
+14992,77,1,210,1,1,2,211,Lost Customers
+14993,198,1,36,1,1,1,111,Lost Customers
+14994,17,5,960,3,3,4,433,Potential Loyalists
+14996,116,2,442,2,2,2,222,Hibernating
+14997,290,1,230,1,1,1,111,Lost Customers
+14998,63,2,340,2,2,3,322,Regular Customers
+14999,227,1,129,1,1,1,111,Lost Customers
+15001,29,2,230,1,2,4,421,Potential Loyalists
+15002,2,6,3175,5,4,5,545,Champions
+15003,108,6,1060,4,4,2,244,At Risk
+15005,1,29,7789,5,5,5,555,Champions
+15006,88,1,323,2,1,2,212,Lost Customers
+15008,115,2,360,2,2,2,222,Hibernating
+15011,30,2,416,2,2,4,422,Potential Loyalists
+15012,8,2,437,2,2,5,522,Potential Loyalists
+15013,122,10,1641,4,4,2,244,At Risk
+15015,136,13,2365,5,4,2,245,At Risk
+15016,28,4,460,2,3,4,432,Potential Loyalists
+15018,2,1,111,1,1,5,511,New Customers
+15020,14,1,203,1,1,5,511,New Customers
+15021,1,4,869,3,3,5,533,Potential Loyalists
+15022,312,1,281,2,1,1,112,Lost Customers
+15023,4,10,5367,5,4,5,545,Champions
+15024,2,8,2414,5,4,5,545,Champions
+15025,203,1,636,3,1,1,113,Lost Customers
+15026,10,2,592,3,2,5,523,Potential Loyalists
+15027,30,6,2129,4,4,4,444,Loyal Customers
+15028,3,3,530,3,3,5,533,Potential Loyalists
+15029,254,1,365,2,1,1,112,Lost Customers
+15030,15,6,1461,4,4,4,444,Loyal Customers
+15031,29,10,2488,5,4,4,445,Loyal Customers
+15032,1,7,8821,5,4,5,545,Champions
+15034,21,6,4004,5,4,4,445,Loyal Customers
+15037,11,2,402,2,2,5,522,Potential Loyalists
+15038,4,4,604,3,3,5,533,Potential Loyalists
+15039,3,47,20116,5,5,5,555,Champions
+15040,176,1,7,1,1,1,111,Lost Customers
+15041,79,1,113,1,1,2,211,Lost Customers
+15042,230,1,179,1,1,1,111,Lost Customers
+15043,98,5,2336,5,3,2,235,Hibernating
+15044,14,18,8504,5,4,5,545,Champions
+15046,60,10,2598,5,4,3,345,Regular Customers
+15048,3,1,98,1,1,5,511,New Customers
+15050,56,2,2411,5,2,3,325,Regular Customers
+15051,14,6,2543,5,4,5,545,Champions
+15055,109,3,560,3,3,2,233,Hibernating
+15056,155,1,133,1,1,2,211,Lost Customers
+15057,78,3,1766,4,3,2,234,Hibernating
+15058,11,5,1285,4,3,5,534,Potential Loyalists
+15059,11,10,2185,5,4,5,545,Champions
+15061,2,86,83284,5,5,5,555,Champions
+15062,58,4,1597,4,3,3,334,Regular Customers
+15064,45,4,1254,4,3,3,334,Regular Customers
+15065,45,1,168,1,1,3,311,Regular Customers
+15067,48,2,2133,4,2,3,324,Regular Customers
+15068,53,2,623,3,2,3,323,Regular Customers
+15070,7,3,737,3,3,5,533,Potential Loyalists
+15071,21,2,473,2,2,4,422,Potential Loyalists
+15072,114,1,187,1,1,2,211,Lost Customers
+15073,35,5,1744,4,3,4,434,Potential Loyalists
+15074,64,2,817,3,2,3,323,Regular Customers
+15076,127,2,566,3,2,2,223,Hibernating
+15077,129,2,2428,5,2,2,225,Hibernating
+15078,3,23,8018,5,5,5,555,Champions
+15079,0,8,2871,5,4,5,545,Champions
+15080,62,2,546,3,2,3,323,Regular Customers
+15081,2,8,1460,4,4,5,544,Champions
+15082,303,1,93,1,1,1,111,Lost Customers
+15084,14,2,965,3,2,5,523,Potential Loyalists
+15085,364,1,347,2,1,1,112,Lost Customers
+15086,199,2,218,1,2,1,121,Hibernating
+15091,309,2,565,3,2,1,123,Hibernating
+15092,97,1,318,2,1,2,212,Lost Customers
+15093,7,18,9729,5,4,5,545,Champions
+15094,98,2,83,1,2,2,221,Hibernating
+15095,55,6,1771,4,4,3,344,Regular Customers
+15097,218,2,660,3,2,1,123,Hibernating
+15100,1,6,2018,4,4,5,544,Champions
+15101,150,4,1160,4,3,2,234,Hibernating
+15102,165,2,554,3,2,2,223,Hibernating
+15105,65,2,795,3,2,3,323,Regular Customers
+15107,7,4,620,3,3,5,533,Potential Loyalists
+15109,214,2,498,2,2,1,122,Hibernating
+15110,38,2,509,3,2,3,323,Regular Customers
+15111,7,3,1163,4,3,5,534,Potential Loyalists
+15112,246,1,209,1,1,1,111,Lost Customers
+15114,18,2,639,3,2,4,423,Potential Loyalists
+15115,367,1,191,1,1,1,111,Lost Customers
+15117,83,3,934,3,3,2,233,Hibernating
+15122,57,8,2863,5,4,3,345,Regular Customers
+15123,56,3,2456,5,3,3,335,Regular Customers
+15124,111,2,266,2,2,2,222,Hibernating
+15125,114,9,5496,5,4,2,245,At Risk
+15126,171,2,449,2,2,2,222,Hibernating
+15127,154,1,304,2,1,2,212,Lost Customers
+15128,65,1,312,2,1,3,312,Regular Customers
+15129,20,12,3412,5,4,4,445,Loyal Customers
+15131,29,1,80,1,1,4,411,New Customers
+15133,17,2,824,3,2,4,423,Potential Loyalists
+15134,16,2,208,1,2,4,421,Potential Loyalists
+15135,191,1,166,1,1,1,111,Lost Customers
+15137,155,2,823,3,2,2,223,Hibernating
+15138,28,1,502,2,1,4,412,New Customers
+15140,77,1,889,3,1,2,213,Lost Customers
+15141,92,7,1388,4,4,2,244,At Risk
+15142,45,5,2121,4,3,3,334,Regular Customers
+15143,67,1,304,2,1,3,312,Regular Customers
+15144,14,12,5579,5,4,5,545,Champions
+15149,211,4,1033,4,3,1,134,Hibernating
+15150,91,3,3686,5,3,2,235,Hibernating
+15151,58,2,2085,4,2,3,324,Regular Customers
+15152,336,1,518,3,1,1,113,Lost Customers
+15154,113,2,1091,4,2,2,224,Hibernating
+15155,18,1,383,2,1,4,412,New Customers
+15157,204,2,718,3,2,1,123,Hibernating
+15158,36,1,204,1,1,3,311,Regular Customers
+15159,30,4,3475,5,3,4,435,Potential Loyalists
+15160,9,3,431,2,3,5,532,Potential Loyalists
+15161,23,1,119,1,1,4,411,New Customers
+15162,366,1,312,2,1,1,112,Lost Customers
+15164,24,6,1225,4,4,4,444,Loyal Customers
+15165,8,1,487,2,1,5,512,New Customers
+15166,102,1,167,1,1,2,211,Lost Customers
+15167,42,4,1496,4,3,3,334,Regular Customers
+15169,17,2,569,3,2,4,423,Potential Loyalists
+15170,41,1,81,1,1,3,311,Regular Customers
+15173,15,7,1494,4,4,4,444,Loyal Customers
+15174,45,1,345,2,1,3,312,Regular Customers
+15176,302,1,988,3,1,1,113,Lost Customers
+15177,60,1,948,3,1,3,313,Regular Customers
+15179,27,8,5284,5,4,4,445,Loyal Customers
+15180,2,3,816,3,3,5,533,Potential Loyalists
+15181,55,2,510,3,2,3,323,Regular Customers
+15182,20,9,2376,5,4,4,445,Loyal Customers
+15183,182,3,639,3,3,1,133,Hibernating
+15184,22,2,283,2,2,4,422,Potential Loyalists
+15186,109,3,991,4,3,2,234,Hibernating
+15188,360,1,310,2,1,1,112,Lost Customers
+15189,16,5,1298,4,3,4,434,Potential Loyalists
+15190,69,1,834,3,1,3,313,Regular Customers
+15191,98,3,588,3,3,2,233,Hibernating
+15192,0,3,937,3,3,5,533,Potential Loyalists
+15194,3,14,4811,5,4,5,545,Champions
+15196,67,2,316,2,2,3,322,Regular Customers
+15197,29,3,797,3,3,4,433,Potential Loyalists
+15198,43,3,377,2,3,3,332,Regular Customers
+15199,9,6,1853,4,4,5,544,Champions
+15200,129,1,549,3,1,2,213,Lost Customers
+15201,74,2,606,3,2,2,223,Hibernating
+15202,55,3,6001,5,3,3,335,Regular Customers
+15203,25,9,2572,5,4,4,445,Loyal Customers
+15207,51,3,683,3,3,3,333,Regular Customers
+15208,58,1,100,1,1,3,311,Regular Customers
+15209,365,1,178,1,1,1,111,Lost Customers
+15210,13,2,845,3,2,5,523,Potential Loyalists
+15211,0,1,383,2,1,5,512,New Customers
+15212,11,1,106,1,1,5,511,New Customers
+15215,28,4,1687,4,3,4,434,Potential Loyalists
+15216,253,1,389,2,1,1,112,Lost Customers
+15217,198,1,426,2,1,1,112,Lost Customers
+15218,24,11,5759,5,4,4,445,Loyal Customers
+15219,283,1,379,2,1,1,112,Lost Customers
+15221,1,4,2062,4,3,5,534,Potential Loyalists
+15222,107,10,2965,5,4,2,245,At Risk
+15223,244,3,662,3,3,1,133,Hibernating
+15224,147,3,549,3,3,2,233,Hibernating
+15227,31,4,1269,4,3,4,434,Potential Loyalists
+15228,63,2,2193,5,2,3,325,Regular Customers
+15229,221,1,160,1,1,1,111,Lost Customers
+15231,256,1,250,1,1,1,111,Lost Customers
+15233,36,1,59,1,1,3,311,Regular Customers
+15235,4,6,690,3,4,5,543,Loyal Customers
+15240,9,7,2753,5,4,5,545,Champions
+15241,65,3,1293,4,3,3,334,Regular Customers
+15242,57,1,302,2,1,3,312,Regular Customers
+15243,70,1,610,3,1,3,313,Regular Customers
+15244,301,1,280,2,1,1,112,Lost Customers
+15245,37,5,2095,4,3,3,334,Regular Customers
+15246,190,1,266,2,1,1,112,Lost Customers
+15247,112,2,620,3,2,2,223,Hibernating
+15248,46,3,1893,4,3,3,334,Regular Customers
+15249,65,5,2577,5,3,3,335,Regular Customers
+15250,275,1,60,1,1,1,111,Lost Customers
+15251,49,10,9839,5,4,3,345,Regular Customers
+15252,56,3,1362,4,3,3,334,Regular Customers
+15253,38,3,1136,4,3,3,334,Regular Customers
+15254,181,2,787,3,2,1,123,Hibernating
+15255,31,8,2838,5,4,4,445,Loyal Customers
+15256,196,1,71,1,1,1,111,Lost Customers
+15257,49,1,368,2,1,3,312,Regular Customers
+15259,147,4,1182,4,3,2,234,Hibernating
+15260,7,20,7377,5,4,5,545,Champions
+15261,16,3,1253,4,3,4,434,Potential Loyalists
+15262,15,2,239,1,2,4,421,Potential Loyalists
+15264,165,1,454,2,1,2,212,Lost Customers
+15265,239,2,1839,4,2,1,124,Hibernating
+15266,14,4,732,3,3,5,533,Potential Loyalists
+15268,113,3,961,3,3,2,233,Hibernating
+15269,15,2,816,3,2,4,423,Potential Loyalists
+15270,35,14,6145,5,4,4,445,Loyal Customers
+15271,0,10,2202,5,4,5,545,Champions
+15272,85,4,1363,4,3,2,234,Hibernating
+15273,234,1,228,1,1,1,111,Lost Customers
+15276,29,3,514,3,3,4,433,Potential Loyalists
+15277,60,1,220,1,1,3,311,Regular Customers
+15278,196,4,496,2,3,1,132,Hibernating
+15279,15,4,1290,4,3,4,434,Potential Loyalists
+15280,123,2,293,2,2,2,222,Hibernating
+15281,13,7,6211,5,4,5,545,Champions
+15282,205,1,348,2,1,1,112,Lost Customers
+15283,25,3,148,1,3,4,431,Potential Loyalists
+15284,135,1,24,1,1,2,211,Lost Customers
+15285,42,1,94,1,1,3,311,Regular Customers
+15287,14,3,369,2,3,5,532,Potential Loyalists
+15288,0,6,1576,4,4,5,544,Champions
+15289,93,2,653,3,2,2,223,Hibernating
+15290,28,8,2553,5,4,4,445,Loyal Customers
+15291,8,26,9178,5,5,5,555,Champions
+15293,300,1,247,1,1,1,111,Lost Customers
+15294,45,1,233,1,1,3,311,Regular Customers
+15295,289,1,217,1,1,1,111,Lost Customers
+15296,55,6,6669,5,4,3,345,Regular Customers
+15298,1,12,4659,5,4,5,545,Champions
+15299,7,6,3484,5,4,5,545,Champions
+15301,3,6,2533,5,4,5,545,Champions
+15302,365,1,308,2,1,1,112,Lost Customers
+15303,200,2,650,3,2,1,123,Hibernating
+15304,3,2,225,1,2,5,521,Potential Loyalists
+15305,190,1,93,1,1,1,111,Lost Customers
+15306,135,6,2310,5,4,2,245,At Risk
+15309,245,4,797,3,3,1,133,Hibernating
+15310,113,1,1634,4,1,2,214,Lost Customers
+15311,0,121,56003,5,5,5,555,Champions
+15312,18,8,2005,4,4,4,444,Loyal Customers
+15314,48,2,492,2,2,3,322,Regular Customers
+15317,312,1,129,1,1,1,111,Lost Customers
+15321,72,9,3961,5,4,2,245,At Risk
+15322,111,1,711,3,1,2,213,Lost Customers
+15323,197,3,434,2,3,1,132,Hibernating
+15324,336,1,140,1,1,1,111,Lost Customers
+15325,30,7,1439,4,4,4,444,Loyal Customers
+15326,244,4,1388,4,3,1,134,Hibernating
+15328,42,1,107,1,1,3,311,Regular Customers
+15329,9,8,1934,4,4,5,544,Champions
+15331,134,3,767,3,3,2,233,Hibernating
+15332,1,6,4892,5,4,5,545,Champions
+15336,36,1,240,1,1,3,311,Regular Customers
+15337,46,1,373,2,1,3,312,Regular Customers
+15338,312,1,283,2,1,1,112,Lost Customers
+15339,56,5,1253,4,3,3,334,Regular Customers
+15340,196,1,105,1,1,1,111,Lost Customers
+15341,84,1,382,2,1,2,212,Lost Customers
+15346,60,2,343,2,2,3,322,Regular Customers
+15347,1,4,1162,4,3,5,534,Potential Loyalists
+15350,8,2,547,3,2,5,523,Potential Loyalists
+15351,4,4,1778,4,3,5,534,Potential Loyalists
+15352,183,1,114,1,1,1,111,Lost Customers
+15353,2,6,2398,5,4,5,545,Champions
+15354,238,3,284,2,3,1,132,Hibernating
+15356,3,4,698,3,3,5,533,Potential Loyalists
+15358,0,22,8703,5,5,5,555,Champions
+15359,297,8,181,1,4,1,141,At Risk
+15361,161,3,270,2,3,2,232,Hibernating
+15362,83,2,613,3,2,2,223,Hibernating
+15363,7,2,678,3,2,5,523,Potential Loyalists
+15365,38,6,2242,5,4,3,345,Regular Customers
+15366,44,5,1786,4,3,3,334,Regular Customers
+15367,53,7,3203,5,4,3,345,Regular Customers
+15368,29,1,275,2,1,4,412,New Customers
+15369,127,11,6251,5,4,2,245,At Risk
+15370,45,1,1352,4,1,3,314,Regular Customers
+15371,297,1,59,1,1,1,111,Lost Customers
+15372,85,7,4009,5,4,2,245,At Risk
+15373,6,6,1005,4,4,5,544,Champions
+15374,259,1,139,1,1,1,111,Lost Customers
+15375,325,1,60,1,1,1,111,Lost Customers
+15377,17,4,1211,4,3,4,434,Potential Loyalists
+15378,97,2,246,1,2,2,221,Hibernating
+15379,35,1,1174,4,1,4,414,New Customers
+15380,0,7,1788,4,4,5,544,Champions
+15381,58,3,1293,4,3,3,334,Regular Customers
+15382,9,6,7777,5,4,5,545,Champions
+15384,16,2,1385,4,2,4,424,Potential Loyalists
+15385,27,2,625,3,2,4,423,Potential Loyalists
+15387,127,1,468,2,1,2,212,Lost Customers
+15389,35,4,2233,5,3,4,435,Potential Loyalists
+15390,31,2,1216,4,2,4,424,Potential Loyalists
+15391,219,1,289,2,1,1,112,Lost Customers
+15392,9,3,1376,4,3,5,534,Potential Loyalists
+15393,202,3,659,3,3,1,133,Hibernating
+15394,30,7,3103,5,4,4,445,Loyal Customers
+15396,218,1,508,3,1,1,113,Lost Customers
+15400,55,3,586,3,3,3,333,Regular Customers
+15401,87,2,216,1,2,2,221,Hibernating
+15402,22,4,1203,4,3,4,434,Potential Loyalists
+15403,126,2,170,1,2,2,221,Hibernating
+15404,10,1,257,2,1,5,512,New Customers
+15405,211,1,310,2,1,1,112,Lost Customers
+15406,88,2,465,2,2,2,222,Hibernating
+15409,356,1,131,1,1,1,111,Lost Customers
+15410,203,2,1234,4,2,1,124,Hibernating
+15413,326,5,6798,5,3,1,135,Hibernating
+15416,113,3,588,3,3,2,233,Hibernating
+15418,60,2,452,2,2,3,322,Regular Customers
+15420,69,6,743,3,4,3,343,Regular Customers
+15421,20,6,2854,5,4,4,445,Loyal Customers
+15422,14,5,1522,4,3,5,534,Potential Loyalists
+15423,216,2,223,1,2,1,121,Hibernating
+15424,98,1,214,1,1,2,211,Lost Customers
+15425,35,4,1944,4,3,4,434,Potential Loyalists
+15426,4,5,1168,4,3,5,534,Potential Loyalists
+15428,22,3,668,3,3,4,433,Potential Loyalists
+15430,102,2,954,3,2,2,223,Hibernating
+15431,137,1,153,1,1,2,211,Lost Customers
+15432,176,1,149,1,1,1,111,Lost Customers
+15434,9,6,1525,4,4,5,544,Champions
+15437,275,1,193,1,1,1,111,Lost Customers
+15439,39,4,1269,4,3,3,334,Regular Customers
+15441,31,3,1254,4,3,4,434,Potential Loyalists
+15443,109,7,1939,4,4,2,244,At Risk
+15445,225,1,171,1,1,1,111,Lost Customers
+15446,11,3,406,2,3,5,532,Potential Loyalists
+15447,162,4,337,2,3,2,232,Hibernating
+15448,309,1,294,2,1,1,112,Lost Customers
+15451,69,2,233,1,2,3,321,Regular Customers
+15452,25,3,1260,4,3,4,434,Potential Loyalists
+15454,253,1,128,1,1,1,111,Lost Customers
+15455,232,1,38,1,1,1,111,Lost Customers
+15456,38,7,1672,4,4,3,344,Regular Customers
+15458,37,1,208,1,1,3,311,Regular Customers
+15459,52,2,202,1,2,3,321,Regular Customers
+15461,95,2,429,2,2,2,222,Hibernating
+15462,80,1,502,2,1,2,212,Lost Customers
+15465,4,15,5301,5,4,5,545,Champions
+15466,24,3,1236,4,3,4,434,Potential Loyalists
+15468,27,1,962,3,1,4,413,New Customers
+15469,73,1,335,2,1,2,212,Lost Customers
+15470,210,1,63,1,1,1,111,Lost Customers
+15471,15,2,847,3,2,4,423,Potential Loyalists
+15473,79,1,274,2,1,2,212,Lost Customers
+15474,230,1,163,1,1,1,111,Lost Customers
+15476,15,4,2209,5,3,4,435,Potential Loyalists
+15477,284,1,368,2,1,1,112,Lost Customers
+15478,210,1,583,3,1,1,113,Lost Customers
+15479,368,1,147,1,1,1,111,Lost Customers
+15480,100,4,5373,5,3,2,235,Hibernating
+15481,36,1,1993,4,1,3,314,Regular Customers
+15482,21,7,3537,5,4,4,445,Loyal Customers
+15483,20,6,628,3,4,4,443,Loyal Customers
+15484,175,2,1061,4,2,2,224,Hibernating
+15485,8,5,3196,5,3,5,535,Potential Loyalists
+15486,162,1,102,1,1,2,211,Lost Customers
+15487,314,1,231,1,1,1,111,Lost Customers
+15488,91,4,340,2,3,2,232,Hibernating
+15489,35,5,1285,4,3,4,434,Potential Loyalists
+15490,65,1,217,1,1,3,311,Regular Customers
+15493,24,4,2313,5,3,4,435,Potential Loyalists
+15494,113,3,2480,5,3,2,235,Hibernating
+15495,14,1,246,1,1,5,511,New Customers
+15496,266,1,146,1,1,1,111,Lost Customers
+15497,17,7,7395,5,4,4,445,Loyal Customers
+15498,1,19,12723,5,4,5,545,Champions
+15499,358,1,161,1,1,1,111,Lost Customers
+15501,39,2,402,2,2,3,322,Regular Customers
+15502,3,5,3608,5,3,5,535,Potential Loyalists
+15503,361,1,120,1,1,1,111,Lost Customers
+15504,155,3,371,2,3,2,232,Hibernating
+15506,16,3,1060,4,3,4,434,Potential Loyalists
+15509,15,1,166,1,1,4,411,New Customers
+15512,25,2,210,1,2,4,421,Potential Loyalists
+15513,0,18,12992,5,4,5,545,Champions
+15514,14,7,2459,5,4,5,545,Champions
+15515,22,1,171,1,1,4,411,New Customers
+15518,14,7,2276,5,4,5,545,Champions
+15519,18,2,344,2,2,4,422,Potential Loyalists
+15521,35,8,4106,5,4,4,445,Loyal Customers
+15523,23,15,16947,5,4,4,445,Loyal Customers
+15524,241,1,151,1,1,1,111,Lost Customers
+15525,8,2,469,2,2,5,522,Potential Loyalists
+15527,29,15,3145,5,4,4,445,Loyal Customers
+15529,1,2,1116,4,2,5,524,Potential Loyalists
+15530,147,1,311,2,1,2,212,Lost Customers
+15532,11,6,2190,5,4,5,545,Champions
+15534,360,1,162,1,1,1,111,Lost Customers
+15535,39,2,551,3,2,3,323,Regular Customers
+15536,44,1,259,2,1,3,312,Regular Customers
+15538,172,6,3358,5,4,2,245,At Risk
+15540,10,1,247,1,1,5,511,New Customers
+15542,147,3,918,3,3,2,233,Hibernating
+15543,94,1,114,1,1,2,211,Lost Customers
+15544,7,12,4615,5,4,5,545,Champions
+15545,6,1,135,1,1,5,511,New Customers
+15546,241,2,1079,4,2,1,124,Hibernating
+15547,11,12,5199,5,4,5,545,Champions
+15548,230,1,158,1,1,1,111,Lost Customers
+15549,56,5,652,3,3,3,333,Regular Customers
+15550,13,8,1643,4,4,5,544,Champions
+15551,29,6,1274,4,4,4,444,Loyal Customers
+15552,258,1,162,1,1,1,111,Lost Customers
+15555,0,22,7307,5,5,5,555,Champions
+15558,274,1,214,1,1,1,111,Lost Customers
+15559,203,1,1109,4,1,1,114,Lost Customers
+15560,32,2,153,1,2,4,421,Potential Loyalists
+15561,18,4,1133,4,3,4,434,Potential Loyalists
+15562,59,2,538,3,2,3,323,Regular Customers
+15563,149,3,1466,4,3,2,234,Hibernating
+15564,98,2,70,1,2,2,221,Hibernating
+15566,27,2,227,1,2,4,421,Potential Loyalists
+15569,25,5,2210,5,3,4,435,Potential Loyalists
+15570,4,14,5145,5,4,5,545,Champions
+15571,21,10,3401,5,4,4,445,Loyal Customers
+15572,15,3,1515,4,3,4,434,Potential Loyalists
+15573,253,3,599,3,3,1,133,Hibernating
+15574,7,3,816,3,3,5,533,Potential Loyalists
+15575,254,1,30,1,1,1,111,Lost Customers
+15577,358,2,139,1,2,1,121,Hibernating
+15579,18,3,953,3,3,4,433,Potential Loyalists
+15580,11,8,1381,4,4,5,544,Champions
+15581,1,26,4114,5,5,5,555,Champions
+15583,11,1,107,1,1,5,511,New Customers
+15584,34,2,552,3,2,4,423,Potential Loyalists
+15586,227,3,1139,4,3,1,134,Hibernating
+15587,27,3,608,3,3,4,433,Potential Loyalists
+15588,312,1,579,3,1,1,113,Lost Customers
+15590,17,5,1496,4,3,4,434,Potential Loyalists
+15591,217,3,217,1,3,1,131,Hibernating
+15595,122,1,357,2,1,2,212,Lost Customers
+15596,0,5,1723,4,3,5,534,Potential Loyalists
+15597,210,1,238,1,1,1,111,Lost Customers
+15598,62,1,307,2,1,3,312,Regular Customers
+15599,80,1,488,2,1,2,212,Lost Customers
+15600,63,4,1199,4,3,3,334,Regular Customers
+15601,7,17,8183,5,4,5,545,Champions
+15602,3,8,1932,4,4,5,544,Champions
+15603,283,1,40,1,1,1,111,Lost Customers
+15605,8,5,738,3,3,5,533,Potential Loyalists
+15606,25,8,2310,5,4,4,445,Loyal Customers
+15607,178,8,1604,4,4,1,144,At Risk
+15608,50,1,692,3,1,3,313,Regular Customers
+15611,18,13,1405,4,4,4,444,Loyal Customers
+15613,245,1,433,2,1,1,112,Lost Customers
+15614,72,4,3147,5,3,2,235,Hibernating
+15615,25,24,10974,5,5,4,455,Loyal Customers
+15616,73,1,317,2,1,2,212,Lost Customers
+15617,31,3,828,3,3,4,433,Potential Loyalists
+15620,44,1,389,2,1,3,312,Regular Customers
+15622,62,8,4143,5,4,3,345,Regular Customers
+15623,28,7,2136,4,4,4,444,Loyal Customers
+15625,11,5,1702,4,3,5,534,Potential Loyalists
+15626,56,1,391,2,1,3,312,Regular Customers
+15627,92,2,566,3,2,2,223,Hibernating
+15628,1,9,2782,5,4,5,545,Champions
+15629,85,4,2240,5,3,2,235,Hibernating
+15630,279,1,295,2,1,1,112,Lost Customers
+15631,277,1,596,3,1,1,113,Lost Customers
+15633,144,13,4352,5,4,2,245,At Risk
+15634,18,1,311,2,1,4,412,New Customers
+15635,30,1,100,1,1,4,411,New Customers
+15636,72,2,719,3,2,2,223,Hibernating
+15637,48,4,574,3,3,3,333,Regular Customers
+15638,13,6,2265,5,4,5,545,Champions
+15639,86,2,639,3,2,2,223,Hibernating
+15640,7,15,11441,5,4,5,545,Champions
+15641,31,8,3458,5,4,4,445,Loyal Customers
+15642,364,1,105,1,1,1,111,Lost Customers
+15645,49,2,443,2,2,3,322,Regular Customers
+15646,7,3,526,3,3,5,533,Potential Loyalists
+15647,50,1,169,1,1,3,311,Regular Customers
+15649,2,3,1354,4,3,5,534,Potential Loyalists
+15650,156,2,553,3,2,2,223,Hibernating
+15651,55,2,612,3,2,3,323,Regular Customers
+15652,22,4,1082,4,3,4,434,Potential Loyalists
+15658,7,4,1399,4,3,5,534,Potential Loyalists
+15659,21,2,226,1,2,4,421,Potential Loyalists
+15660,0,7,1212,4,4,5,544,Champions
+15661,14,6,906,3,4,5,543,Loyal Customers
+15662,296,2,283,2,2,1,122,Hibernating
+15664,84,3,867,3,3,2,233,Hibernating
+15665,46,3,1773,4,3,3,334,Regular Customers
+15666,107,2,632,3,2,2,223,Hibernating
+15670,191,1,152,1,1,1,111,Lost Customers
+15672,360,1,45,1,1,1,111,Lost Customers
+15673,86,5,3533,5,3,2,235,Hibernating
+15674,52,8,4501,5,4,3,345,Regular Customers
+15675,39,1,218,1,1,3,311,Regular Customers
+15677,56,2,648,3,2,3,323,Regular Customers
+15678,30,2,1541,4,2,4,424,Potential Loyalists
+15680,1,8,3173,5,4,5,545,Champions
+15681,14,9,1563,4,4,5,544,Champions
+15682,234,2,318,2,2,1,122,Hibernating
+15683,108,1,330,2,1,2,212,Lost Customers
+15684,182,3,173,1,3,1,131,Hibernating
+15685,85,1,55,1,1,2,211,Lost Customers
+15686,55,1,90,1,1,3,311,Regular Customers
+15688,53,1,190,1,1,3,311,Regular Customers
+15689,252,1,266,2,1,1,112,Lost Customers
+15691,29,3,434,2,3,4,432,Potential Loyalists
+15693,294,1,37,1,1,1,111,Lost Customers
+15694,0,12,4331,5,4,5,545,Champions
+15695,232,2,721,3,2,1,123,Hibernating
+15696,58,5,1170,4,3,3,334,Regular Customers
+15697,324,1,246,1,1,1,111,Lost Customers
+15698,259,1,46,1,1,1,111,Lost Customers
+15702,111,2,140,1,2,2,221,Hibernating
+15704,137,2,1524,4,2,2,224,Hibernating
+15708,4,3,1014,4,3,5,534,Potential Loyalists
+15709,224,1,194,1,1,1,111,Lost Customers
+15710,52,1,898,3,1,3,313,Regular Customers
+15711,191,2,420,2,2,1,122,Hibernating
+15712,14,7,2400,5,4,5,545,Champions
+15713,1,3,654,3,3,5,533,Potential Loyalists
+15714,88,3,453,2,3,2,232,Hibernating
+15715,190,5,658,3,3,1,133,Hibernating
+15716,4,8,1938,4,4,5,544,Champions
+15717,56,4,456,2,3,3,332,Regular Customers
+15718,175,1,293,2,1,2,212,Lost Customers
+15719,16,18,5177,5,4,4,445,Loyal Customers
+15720,185,1,143,1,1,1,111,Lost Customers
+15722,80,6,3035,5,4,2,245,At Risk
+15723,46,3,744,3,3,3,333,Regular Customers
+15724,35,1,92,1,1,4,411,New Customers
+15726,25,1,321,2,1,4,412,New Customers
+15727,22,8,4266,5,4,4,445,Loyal Customers
+15728,14,2,544,3,2,5,523,Potential Loyalists
+15729,35,2,107,1,2,4,421,Potential Loyalists
+15730,16,2,605,3,2,4,423,Potential Loyalists
+15731,188,1,125,1,1,1,111,Lost Customers
+15732,7,9,1387,4,4,5,544,Champions
+15734,71,2,923,3,2,2,223,Hibernating
+15735,56,1,327,2,1,3,312,Regular Customers
+15736,70,2,1815,4,2,3,324,Regular Customers
+15738,7,26,8560,5,5,5,555,Champions
+15741,93,2,208,1,2,2,221,Hibernating
+15742,254,1,156,1,1,1,111,Lost Customers
+15747,10,6,1588,4,4,5,544,Champions
+15748,84,2,465,2,2,2,222,Hibernating
+15750,1,12,4331,5,4,5,545,Champions
+15751,95,11,1380,4,4,2,244,At Risk
+15752,7,3,1570,4,3,5,534,Potential Loyalists
+15754,128,6,2579,5,4,2,245,At Risk
+15755,14,11,3628,5,4,5,545,Champions
+15757,21,4,2225,5,3,4,435,Potential Loyalists
+15759,146,4,577,3,3,2,233,Hibernating
+15760,265,2,13916,5,2,1,125,Hibernating
+15761,77,1,143,1,1,2,211,Lost Customers
+15764,69,2,1223,4,2,3,324,Regular Customers
+15765,301,1,370,2,1,1,112,Lost Customers
+15766,91,2,516,3,2,2,223,Hibernating
+15768,111,31,14979,5,5,2,255,At Risk
+15769,6,21,32451,5,5,5,555,Champions
+15770,247,1,321,2,1,1,112,Lost Customers
+15771,239,3,1006,4,3,1,134,Hibernating
+15772,53,1,280,2,1,3,312,Regular Customers
+15773,44,1,138,1,1,3,311,Regular Customers
+15774,53,5,1059,4,3,3,334,Regular Customers
+15775,266,1,45,1,1,1,111,Lost Customers
+15777,31,3,715,3,3,4,433,Potential Loyalists
+15778,66,1,307,2,1,3,312,Regular Customers
+15779,98,2,124,1,2,2,221,Hibernating
+15782,65,1,1399,4,1,3,314,Regular Customers
+15784,102,2,848,3,2,2,223,Hibernating
+15785,14,11,3640,5,4,5,545,Champions
+15786,52,2,3582,5,2,3,325,Regular Customers
+15788,143,1,221,1,1,2,211,Lost Customers
+15789,66,5,1610,4,3,3,334,Regular Customers
+15791,164,3,1995,4,3,2,234,Hibernating
+15792,34,2,933,3,2,4,423,Potential Loyalists
+15793,13,5,1433,4,3,5,534,Potential Loyalists
+15794,371,2,777,3,2,1,123,Hibernating
+15795,65,7,1369,4,4,3,344,Regular Customers
+15796,9,9,2464,5,4,5,545,Champions
+15797,216,2,613,3,2,1,123,Hibernating
+15798,127,3,1535,4,3,2,234,Hibernating
+15799,53,1,540,3,1,3,313,Regular Customers
+15800,88,5,543,3,3,2,233,Hibernating
+15803,80,3,1513,4,3,2,234,Hibernating
+15805,20,13,4660,5,4,4,445,Loyal Customers
+15807,43,2,913,3,2,3,323,Regular Customers
+15808,4,18,14674,5,4,5,545,Champions
+15809,94,2,758,3,2,2,223,Hibernating
+15810,21,4,1607,4,3,4,434,Potential Loyalists
+15811,0,2,1671,4,2,5,524,Potential Loyalists
+15812,70,7,3400,5,4,3,345,Regular Customers
+15814,28,2,689,3,2,4,423,Potential Loyalists
+15816,177,2,144,1,2,1,121,Hibernating
+15817,55,3,2766,5,3,3,335,Regular Customers
+15818,223,1,340,2,1,1,112,Lost Customers
+15819,66,6,2029,4,4,3,344,Regular Customers
+15822,128,4,954,3,3,2,233,Hibernating
+15823,7,3,3882,5,3,5,535,Potential Loyalists
+15824,88,2,890,3,2,2,223,Hibernating
+15826,203,1,943,3,1,1,113,Lost Customers
+15827,7,16,1957,4,4,5,544,Champions
+15828,10,1,1108,4,1,5,514,New Customers
+15833,372,1,80,1,1,1,111,Lost Customers
+15834,11,3,1539,4,3,5,534,Potential Loyalists
+15837,120,1,385,2,1,2,212,Lost Customers
+15838,2,16,40519,5,4,5,545,Champions
+15841,21,5,1518,4,3,4,434,Potential Loyalists
+15842,28,2,548,3,2,4,423,Potential Loyalists
+15845,171,3,714,3,3,2,233,Hibernating
+15846,20,1,107,1,1,4,411,New Customers
+15847,63,3,433,2,3,3,332,Regular Customers
+15848,256,1,139,1,1,1,111,Lost Customers
+15850,11,4,819,3,3,5,533,Potential Loyalists
+15851,161,1,109,1,1,2,211,Lost Customers
+15852,161,1,96,1,1,2,211,Lost Customers
+15854,11,9,2609,5,4,5,545,Champions
+15855,111,1,340,2,1,2,212,Lost Customers
+15856,0,26,17832,5,5,5,555,Champions
+15857,65,1,273,2,1,3,312,Regular Customers
+15858,2,9,2521,5,4,5,545,Champions
+15859,67,1,438,2,1,3,312,Regular Customers
+15860,3,10,1528,4,4,5,544,Champions
+15861,91,4,1236,4,3,2,234,Hibernating
+15862,8,10,2095,4,4,5,544,Champions
+15863,252,3,289,2,3,1,132,Hibernating
+15864,16,1,244,1,1,4,411,New Customers
+15865,48,2,1353,4,2,3,324,Regular Customers
+15867,4,17,5251,5,4,5,545,Champions
+15868,218,1,94,1,1,1,111,Lost Customers
+15869,261,1,174,1,1,1,111,Lost Customers
+15870,31,3,508,3,3,4,433,Potential Loyalists
+15871,72,1,33,1,1,2,211,Lost Customers
+15872,13,2,434,2,2,5,522,Potential Loyalists
+15873,134,4,313,2,3,2,232,Hibernating
+15874,22,14,6878,5,4,4,445,Loyal Customers
+15875,281,1,111,1,1,1,111,Lost Customers
+15876,44,2,1449,4,2,3,324,Regular Customers
+15878,196,2,330,2,2,1,122,Hibernating
+15879,39,4,1157,4,3,3,334,Regular Customers
+15880,4,1,343,2,1,5,512,New Customers
+15882,3,6,979,3,4,5,543,Loyal Customers
+15884,67,2,249,1,2,3,321,Regular Customers
+15885,18,12,1572,4,4,4,444,Loyal Customers
+15886,51,3,871,3,3,3,333,Regular Customers
+15887,41,3,1027,4,3,3,334,Regular Customers
+15888,35,2,260,2,2,4,422,Potential Loyalists
+15889,4,7,1359,4,4,5,544,Champions
+15890,29,5,535,3,3,4,433,Potential Loyalists
+15892,304,1,128,1,1,1,111,Lost Customers
+15893,116,1,305,2,1,2,212,Lost Customers
+15894,4,1,156,1,1,5,511,New Customers
+15898,2,22,4207,5,5,5,555,Champions
+15899,3,1,56,1,1,5,511,New Customers
+15900,48,3,549,3,3,3,333,Regular Customers
+15901,86,4,339,2,3,2,232,Hibernating
+15902,15,1,145,1,1,4,411,New Customers
+15903,13,5,3813,5,3,5,535,Potential Loyalists
+15905,178,1,114,1,1,1,111,Lost Customers
+15906,9,3,987,3,3,5,533,Potential Loyalists
+15908,125,2,764,3,2,2,223,Hibernating
+15910,35,7,1449,4,4,4,444,Loyal Customers
+15911,258,8,1702,4,4,1,144,At Risk
+15912,71,7,810,3,4,2,243,At Risk
+15913,169,1,6,1,1,2,211,Lost Customers
+15914,13,2,205,1,2,5,521,Potential Loyalists
+15915,36,1,429,2,1,3,312,Regular Customers
+15916,1,7,1899,4,4,5,544,Champions
+15917,241,4,437,2,3,1,132,Hibernating
+15918,266,1,248,1,1,1,111,Lost Customers
+15919,3,1,270,2,1,5,512,New Customers
+15920,59,5,404,2,3,3,332,Regular Customers
+15921,31,3,466,2,3,4,432,Potential Loyalists
+15922,8,1,369,2,1,5,512,New Customers
+15923,7,1,127,1,1,5,511,New Customers
+15924,366,1,102,1,1,1,111,Lost Customers
+15926,177,1,134,1,1,1,111,Lost Customers
+15927,282,1,123,1,1,1,111,Lost Customers
+15928,291,1,293,2,1,1,112,Lost Customers
+15929,279,1,594,3,1,1,113,Lost Customers
+15931,63,1,239,1,1,3,311,Regular Customers
+15934,52,2,2190,5,2,3,325,Regular Customers
+15936,14,2,282,2,2,5,522,Potential Loyalists
+15938,91,4,330,2,3,2,232,Hibernating
+15939,9,1,2945,5,1,5,515,New Customers
+15941,272,1,405,2,1,1,112,Lost Customers
+15943,284,2,271,2,2,1,122,Hibernating
+15944,28,3,1839,4,3,4,434,Potential Loyalists
+15945,0,4,646,3,3,5,533,Potential Loyalists
+15946,137,3,2304,5,3,2,235,Hibernating
+15948,59,1,553,3,1,3,313,Regular Customers
+15950,10,6,5415,5,4,5,545,Champions
+15951,16,1,304,2,1,4,412,New Customers
+15953,4,11,2010,4,4,5,544,Champions
+15954,224,1,190,1,1,1,111,Lost Customers
+15955,7,9,4242,5,4,5,545,Champions
+15956,186,2,617,3,2,1,123,Hibernating
+15957,55,2,501,2,2,3,322,Regular Customers
+15958,38,3,388,2,3,3,332,Regular Customers
+15959,317,3,579,3,3,1,133,Hibernating
+15960,9,4,410,2,3,5,532,Potential Loyalists
+15961,14,1,451,2,1,5,512,New Customers
+15962,84,1,295,2,1,2,212,Lost Customers
+15964,298,1,272,2,1,1,112,Lost Customers
+15965,2,10,2167,5,4,5,545,Champions
+15966,85,1,426,2,1,2,212,Lost Customers
+15967,14,10,2622,5,4,5,545,Champions
+15968,23,1,418,2,1,4,412,New Customers
+15969,60,2,460,2,2,3,322,Regular Customers
+15970,233,1,703,3,1,1,113,Lost Customers
+15971,20,6,1702,4,4,4,444,Loyal Customers
+15972,91,5,1810,4,3,2,234,Hibernating
+15973,1,3,680,3,3,5,533,Potential Loyalists
+15976,45,4,1315,4,3,3,334,Regular Customers
+15978,67,2,2180,5,2,3,325,Regular Customers
+15979,237,1,329,2,1,1,112,Lost Customers
+15980,125,4,4194,5,3,2,235,Hibernating
+15981,36,13,5954,5,4,3,345,Regular Customers
+15982,240,1,324,2,1,1,112,Lost Customers
+15983,0,6,2483,5,4,5,545,Champions
+15984,3,21,5921,5,5,5,555,Champions
+15985,71,5,1572,4,3,2,234,Hibernating
+15986,16,1,186,1,1,4,411,New Customers
+15987,3,2,230,1,2,5,521,Potential Loyalists
+15988,186,2,612,3,2,1,123,Hibernating
+15989,10,2,372,2,2,5,522,Potential Loyalists
+15990,129,5,1217,4,3,2,234,Hibernating
+15991,169,1,150,1,1,2,211,Lost Customers
+15992,31,2,854,3,2,4,423,Potential Loyalists
+15994,46,2,775,3,2,3,323,Regular Customers
+15995,49,1,696,3,1,3,313,Regular Customers
+15996,1,2,626,3,2,5,523,Potential Loyalists
+15998,28,11,5218,5,4,4,445,Loyal Customers
+15999,370,1,20,1,1,1,111,Lost Customers
+16001,16,1,583,3,1,4,413,New Customers
+16002,260,1,169,1,1,1,111,Lost Customers
+16003,16,5,2878,5,3,4,435,Potential Loyalists
+16004,109,5,2146,5,3,2,235,Hibernating
+16005,10,6,1820,4,4,5,544,Champions
+16006,22,1,245,1,1,4,411,New Customers
+16007,18,3,1373,4,3,4,434,Potential Loyalists
+16008,17,12,4905,5,4,4,445,Loyal Customers
+16010,11,8,1316,4,4,5,544,Champions
+16011,1,14,2517,5,4,5,545,Champions
+16012,36,2,1574,4,2,3,324,Regular Customers
+16013,6,39,20315,5,5,5,555,Champions
+16014,43,2,467,2,2,3,322,Regular Customers
+16016,1,4,1025,4,3,5,534,Potential Loyalists
+16017,52,4,1341,4,3,3,334,Regular Customers
+16018,31,2,289,2,2,4,422,Potential Loyalists
+16019,16,18,13679,5,4,4,445,Loyal Customers
+16021,30,2,532,3,2,4,423,Potential Loyalists
+16024,46,2,232,1,2,3,321,Regular Customers
+16027,92,9,1113,4,4,2,244,At Risk
+16028,230,1,82,1,1,1,111,Lost Customers
+16029,7,47,41184,5,5,5,555,Champions
+16032,91,6,1970,4,4,2,244,At Risk
+16033,4,8,2019,4,4,5,544,Champions
+16034,29,3,491,2,3,4,432,Potential Loyalists
+16035,195,1,217,1,1,1,111,Lost Customers
+16036,59,2,1797,4,2,3,324,Regular Customers
+16037,179,2,654,3,2,1,123,Hibernating
+16039,58,2,456,2,2,3,322,Regular Customers
+16040,65,4,1103,4,3,3,334,Regular Customers
+16042,14,3,1067,4,3,5,534,Potential Loyalists
+16043,14,4,1082,4,3,5,534,Potential Loyalists
+16044,70,1,340,2,1,3,312,Regular Customers
+16045,51,4,2094,4,3,3,334,Regular Customers
+16046,197,1,235,1,1,1,111,Lost Customers
+16047,317,1,107,1,1,1,111,Lost Customers
+16048,8,4,818,3,3,5,533,Potential Loyalists
+16049,10,3,787,3,3,5,533,Potential Loyalists
+16050,18,2,162,1,2,4,421,Potential Loyalists
+16051,316,1,188,1,1,1,111,Lost Customers
+16053,48,4,2122,4,3,3,334,Regular Customers
+16054,53,3,1327,4,3,3,334,Regular Customers
+16057,154,3,1591,4,3,2,234,Hibernating
+16058,41,1,62,1,1,3,311,Regular Customers
+16059,2,7,1757,4,4,5,544,Champions
+16060,35,3,541,3,3,4,433,Potential Loyalists
+16061,66,1,89,1,1,3,311,Regular Customers
+16062,14,4,1709,4,3,5,534,Potential Loyalists
+16064,360,1,111,1,1,1,111,Lost Customers
+16065,0,8,2010,4,4,5,544,Champions
+16067,197,3,3395,5,3,1,135,Hibernating
+16068,228,1,122,1,1,1,111,Lost Customers
+16069,52,1,457,2,1,3,312,Regular Customers
+16071,162,3,750,3,3,2,233,Hibernating
+16072,63,3,3744,5,3,3,335,Regular Customers
+16074,25,1,265,2,1,4,412,New Customers
+16075,137,2,736,3,2,2,223,Hibernating
+16077,260,1,2300,5,1,1,115,Lost Customers
+16078,304,1,283,2,1,1,112,Lost Customers
+16080,20,2,385,2,2,4,422,Potential Loyalists
+16081,1,4,1653,4,3,5,534,Potential Loyalists
+16082,305,1,106,1,1,1,111,Lost Customers
+16083,17,2,1033,4,2,4,424,Potential Loyalists
+16085,15,7,1362,4,4,4,444,Loyal Customers
+16086,2,6,1743,4,4,5,544,Champions
+16087,24,5,1739,4,3,4,434,Potential Loyalists
+16088,210,2,1437,4,2,1,124,Hibernating
+16089,21,2,271,2,2,4,422,Potential Loyalists
+16090,259,1,205,1,1,1,111,Lost Customers
+16092,139,3,770,3,3,2,233,Hibernating
+16094,10,7,2617,5,4,5,545,Champions
+16095,91,1,447,2,1,2,212,Lost Customers
+16096,51,3,1264,4,3,3,334,Regular Customers
+16098,8,8,2442,5,4,5,545,Champions
+16099,52,4,841,3,3,3,333,Regular Customers
+16100,97,1,582,3,1,2,213,Lost Customers
+16101,69,3,1938,4,3,3,334,Regular Customers
+16103,24,16,4762,5,4,4,445,Loyal Customers
+16104,53,8,2476,5,4,3,345,Regular Customers
+16105,73,4,2049,4,3,2,234,Hibernating
+16108,69,3,1393,4,3,3,334,Regular Customers
+16109,333,1,327,2,1,1,112,Lost Customers
+16110,157,1,481,2,1,2,212,Lost Customers
+16111,63,1,562,3,1,3,313,Regular Customers
+16115,32,4,907,3,3,4,433,Potential Loyalists
+16117,37,2,422,2,2,3,322,Regular Customers
+16118,287,1,4376,5,1,1,115,Lost Customers
+16119,29,6,1297,4,4,4,444,Loyal Customers
+16120,57,2,1747,4,2,3,324,Regular Customers
+16121,25,3,609,3,3,4,433,Potential Loyalists
+16122,1,3,316,2,3,5,532,Potential Loyalists
+16124,53,3,1523,4,3,3,334,Regular Customers
+16125,2,14,4298,5,4,5,545,Champions
+16126,14,11,8359,5,4,5,545,Champions
+16127,361,1,145,1,1,1,111,Lost Customers
+16128,15,6,1920,4,4,4,444,Loyal Customers
+16129,42,3,1396,4,3,3,334,Regular Customers
+16130,57,4,987,3,3,3,333,Regular Customers
+16131,10,6,6450,5,4,5,545,Champions
+16132,179,2,664,3,2,1,123,Hibernating
+16133,11,23,8403,5,5,5,555,Champions
+16134,58,3,1527,4,3,3,334,Regular Customers
+16135,218,1,301,2,1,1,112,Lost Customers
+16136,298,1,237,1,1,1,111,Lost Customers
+16137,315,1,422,2,1,1,112,Lost Customers
+16138,13,3,910,3,3,5,533,Potential Loyalists
+16139,357,2,475,2,2,1,122,Hibernating
+16140,6,2,832,3,2,5,523,Potential Loyalists
+16141,52,1,335,2,1,3,312,Regular Customers
+16143,4,7,2485,5,4,5,545,Champions
+16145,23,8,3005,5,4,4,445,Loyal Customers
+16146,83,1,212,1,1,2,211,Lost Customers
+16147,35,4,2023,4,3,4,434,Potential Loyalists
+16148,71,1,310,2,1,2,212,Lost Customers
+16149,64,1,141,1,1,3,311,Regular Customers
+16150,7,6,2342,5,4,5,545,Champions
+16153,55,6,3309,5,4,3,345,Regular Customers
+16155,16,5,796,3,3,4,433,Potential Loyalists
+16156,17,11,3096,5,4,4,445,Loyal Customers
+16158,157,9,628,3,4,2,243,At Risk
+16159,105,3,884,3,3,2,233,Hibernating
+16161,3,25,7256,5,5,5,555,Champions
+16163,0,5,1992,4,3,5,534,Potential Loyalists
+16165,140,1,79,1,1,2,211,Lost Customers
+16166,63,2,435,2,2,3,322,Regular Customers
+16167,49,5,1386,4,3,3,334,Regular Customers
+16168,4,40,6848,5,5,5,555,Champions
+16170,30,14,4983,5,4,4,445,Loyal Customers
+16172,108,3,744,3,3,2,233,Hibernating
+16174,126,4,1237,4,3,2,234,Hibernating
+16175,106,3,798,3,3,2,233,Hibernating
+16176,56,4,2052,4,3,3,334,Regular Customers
+16177,71,7,1915,4,4,2,244,At Risk
+16178,36,1,414,2,1,3,312,Regular Customers
+16180,113,5,5995,5,3,2,235,Hibernating
+16182,73,5,3354,5,3,2,235,Hibernating
+16183,29,3,739,3,3,4,433,Potential Loyalists
+16185,199,1,115,1,1,1,111,Lost Customers
+16186,7,15,5019,5,4,5,545,Champions
+16188,43,1,105,1,1,3,311,Regular Customers
+16190,29,7,2508,5,4,4,445,Loyal Customers
+16191,10,11,10507,5,4,5,545,Champions
+16192,370,1,351,2,1,1,112,Lost Customers
+16193,45,1,315,2,1,3,312,Regular Customers
+16194,10,1,308,2,1,5,512,New Customers
+16195,358,1,323,2,1,1,112,Lost Customers
+16196,123,1,93,1,1,2,211,Lost Customers
+16197,104,9,2016,4,4,2,244,At Risk
+16198,72,1,629,3,1,2,213,Lost Customers
+16199,27,7,942,3,4,4,443,Loyal Customers
+16200,17,10,4562,5,4,4,445,Loyal Customers
+16201,50,1,248,1,1,3,311,Regular Customers
+16202,52,8,2136,4,4,3,344,Regular Customers
+16203,7,3,521,3,3,5,533,Potential Loyalists
+16204,15,2,538,3,2,4,423,Potential Loyalists
+16205,31,3,1069,4,3,4,434,Potential Loyalists
+16206,22,9,2065,4,4,4,444,Loyal Customers
+16208,29,8,2776,5,4,4,445,Loyal Customers
+16209,17,4,1884,4,3,4,434,Potential Loyalists
+16210,3,19,17403,5,4,5,545,Champions
+16211,56,2,543,3,2,3,323,Regular Customers
+16212,253,2,603,3,2,1,123,Hibernating
+16214,70,1,975,3,1,3,313,Regular Customers
+16218,8,7,1355,4,4,5,544,Champions
+16219,135,1,40,1,1,2,211,Lost Customers
+16221,2,7,1370,4,4,5,544,Champions
+16222,356,1,498,2,1,1,112,Lost Customers
+16223,9,2,1102,4,2,5,524,Potential Loyalists
+16224,22,1,321,2,1,4,412,New Customers
+16225,37,10,1771,4,4,3,344,Regular Customers
+16226,13,2,417,2,2,5,522,Potential Loyalists
+16227,129,2,713,3,2,2,223,Hibernating
+16228,20,3,890,3,3,4,433,Potential Loyalists
+16229,16,4,1857,4,3,4,434,Potential Loyalists
+16231,14,4,1078,4,3,5,534,Potential Loyalists
+16232,55,3,1722,4,3,3,334,Regular Customers
+16233,1,7,1429,4,4,5,544,Champions
+16234,111,3,333,2,3,2,232,Hibernating
+16235,10,4,1186,4,3,5,534,Potential Loyalists
+16237,72,1,136,1,1,2,211,Lost Customers
+16238,57,1,63,1,1,3,311,Regular Customers
+16239,17,4,1078,4,3,4,434,Potential Loyalists
+16241,4,4,1721,4,3,5,534,Potential Loyalists
+16242,16,7,3871,5,4,4,445,Loyal Customers
+16244,7,1,1056,4,1,5,514,New Customers
+16246,94,2,827,3,2,2,223,Hibernating
+16250,8,2,401,2,2,5,522,Potential Loyalists
+16251,147,1,128,1,1,2,211,Lost Customers
+16252,17,1,295,2,1,4,412,New Customers
+16253,55,5,3626,5,3,3,335,Regular Customers
+16254,13,3,985,3,3,5,533,Potential Loyalists
+16255,0,8,2286,5,4,5,545,Champions
+16256,128,2,876,3,2,2,223,Hibernating
+16258,22,10,6739,5,4,4,445,Loyal Customers
+16259,45,3,361,2,3,3,332,Regular Customers
+16261,21,2,312,2,2,4,422,Potential Loyalists
+16262,13,1,755,3,1,5,513,New Customers
+16263,58,1,351,2,1,3,312,Regular Customers
+16264,73,2,837,3,2,2,223,Hibernating
+16265,21,3,1488,4,3,4,434,Potential Loyalists
+16266,58,7,896,3,4,3,343,Regular Customers
+16267,226,1,186,1,1,1,111,Lost Customers
+16269,72,1,717,3,1,2,213,Lost Customers
+16271,92,5,2033,4,3,2,234,Hibernating
+16273,283,2,336,2,2,1,122,Hibernating
+16274,8,1,357,2,1,5,512,New Customers
+16275,109,2,1591,4,2,2,224,Hibernating
+16276,114,2,1818,4,2,2,224,Hibernating
+16277,368,1,188,1,1,1,111,Lost Customers
+16278,115,2,551,3,2,2,223,Hibernating
+16279,20,6,4195,5,4,4,445,Loyal Customers
+16280,360,1,238,1,1,1,111,Lost Customers
+16281,58,2,1361,4,2,3,324,Regular Customers
+16282,122,2,1139,4,2,2,224,Hibernating
+16283,53,3,2833,5,3,3,335,Regular Customers
+16284,28,1,205,1,1,4,411,New Customers
+16285,281,1,176,1,1,1,111,Lost Customers
+16286,112,2,328,2,2,2,222,Hibernating
+16287,11,4,864,3,3,5,533,Potential Loyalists
+16288,105,1,129,1,1,2,211,Lost Customers
+16289,97,1,136,1,1,2,211,Lost Customers
+16290,99,4,2069,4,3,2,234,Hibernating
+16291,317,1,117,1,1,1,111,Lost Customers
+16292,15,4,951,3,3,4,433,Potential Loyalists
+16293,2,6,2408,5,4,5,545,Champions
+16294,111,1,126,1,1,2,211,Lost Customers
+16296,261,4,1313,4,3,1,134,Hibernating
+16298,32,4,487,2,3,4,432,Potential Loyalists
+16299,112,1,193,1,1,2,211,Lost Customers
+16300,65,3,1392,4,3,3,334,Regular Customers
+16301,371,1,107,1,1,1,111,Lost Customers
+16303,27,4,2567,5,3,4,435,Potential Loyalists
+16304,329,1,381,2,1,1,112,Lost Customers
+16306,2,2,560,3,2,5,523,Potential Loyalists
+16307,64,3,1194,4,3,3,334,Regular Customers
+16308,41,3,2560,5,3,3,335,Regular Customers
+16310,49,2,460,2,2,3,322,Regular Customers
+16312,67,1,171,1,1,3,311,Regular Customers
+16314,24,3,1491,4,3,4,434,Potential Loyalists
+16315,171,1,176,1,1,2,211,Lost Customers
+16316,15,5,2806,5,3,4,435,Potential Loyalists
+16317,185,2,850,3,2,1,123,Hibernating
+16320,88,4,4590,5,3,2,235,Hibernating
+16321,261,2,230,1,2,1,121,Hibernating
+16323,212,1,146,1,1,1,111,Lost Customers
+16325,59,9,3003,5,4,3,345,Regular Customers
+16326,18,10,1716,4,4,4,444,Loyal Customers
+16327,4,11,6887,5,4,5,545,Champions
+16328,198,1,310,2,1,1,112,Lost Customers
+16329,62,4,1703,4,3,3,334,Regular Customers
+16330,59,4,382,2,3,3,332,Regular Customers
+16331,67,6,2037,4,4,3,344,Regular Customers
+16332,66,4,417,2,3,3,332,Regular Customers
+16334,127,1,277,2,1,2,212,Lost Customers
+16335,186,7,2774,5,4,1,145,At Risk
+16336,55,4,3517,5,3,3,335,Regular Customers
+16340,74,2,976,3,2,2,223,Hibernating
+16341,72,3,1878,4,3,2,234,Hibernating
+16343,42,1,316,2,1,3,312,Regular Customers
+16344,144,3,741,3,3,2,233,Hibernating
+16345,118,1,623,3,1,2,213,Lost Customers
+16346,20,1,224,1,1,4,411,New Customers
+16347,23,9,2621,5,4,4,445,Loyal Customers
+16348,65,1,328,2,1,3,312,Regular Customers
+16350,9,5,1137,4,3,5,534,Potential Loyalists
+16351,46,12,3176,5,4,3,345,Regular Customers
+16353,4,16,3323,5,4,5,545,Champions
+16354,14,3,733,3,3,5,533,Potential Loyalists
+16355,10,1,416,2,1,5,512,New Customers
+16356,11,3,204,1,3,5,531,Potential Loyalists
+16357,16,1,209,1,1,4,411,New Customers
+16358,29,1,892,3,1,4,413,New Customers
+16359,11,7,946,3,4,5,543,Loyal Customers
+16362,72,1,212,1,1,2,211,Lost Customers
+16365,2,7,1766,4,4,5,544,Champions
+16366,217,3,1220,4,3,1,134,Hibernating
+16367,18,1,557,3,1,4,413,New Customers
+16368,70,1,142,1,1,3,311,Regular Customers
+16369,71,4,1111,4,3,2,234,Hibernating
+16371,83,1,157,1,1,2,211,Lost Customers
+16372,44,3,960,3,3,3,333,Regular Customers
+16373,17,2,309,2,2,4,422,Potential Loyalists
+16374,37,3,1298,4,3,3,334,Regular Customers
+16375,105,2,104,1,2,2,221,Hibernating
+16377,252,1,632,3,1,1,113,Lost Customers
+16381,30,2,258,2,2,4,422,Potential Loyalists
+16382,43,2,353,2,2,3,322,Regular Customers
+16383,31,5,2306,5,3,4,435,Potential Loyalists
+16384,64,2,774,3,2,3,323,Regular Customers
+16385,1,3,474,2,3,5,532,Potential Loyalists
+16386,22,1,785,3,1,4,413,New Customers
+16387,30,4,824,3,3,4,433,Potential Loyalists
+16388,288,1,186,1,1,1,111,Lost Customers
+16390,171,3,467,2,3,2,232,Hibernating
+16391,35,4,1103,4,3,4,434,Potential Loyalists
+16392,48,2,541,3,2,3,323,Regular Customers
+16393,4,11,2515,5,4,5,545,Champions
+16395,28,9,2050,4,4,4,444,Loyal Customers
+16396,111,1,137,1,1,2,211,Lost Customers
+16397,263,1,127,1,1,1,111,Lost Customers
+16399,24,1,233,1,1,4,411,New Customers
+16400,30,8,2855,5,4,4,445,Loyal Customers
+16401,14,11,2750,5,4,5,545,Champions
+16402,4,1,211,1,1,5,511,New Customers
+16406,85,2,389,2,2,2,222,Hibernating
+16407,24,4,694,3,3,4,433,Potential Loyalists
+16408,226,1,231,1,1,1,111,Lost Customers
+16409,15,7,3680,5,4,4,445,Loyal Customers
+16410,369,1,130,1,1,1,111,Lost Customers
+16411,4,3,695,3,3,5,533,Potential Loyalists
+16412,28,4,495,2,3,4,432,Potential Loyalists
+16413,10,1,266,2,1,5,512,New Customers
+16414,66,3,433,2,3,3,332,Regular Customers
+16415,218,2,509,3,2,1,123,Hibernating
+16416,25,6,1921,4,4,4,444,Loyal Customers
+16417,127,1,35,1,1,2,211,Lost Customers
+16418,43,2,426,2,2,3,322,Regular Customers
+16419,212,2,515,3,2,1,123,Hibernating
+16420,31,1,75,1,1,4,411,New Customers
+16421,11,3,526,3,3,5,533,Potential Loyalists
+16422,4,59,28967,5,5,5,555,Champions
+16424,17,1,309,2,1,4,412,New Customers
+16428,48,3,660,3,3,3,333,Regular Customers
+16430,16,6,817,3,4,4,443,Loyal Customers
+16433,43,1,200,1,1,3,311,Regular Customers
+16434,81,5,1219,4,3,2,234,Hibernating
+16435,147,3,1011,4,3,2,234,Hibernating
+16436,303,3,329,2,3,1,132,Hibernating
+16437,16,2,301,2,2,4,422,Potential Loyalists
+16439,357,1,310,2,1,1,112,Lost Customers
+16440,128,1,216,1,1,2,211,Lost Customers
+16441,52,3,653,3,3,3,333,Regular Customers
+16442,239,2,282,2,2,1,122,Hibernating
+16443,155,1,162,1,1,2,211,Lost Customers
+16444,25,13,3001,5,4,4,445,Loyal Customers
+16445,21,3,372,2,3,4,432,Potential Loyalists
+16447,225,2,516,3,2,1,123,Hibernating
+16448,106,1,178,1,1,2,211,Lost Customers
+16450,219,2,1193,4,2,1,124,Hibernating
+16451,196,2,746,3,2,1,123,Hibernating
+16452,265,2,332,2,2,1,122,Hibernating
+16453,165,2,251,1,2,2,221,Hibernating
+16454,241,2,24,1,2,1,121,Hibernating
+16455,6,6,2543,5,4,5,545,Champions
+16456,8,9,4704,5,4,5,545,Champions
+16458,10,12,2232,5,4,5,545,Champions
+16459,364,1,71,1,1,1,111,Lost Customers
+16461,225,2,1463,4,2,1,124,Hibernating
+16465,55,2,746,3,2,3,323,Regular Customers
+16466,18,8,2235,5,4,4,445,Loyal Customers
+16467,143,7,2869,5,4,2,245,At Risk
+16468,105,2,712,3,2,2,223,Hibernating
+16469,149,1,178,1,1,2,211,Lost Customers
+16470,31,7,1696,4,4,4,444,Loyal Customers
+16471,28,3,966,3,3,4,433,Potential Loyalists
+16472,69,2,789,3,2,3,323,Regular Customers
+16473,9,1,154,1,1,5,511,New Customers
+16476,66,1,350,2,1,3,312,Regular Customers
+16477,6,5,1825,4,3,5,534,Potential Loyalists
+16481,317,1,453,2,1,1,112,Lost Customers
+16485,67,4,1931,4,3,3,334,Regular Customers
+16486,172,1,134,1,1,2,211,Lost Customers
+16487,212,2,209,1,2,1,121,Hibernating
+16489,15,2,303,2,2,4,422,Potential Loyalists
+16490,71,1,205,1,1,2,211,Lost Customers
+16491,48,1,801,3,1,3,313,Regular Customers
+16492,175,1,385,2,1,2,212,Lost Customers
+16493,79,3,780,3,3,2,233,Hibernating
+16496,66,3,731,3,3,3,333,Regular Customers
+16497,48,17,3729,5,4,3,345,Regular Customers
+16499,9,6,2212,5,4,5,545,Champions
+16500,9,3,443,2,3,5,532,Potential Loyalists
+16501,18,1,1237,4,1,4,414,New Customers
+16502,255,2,266,2,2,1,122,Hibernating
+16503,30,7,2182,5,4,4,445,Loyal Customers
+16507,207,1,152,1,1,1,111,Lost Customers
+16508,265,1,248,1,1,1,111,Lost Customers
+16510,7,6,1851,4,4,5,544,Champions
+16511,32,3,868,3,3,4,433,Potential Loyalists
+16515,14,5,1589,4,3,5,534,Potential Loyalists
+16518,56,2,475,2,2,3,322,Regular Customers
+16519,0,3,341,2,3,5,532,Potential Loyalists
+16520,0,4,1436,4,3,5,534,Potential Loyalists
+16521,50,3,1148,4,3,3,334,Regular Customers
+16522,70,2,433,2,2,3,322,Regular Customers
+16523,50,7,2497,5,4,3,345,Regular Customers
+16524,81,2,308,2,2,2,222,Hibernating
+16525,1,23,11555,5,5,5,555,Champions
+16526,219,1,426,2,1,1,112,Lost Customers
+16527,59,1,1044,4,1,3,314,Regular Customers
+16529,112,3,1556,4,3,2,234,Hibernating
+16530,303,1,48,1,1,1,111,Lost Customers
+16531,16,4,1053,4,3,4,434,Potential Loyalists
+16532,66,2,2007,4,2,3,324,Regular Customers
+16534,277,1,635,3,1,1,113,Lost Customers
+16535,20,2,407,2,2,4,422,Potential Loyalists
+16537,276,1,23,1,1,1,111,Lost Customers
+16538,176,3,399,2,3,1,132,Hibernating
+16539,8,7,2343,5,4,5,545,Champions
+16540,49,1,226,1,1,3,311,Regular Customers
+16541,370,1,424,2,1,1,112,Lost Customers
+16542,36,1,137,1,1,3,311,Regular Customers
+16543,226,1,292,2,1,1,112,Lost Customers
+16544,154,4,376,2,3,2,232,Hibernating
+16545,10,1,350,2,1,5,512,New Customers
+16546,7,4,4819,5,3,5,535,Potential Loyalists
+16547,181,1,111,1,1,1,111,Lost Customers
+16548,234,1,30,1,1,1,111,Lost Customers
+16549,32,24,9027,5,5,4,455,Loyal Customers
+16550,3,14,7136,5,4,5,545,Champions
+16551,58,4,1315,4,3,3,334,Regular Customers
+16552,8,1,95,1,1,5,511,New Customers
+16553,31,21,10924,5,5,4,455,Loyal Customers
+16554,21,5,2004,4,3,4,434,Potential Loyalists
+16555,140,4,1629,4,3,2,234,Hibernating
+16556,10,10,4698,5,4,5,545,Champions
+16558,1,19,5535,5,4,5,545,Champions
+16559,32,1,185,1,1,4,411,New Customers
+16560,32,6,2206,5,4,4,445,Loyal Customers
+16562,111,1,223,1,1,2,211,Lost Customers
+16563,35,5,3345,5,3,4,435,Potential Loyalists
+16564,204,1,87,1,1,1,111,Lost Customers
+16565,41,3,599,3,3,3,333,Regular Customers
+16568,62,2,1020,4,2,3,324,Regular Customers
+16569,266,4,1331,4,3,1,134,Hibernating
+16570,14,10,3695,5,4,5,545,Champions
+16571,30,7,2827,5,4,4,445,Loyal Customers
+16574,58,2,850,3,2,3,323,Regular Customers
+16576,55,2,540,3,2,3,323,Regular Customers
+16577,301,1,380,2,1,1,112,Lost Customers
+16578,261,1,156,1,1,1,111,Lost Customers
+16579,60,1,295,2,1,3,312,Regular Customers
+16583,8,2,297,2,2,5,522,Potential Loyalists
+16584,67,3,2227,5,3,3,335,Regular Customers
+16585,228,2,341,2,2,1,122,Hibernating
+16586,79,2,998,4,2,2,224,Hibernating
+16588,21,4,1361,4,3,4,434,Potential Loyalists
+16589,85,1,153,1,1,2,211,Lost Customers
+16590,35,2,605,3,2,4,423,Potential Loyalists
+16592,10,12,3694,5,4,5,545,Champions
+16593,25,5,741,3,3,4,433,Potential Loyalists
+16595,11,4,1450,4,3,5,534,Potential Loyalists
+16596,1,3,329,2,3,5,532,Potential Loyalists
+16599,20,1,172,1,1,4,411,New Customers
+16600,9,7,1339,4,4,5,544,Champions
+16601,25,2,439,2,2,4,422,Potential Loyalists
+16602,23,1,235,1,1,4,411,New Customers
+16604,197,2,432,2,2,1,122,Hibernating
+16605,359,1,60,1,1,1,111,Lost Customers
+16606,39,2,357,2,2,3,322,Regular Customers
+16607,34,11,2359,5,4,4,445,Loyal Customers
+16608,88,2,1288,4,2,2,224,Hibernating
+16611,38,5,1655,4,3,3,334,Regular Customers
+16612,14,5,2057,4,3,5,534,Potential Loyalists
+16614,37,2,673,3,2,3,323,Regular Customers
+16615,261,1,291,2,1,1,112,Lost Customers
+16619,18,3,1712,4,3,4,434,Potential Loyalists
+16620,24,4,1579,4,3,4,434,Potential Loyalists
+16622,178,1,225,1,1,1,111,Lost Customers
+16623,36,3,885,3,3,3,333,Regular Customers
+16625,57,4,1320,4,3,3,334,Regular Customers
+16628,42,2,130,1,2,3,321,Regular Customers
+16630,42,1,106,1,1,3,311,Regular Customers
+16631,116,7,1892,4,4,2,244,At Risk
+16632,120,2,406,2,2,2,222,Hibernating
+16634,7,5,1596,4,3,5,534,Potential Loyalists
+16635,41,1,473,2,1,3,312,Regular Customers
+16636,73,4,3802,5,3,2,235,Hibernating
+16638,3,6,749,3,4,5,543,Loyal Customers
+16639,44,1,490,2,1,3,312,Regular Customers
+16640,32,1,179,1,1,4,411,New Customers
+16641,336,1,323,2,1,1,112,Lost Customers
+16642,50,1,389,2,1,3,312,Regular Customers
+16643,57,1,435,2,1,3,312,Regular Customers
+16645,370,1,160,1,1,1,111,Lost Customers
+16646,84,1,678,3,1,2,213,Lost Customers
+16647,77,2,327,2,2,2,222,Hibernating
+16648,90,2,382,2,2,2,222,Hibernating
+16649,155,1,306,2,1,2,212,Lost Customers
+16650,55,6,1397,4,4,3,344,Regular Customers
+16651,221,1,136,1,1,1,111,Lost Customers
+16652,39,9,10776,5,4,3,345,Regular Customers
+16654,3,5,1110,4,3,5,534,Potential Loyalists
+16655,46,7,2753,5,4,3,345,Regular Customers
+16656,55,15,8207,5,4,3,345,Regular Customers
+16658,3,6,690,3,4,5,543,Loyal Customers
+16660,57,3,611,3,3,3,333,Regular Customers
+16661,175,4,986,3,3,2,233,Hibernating
+16662,29,1,163,1,1,4,411,New Customers
+16663,364,1,165,1,1,1,111,Lost Customers
+16664,204,1,109,1,1,1,111,Lost Customers
+16666,256,1,106,1,1,1,111,Lost Customers
+16668,22,7,555,3,4,4,443,Loyal Customers
+16670,28,9,3934,5,4,4,445,Loyal Customers
+16673,314,1,188,1,1,1,111,Lost Customers
+16675,76,2,608,3,2,2,223,Hibernating
+16676,37,2,769,3,2,3,323,Regular Customers
+16677,46,2,880,3,2,3,323,Regular Customers
+16679,1,3,663,3,3,5,533,Potential Loyalists
+16680,163,2,637,3,2,2,223,Hibernating
+16681,276,1,151,1,1,1,111,Lost Customers
+16683,168,1,320,2,1,2,212,Lost Customers
+16684,14,27,80489,5,5,5,555,Champions
+16686,24,9,2008,4,4,4,444,Loyal Customers
+16687,25,1,157,1,1,4,411,New Customers
+16690,28,2,127,1,2,4,421,Potential Loyalists
+16691,53,2,178,1,2,3,321,Regular Customers
+16692,43,2,638,3,2,3,323,Regular Customers
+16693,46,3,717,3,3,3,333,Regular Customers
+16694,358,1,98,1,1,1,111,Lost Customers
+16695,196,2,193,1,2,1,121,Hibernating
+16699,15,7,994,4,4,4,444,Loyal Customers
+16700,1,13,4091,5,4,5,545,Champions
+16701,58,13,4518,5,4,3,345,Regular Customers
+16702,50,4,1110,4,3,3,334,Regular Customers
+16704,253,2,695,3,2,1,123,Hibernating
+16705,35,22,29480,5,5,4,455,Loyal Customers
+16707,35,4,551,3,3,4,433,Potential Loyalists
+16709,14,9,6057,5,4,5,545,Champions
+16710,3,13,3866,5,4,5,545,Champions
+16711,14,4,1217,4,3,5,534,Potential Loyalists
+16712,36,2,621,3,2,3,323,Regular Customers
+16713,1,18,7637,5,4,5,545,Champions
+16714,305,1,368,2,1,1,112,Lost Customers
+16715,197,1,323,2,1,1,112,Lost Customers
+16716,265,1,1248,4,1,1,114,Lost Customers
+16717,1,9,3127,5,4,5,545,Champions
+16718,4,5,3023,5,3,5,535,Potential Loyalists
+16719,3,8,2182,5,4,5,545,Champions
+16720,11,2,640,3,2,5,523,Potential Loyalists
+16722,1,11,4258,5,4,5,545,Champions
+16723,78,2,712,3,2,2,223,Hibernating
+16724,39,1,147,1,1,3,311,Regular Customers
+16725,6,8,1101,4,4,5,544,Champions
+16726,18,2,706,3,2,4,423,Potential Loyalists
+16727,27,3,1164,4,3,4,434,Potential Loyalists
+16731,283,1,174,1,1,1,111,Lost Customers
+16732,38,3,3783,5,3,3,335,Regular Customers
+16733,164,1,259,2,1,2,212,Lost Customers
+16735,28,9,3970,5,4,4,445,Loyal Customers
+16736,140,5,2956,5,3,2,235,Hibernating
+16737,212,1,417,2,1,1,112,Lost Customers
+16739,171,1,463,2,1,2,212,Lost Customers
+16740,30,1,236,1,1,4,411,New Customers
+16741,260,1,173,1,1,1,111,Lost Customers
+16742,127,13,2387,5,4,2,245,At Risk
+16743,91,7,2015,4,4,2,244,At Risk
+16746,18,24,11368,5,5,4,455,Loyal Customers
+16748,23,9,2121,4,4,4,444,Loyal Customers
+16749,226,2,4387,5,2,1,125,Hibernating
+16752,7,1,207,1,1,5,511,New Customers
+16754,7,29,65500,5,5,5,555,Champions
+16755,102,4,1403,4,3,2,234,Hibernating
+16756,39,6,1072,4,4,3,344,Regular Customers
+16757,44,1,163,1,1,3,311,Regular Customers
+16760,65,1,228,1,1,3,311,Regular Customers
+16763,373,1,352,2,1,1,112,Lost Customers
+16765,17,1,420,2,1,4,412,New Customers
+16767,53,4,2493,5,3,3,335,Regular Customers
+16768,18,6,1230,4,4,4,444,Loyal Customers
+16769,113,3,761,3,3,2,233,Hibernating
+16770,7,5,1162,4,3,5,534,Potential Loyalists
+16771,92,5,1720,4,3,2,234,Hibernating
+16772,58,3,3723,5,3,3,335,Regular Customers
+16773,71,2,249,1,2,2,221,Hibernating
+16774,58,4,932,3,3,3,333,Regular Customers
+16775,2,6,1361,4,4,5,544,Champions
+16776,50,1,231,1,1,3,311,Regular Customers
+16777,48,3,1081,4,3,3,334,Regular Customers
+16779,1,32,22638,5,5,5,555,Champions
+16780,42,1,180,1,1,3,311,Regular Customers
+16781,7,2,623,3,2,5,523,Potential Loyalists
+16782,0,26,8158,5,5,5,555,Champions
+16783,71,1,391,2,1,2,212,Lost Customers
+16784,11,4,788,3,3,5,533,Potential Loyalists
+16785,44,1,533,3,1,3,313,Regular Customers
+16786,28,1,51,1,1,4,411,New Customers
+16787,32,4,1035,4,3,4,434,Potential Loyalists
+16788,39,3,1352,4,3,3,334,Regular Customers
+16791,18,8,2316,5,4,4,445,Loyal Customers
+16792,18,3,513,3,3,4,433,Potential Loyalists
+16794,15,5,868,3,3,4,433,Potential Loyalists
+16795,0,3,2077,4,3,5,534,Potential Loyalists
+16797,28,5,1827,4,3,4,434,Potential Loyalists
+16798,189,3,848,3,3,1,133,Hibernating
+16799,67,2,495,2,2,3,322,Regular Customers
+16802,314,2,582,3,2,1,123,Hibernating
+16805,212,3,636,3,3,1,133,Hibernating
+16807,105,3,1002,4,3,2,234,Hibernating
+16809,67,4,812,3,3,3,333,Regular Customers
+16810,55,1,532,3,1,3,313,Regular Customers
+16812,13,3,1912,4,3,5,534,Potential Loyalists
+16814,4,16,5990,5,4,5,545,Champions
+16815,88,2,410,2,2,2,222,Hibernating
+16817,3,5,1200,4,3,5,534,Potential Loyalists
+16819,100,2,182,1,2,2,221,Hibernating
+16821,16,1,113,1,1,4,411,New Customers
+16822,321,1,181,1,1,1,111,Lost Customers
+16823,22,6,1901,4,4,4,444,Loyal Customers
+16824,28,1,225,1,1,4,411,New Customers
+16825,13,3,1051,4,3,5,534,Potential Loyalists
+16827,28,5,392,2,3,4,432,Potential Loyalists
+16829,23,1,316,2,1,4,412,New Customers
+16830,77,3,881,3,3,2,233,Hibernating
+16831,199,1,91,1,1,1,111,Lost Customers
+16832,63,2,218,1,2,3,321,Regular Customers
+16833,74,2,1302,4,2,2,224,Hibernating
+16834,309,1,485,2,1,1,112,Lost Customers
+16835,8,5,1357,4,3,5,534,Potential Loyalists
+16836,41,2,530,3,2,3,323,Regular Customers
+16838,165,2,570,3,2,2,223,Hibernating
+16839,4,11,5716,5,4,5,545,Champions
+16840,238,2,139,1,2,1,121,Hibernating
+16841,63,6,2136,4,4,3,344,Regular Customers
+16843,57,19,9374,5,4,3,345,Regular Customers
+16844,197,2,614,3,2,1,123,Hibernating
+16845,253,1,253,2,1,1,112,Lost Customers
+16846,212,2,628,3,2,1,123,Hibernating
+16847,253,1,421,2,1,1,112,Lost Customers
+16848,11,3,1130,4,3,5,534,Potential Loyalists
+16854,52,2,1408,4,2,3,324,Regular Customers
+16856,52,2,323,2,2,3,322,Regular Customers
+16857,77,1,352,2,1,2,212,Lost Customers
+16858,3,10,4292,5,4,5,545,Champions
+16859,51,5,1184,4,3,3,334,Regular Customers
+16860,87,3,1610,4,3,2,234,Hibernating
+16861,25,3,772,3,3,4,433,Potential Loyalists
+16862,182,4,662,3,3,1,133,Hibernating
+16863,1,2,495,2,2,5,522,Potential Loyalists
+16864,69,2,409,2,2,3,322,Regular Customers
+16865,36,1,130,1,1,3,311,Regular Customers
+16867,324,1,76,1,1,1,111,Lost Customers
+16868,29,3,393,2,3,4,432,Potential Loyalists
+16870,104,1,450,2,1,2,212,Lost Customers
+16872,62,3,533,3,3,3,333,Regular Customers
+16873,64,6,7493,5,4,3,345,Regular Customers
+16874,14,1,217,1,1,5,511,New Customers
+16875,72,6,2139,4,4,2,244,At Risk
+16876,38,1,136,1,1,3,311,Regular Customers
+16880,128,1,321,2,1,2,212,Lost Customers
+16883,6,18,2119,4,4,5,544,Champions
+16884,191,2,644,3,2,1,123,Hibernating
+16885,20,1,239,1,1,4,411,New Customers
+16886,91,1,134,1,1,2,211,Lost Customers
+16887,35,2,465,2,2,4,422,Potential Loyalists
+16888,35,3,437,2,3,4,432,Potential Loyalists
+16889,32,3,952,3,3,4,433,Potential Loyalists
+16890,111,3,285,2,3,2,232,Hibernating
+16891,6,7,1247,4,4,5,544,Champions
+16892,189,2,236,1,2,1,121,Hibernating
+16893,1,2,255,2,2,5,522,Potential Loyalists
+16894,137,3,1324,4,3,2,234,Hibernating
+16895,73,4,902,3,3,2,233,Hibernating
+16896,190,1,103,1,1,1,111,Lost Customers
+16898,3,3,507,3,3,5,533,Potential Loyalists
+16899,13,2,439,2,2,5,522,Potential Loyalists
+16901,364,1,204,1,1,1,111,Lost Customers
+16903,15,2,689,3,2,4,423,Potential Loyalists
+16904,2,7,1378,4,4,5,544,Champions
+16905,6,11,1931,4,4,5,544,Champions
+16906,63,3,869,3,3,3,333,Regular Customers
+16907,0,5,726,3,3,5,533,Potential Loyalists
+16908,357,1,252,2,1,1,112,Lost Customers
+16911,270,2,255,2,2,1,122,Hibernating
+16912,56,4,1904,4,3,3,334,Regular Customers
+16913,286,2,310,2,2,1,122,Hibernating
+16915,21,5,921,3,3,4,433,Potential Loyalists
+16916,7,3,547,3,3,5,533,Potential Loyalists
+16917,267,1,1466,4,1,1,114,Lost Customers
+16918,57,10,2144,4,4,3,344,Regular Customers
+16919,3,14,2529,5,4,5,545,Champions
+16920,46,1,355,2,1,3,312,Regular Customers
+16921,77,2,276,2,2,2,222,Hibernating
+16922,207,1,611,3,1,1,113,Lost Customers
+16923,10,13,6130,5,4,5,545,Champions
+16925,175,1,125,1,1,2,211,Lost Customers
+16926,6,5,1191,4,3,5,534,Potential Loyalists
+16928,8,13,1265,4,4,5,544,Champions
+16931,4,3,629,3,3,5,533,Potential Loyalists
+16932,58,2,278,2,2,3,322,Regular Customers
+16933,24,7,2618,5,4,4,445,Loyal Customers
+16934,18,4,1160,4,3,4,434,Potential Loyalists
+16935,16,3,535,3,3,4,433,Potential Loyalists
+16936,20,1,288,2,1,4,412,New Customers
+16937,134,1,202,1,1,2,211,Lost Customers
+16938,16,5,4306,5,3,4,435,Potential Loyalists
+16939,123,3,449,2,3,2,232,Hibernating
+16940,85,5,3377,5,3,2,235,Hibernating
+16941,246,1,33,1,1,1,111,Lost Customers
+16943,174,2,482,2,2,2,222,Hibernating
+16944,244,1,101,1,1,1,111,Lost Customers
+16945,28,14,4202,5,4,4,445,Loyal Customers
+16946,18,5,1222,4,3,4,434,Potential Loyalists
+16947,97,4,548,3,3,2,233,Hibernating
+16948,64,4,433,2,3,3,332,Regular Customers
+16950,2,8,2605,5,4,5,545,Champions
+16952,76,3,631,3,3,2,233,Hibernating
+16954,14,11,3996,5,4,5,545,Champions
+16955,3,4,790,3,3,5,533,Potential Loyalists
+16958,70,1,809,3,1,3,313,Regular Customers
+16960,25,5,1536,4,3,4,434,Potential Loyalists
+16961,23,2,560,3,2,4,423,Potential Loyalists
+16962,44,1,251,1,1,3,311,Regular Customers
+16964,368,2,207,1,2,1,121,Hibernating
+16970,261,1,71,1,1,1,111,Lost Customers
+16972,17,2,786,3,2,4,423,Potential Loyalists
+16973,21,1,127,1,1,4,411,New Customers
+16974,157,2,365,2,2,2,222,Hibernating
+16975,58,3,926,3,3,3,333,Regular Customers
+16977,30,4,496,2,3,4,432,Potential Loyalists
+16978,301,2,424,2,2,1,122,Hibernating
+16979,18,3,1007,4,3,4,434,Potential Loyalists
+16980,63,1,394,2,1,3,312,Regular Customers
+16983,4,5,1778,4,3,5,534,Potential Loyalists
+16984,39,7,6273,5,4,3,345,Regular Customers
+16985,11,13,5459,5,4,5,545,Champions
+16986,80,9,3015,5,4,2,245,At Risk
+16987,11,4,910,3,3,5,533,Potential Loyalists
+16988,14,1,256,2,1,5,512,New Customers
+16990,57,1,165,1,1,3,311,Regular Customers
+16991,56,1,1041,4,1,3,314,Regular Customers
+16992,22,8,3862,5,4,4,445,Loyal Customers
+16993,98,2,1950,4,2,2,224,Hibernating
+16996,17,3,666,3,3,4,433,Potential Loyalists
+16998,79,1,107,1,1,2,211,Lost Customers
+17000,31,2,406,2,2,4,422,Potential Loyalists
+17001,11,8,2651,5,4,5,545,Champions
+17002,78,4,1077,4,3,2,234,Hibernating
+17003,37,4,830,3,3,3,333,Regular Customers
+17004,27,2,1012,4,2,4,424,Potential Loyalists
+17005,105,2,742,3,2,2,223,Hibernating
+17006,27,4,854,3,3,4,433,Potential Loyalists
+17007,72,1,230,1,1,2,211,Lost Customers
+17008,64,1,81,1,1,3,311,Regular Customers
+17009,186,1,242,1,1,1,111,Lost Customers
+17011,282,2,400,2,2,1,122,Hibernating
+17012,360,1,384,2,1,1,112,Lost Customers
+17016,211,1,552,3,1,1,113,Lost Customers
+17017,0,13,5416,5,4,5,545,Champions
+17018,22,4,1367,4,3,4,434,Potential Loyalists
+17019,3,8,2739,5,4,5,545,Champions
+17020,177,2,935,3,2,1,123,Hibernating
+17021,77,6,1182,4,4,2,244,At Risk
+17022,67,1,189,1,1,3,311,Regular Customers
+17023,52,3,800,3,3,3,333,Regular Customers
+17025,8,4,1152,4,3,5,534,Potential Loyalists
+17026,4,2,54,1,2,5,521,Potential Loyalists
+17027,81,3,436,2,3,2,232,Hibernating
+17028,216,3,1593,4,3,1,134,Hibernating
+17029,17,5,1421,4,3,4,434,Potential Loyalists
+17031,13,4,2393,5,3,5,535,Potential Loyalists
+17032,182,8,3004,5,4,1,145,At Risk
+17033,32,1,302,2,1,4,412,New Customers
+17034,44,2,538,3,2,3,323,Regular Customers
+17035,226,2,180,1,2,1,121,Hibernating
+17036,18,1,176,1,1,4,411,New Customers
+17038,50,1,630,3,1,3,313,Regular Customers
+17039,239,1,1954,4,1,1,114,Lost Customers
+17040,185,1,13,1,1,1,111,Lost Customers
+17041,32,3,604,3,3,4,433,Potential Loyalists
+17043,10,4,881,3,3,5,533,Potential Loyalists
+17044,9,11,11013,5,4,5,545,Champions
+17045,11,2,488,2,2,5,522,Potential Loyalists
+17046,79,4,1264,4,3,2,234,Hibernating
+17047,66,3,1188,4,3,3,334,Regular Customers
+17048,72,4,1146,4,3,2,234,Hibernating
+17049,10,10,4287,5,4,5,545,Champions
+17050,10,5,1462,4,3,5,534,Potential Loyalists
+17051,81,3,467,2,3,2,232,Hibernating
+17055,80,1,239,1,1,2,211,Lost Customers
+17056,373,1,128,1,1,1,111,Lost Customers
+17057,231,1,294,2,1,1,112,Lost Customers
+17059,4,5,2507,5,3,5,535,Potential Loyalists
+17062,0,4,669,3,3,5,533,Potential Loyalists
+17063,42,6,2177,5,4,3,345,Regular Customers
+17065,272,2,194,1,2,1,121,Hibernating
+17066,361,1,228,1,1,1,111,Lost Customers
+17067,359,3,454,2,3,1,132,Hibernating
+17068,3,27,4608,5,5,5,555,Champions
+17069,8,6,3084,5,4,5,545,Champions
+17070,45,1,133,1,1,3,311,Regular Customers
+17071,16,4,1372,4,3,4,434,Potential Loyalists
+17072,260,1,282,2,1,1,112,Lost Customers
+17074,197,1,203,1,1,1,111,Lost Customers
+17075,64,6,1407,4,4,3,344,Regular Customers
+17076,27,3,401,2,3,4,432,Potential Loyalists
+17077,213,1,306,2,1,1,112,Lost Customers
+17080,14,5,669,3,3,5,533,Potential Loyalists
+17081,30,4,674,3,3,4,433,Potential Loyalists
+17082,29,4,2728,5,3,4,435,Potential Loyalists
+17083,44,6,2644,5,4,3,345,Regular Customers
+17084,31,1,2253,5,1,4,415,New Customers
+17085,11,23,6324,5,5,5,555,Champions
+17087,372,1,221,1,1,1,111,Lost Customers
+17089,21,1,128,1,1,4,411,New Customers
+17090,9,6,1105,4,4,5,544,Champions
+17091,2,11,3983,5,4,5,545,Champions
+17092,72,7,3817,5,4,2,245,At Risk
+17093,227,1,235,1,1,1,111,Lost Customers
+17094,58,1,100,1,1,3,311,Regular Customers
+17095,65,4,1248,4,3,3,334,Regular Customers
+17096,18,7,2737,5,4,4,445,Loyal Customers
+17097,0,2,386,2,2,5,522,Potential Loyalists
+17098,16,3,591,3,3,4,433,Potential Loyalists
+17099,168,1,582,3,1,2,213,Lost Customers
+17101,29,3,885,3,3,4,433,Potential Loyalists
+17103,357,1,424,2,1,1,112,Lost Customers
+17104,58,1,474,2,1,3,312,Regular Customers
+17106,24,1,491,2,1,4,412,New Customers
+17107,32,4,5259,5,3,4,435,Potential Loyalists
+17108,298,1,174,1,1,1,111,Lost Customers
+17109,41,2,410,2,2,3,322,Regular Customers
+17110,155,2,347,2,2,2,222,Hibernating
+17111,60,1,227,1,1,3,311,Regular Customers
+17112,137,1,205,1,1,2,211,Lost Customers
+17113,209,6,2322,5,4,1,145,At Risk
+17115,183,4,1923,4,3,1,134,Hibernating
+17116,283,1,389,2,1,1,112,Lost Customers
+17121,37,1,314,2,1,3,312,Regular Customers
+17122,23,3,432,2,3,4,432,Potential Loyalists
+17123,74,2,631,3,2,2,223,Hibernating
+17126,16,4,1065,4,3,4,434,Potential Loyalists
+17127,63,5,1155,4,3,3,334,Regular Customers
+17129,155,1,31,1,1,2,211,Lost Customers
+17132,87,2,1272,4,2,2,224,Hibernating
+17133,109,5,9730,5,3,2,235,Hibernating
+17134,77,1,212,1,1,2,211,Lost Customers
+17135,6,4,814,3,3,5,533,Potential Loyalists
+17136,297,1,231,1,1,1,111,Lost Customers
+17137,51,6,1133,4,4,3,344,Regular Customers
+17138,24,6,4036,5,4,4,445,Loyal Customers
+17139,24,13,8915,5,4,4,445,Loyal Customers
+17141,53,4,754,3,3,3,333,Regular Customers
+17142,39,3,704,3,3,3,333,Regular Customers
+17143,52,2,924,3,2,3,323,Regular Customers
+17145,147,4,3120,5,3,2,235,Hibernating
+17146,70,10,5110,5,4,3,345,Regular Customers
+17147,87,5,1485,4,3,2,234,Hibernating
+17149,86,1,143,1,1,2,211,Lost Customers
+17150,11,6,1375,4,4,5,544,Champions
+17151,370,1,231,1,1,1,111,Lost Customers
+17152,60,1,327,2,1,3,312,Regular Customers
+17155,162,5,640,3,3,2,233,Hibernating
+17156,126,1,591,3,1,2,213,Lost Customers
+17157,115,17,4832,5,4,2,245,At Risk
+17158,182,2,713,3,2,1,123,Hibernating
+17159,112,2,560,3,2,2,223,Hibernating
+17160,9,11,6691,5,4,5,545,Champions
+17161,79,1,856,3,1,2,213,Lost Customers
+17163,80,2,406,2,2,2,222,Hibernating
+17165,16,5,1635,4,3,4,434,Potential Loyalists
+17167,14,3,867,3,3,5,533,Potential Loyalists
+17168,133,1,400,2,1,2,212,Lost Customers
+17169,213,1,320,2,1,1,112,Lost Customers
+17170,9,2,178,1,2,5,521,Potential Loyalists
+17171,296,1,159,1,1,1,111,Lost Customers
+17172,65,2,638,3,2,3,323,Regular Customers
+17176,161,2,596,3,2,2,223,Hibernating
+17177,140,1,119,1,1,2,211,Lost Customers
+17178,366,1,436,2,1,1,112,Lost Customers
+17179,17,3,795,3,3,4,433,Potential Loyalists
+17180,57,7,1460,4,4,3,344,Regular Customers
+17181,8,2,225,1,2,5,521,Potential Loyalists
+17182,57,2,321,2,2,3,322,Regular Customers
+17184,204,2,198,1,2,1,121,Hibernating
+17185,226,3,229,1,3,1,131,Hibernating
+17187,161,1,263,2,1,2,212,Lost Customers
+17188,81,6,2118,4,4,2,244,At Risk
+17189,195,3,573,3,3,1,133,Hibernating
+17190,38,5,1298,4,3,3,334,Regular Customers
+17191,3,11,2740,5,4,5,545,Champions
+17192,171,1,77,1,1,2,211,Lost Customers
+17193,21,2,610,3,2,4,423,Potential Loyalists
+17194,165,1,549,3,1,2,213,Lost Customers
+17195,290,1,562,3,1,1,113,Lost Customers
+17196,62,1,352,2,1,3,312,Regular Customers
+17198,0,2,521,3,2,5,523,Potential Loyalists
+17199,217,1,145,1,1,1,111,Lost Customers
+17200,22,4,356,2,3,4,432,Potential Loyalists
+17201,158,3,899,3,3,2,233,Hibernating
+17202,55,1,160,1,1,3,311,Regular Customers
+17203,23,4,2012,4,3,4,434,Potential Loyalists
+17204,9,5,3940,5,3,5,535,Potential Loyalists
+17205,51,2,615,3,2,3,323,Regular Customers
+17207,287,1,303,2,1,1,112,Lost Customers
+17208,30,1,115,1,1,4,411,New Customers
+17209,284,3,611,3,3,1,133,Hibernating
+17210,27,1,253,2,1,4,412,New Customers
+17211,4,6,1729,4,4,5,544,Champions
+17212,93,2,567,3,2,2,223,Hibernating
+17213,1,7,2401,5,4,5,545,Champions
+17215,99,1,186,1,1,2,211,Lost Customers
+17216,189,1,65,1,1,1,111,Lost Customers
+17217,254,1,104,1,1,1,111,Lost Customers
+17218,3,9,2231,5,4,5,545,Champions
+17219,51,1,144,1,1,3,311,Regular Customers
+17220,52,7,1283,4,4,3,344,Regular Customers
+17221,226,3,643,3,3,1,133,Hibernating
+17222,112,5,1250,4,3,2,234,Hibernating
+17223,3,2,446,2,2,5,522,Potential Loyalists
+17224,136,1,100,1,1,2,211,Lost Customers
+17225,216,1,131,1,1,1,111,Lost Customers
+17226,79,2,506,3,2,2,223,Hibernating
+17227,3,7,1082,4,4,5,544,Champions
+17228,2,7,1271,4,4,5,544,Champions
+17230,198,10,6286,5,4,1,145,At Risk
+17231,24,15,4022,5,4,4,445,Loyal Customers
+17233,83,2,369,2,2,2,222,Hibernating
+17235,7,7,1354,4,4,5,544,Champions
+17236,45,6,1013,4,4,3,344,Regular Customers
+17237,10,2,687,3,2,5,523,Potential Loyalists
+17238,6,17,4038,5,4,5,545,Champions
+17239,22,3,806,3,3,4,433,Potential Loyalists
+17240,231,1,130,1,1,1,111,Lost Customers
+17241,20,12,2744,5,4,4,445,Loyal Customers
+17242,91,3,1754,4,3,2,234,Hibernating
+17243,4,44,12213,5,5,5,555,Champions
+17244,18,4,871,3,3,4,433,Potential Loyalists
+17245,324,1,200,1,1,1,111,Lost Customers
+17246,181,2,38,1,2,1,121,Hibernating
+17248,116,1,227,1,1,2,211,Lost Customers
+17249,63,1,68,1,1,3,311,Regular Customers
+17251,17,2,529,3,2,4,423,Potential Loyalists
+17254,36,1,198,1,1,3,311,Regular Customers
+17255,25,2,500,2,2,4,422,Potential Loyalists
+17256,116,3,258,2,3,2,232,Hibernating
+17257,71,2,192,1,2,2,221,Hibernating
+17258,31,2,417,2,2,4,422,Potential Loyalists
+17259,3,5,1285,4,3,5,534,Potential Loyalists
+17260,46,1,120,1,1,3,311,Regular Customers
+17261,144,1,230,1,1,2,211,Lost Customers
+17262,1,7,1504,4,4,5,544,Champions
+17264,59,1,279,2,1,3,312,Regular Customers
+17266,134,2,207,1,2,2,221,Hibernating
+17268,80,7,970,3,4,2,243,At Risk
+17269,20,1,537,3,1,4,413,New Customers
+17270,104,2,604,3,2,2,223,Hibernating
+17271,371,1,210,1,1,1,111,Lost Customers
+17273,59,1,141,1,1,3,311,Regular Customers
+17274,30,1,465,2,1,4,412,New Customers
+17275,18,1,114,1,1,4,411,New Customers
+17276,37,1,508,3,1,3,313,Regular Customers
+17278,200,1,25,1,1,1,111,Lost Customers
+17280,73,1,118,1,1,2,211,Lost Customers
+17281,9,6,797,3,4,5,543,Loyal Customers
+17282,91,2,636,3,2,2,223,Hibernating
+17283,13,1,188,1,1,5,511,New Customers
+17284,24,2,1140,4,2,4,424,Potential Loyalists
+17285,263,2,428,2,2,1,122,Hibernating
+17286,35,2,241,1,2,4,421,Potential Loyalists
+17287,2,16,3047,5,4,5,545,Champions
+17288,25,4,1080,4,3,4,434,Potential Loyalists
+17289,11,6,1134,4,4,5,544,Champions
+17290,16,6,976,3,4,4,443,Loyal Customers
+17292,107,2,271,2,2,2,222,Hibernating
+17293,29,8,1899,4,4,4,444,Loyal Customers
+17294,304,2,467,2,2,1,122,Hibernating
+17296,365,1,338,2,1,1,112,Lost Customers
+17298,9,3,459,2,3,5,532,Potential Loyalists
+17299,74,2,346,2,2,2,222,Hibernating
+17300,25,2,393,2,2,4,422,Potential Loyalists
+17301,259,1,132,1,1,1,111,Lost Customers
+17304,169,1,111,1,1,2,211,Lost Customers
+17305,283,1,2135,4,1,1,114,Lost Customers
+17306,28,2,1151,4,2,4,424,Potential Loyalists
+17307,30,11,3999,5,4,4,445,Loyal Customers
+17308,28,2,4511,5,2,4,425,Potential Loyalists
+17309,16,2,247,1,2,4,421,Potential Loyalists
+17310,22,2,1025,4,2,4,424,Potential Loyalists
+17311,27,4,2181,5,3,4,435,Potential Loyalists
+17314,28,9,2376,5,4,4,445,Loyal Customers
+17315,10,5,3358,5,3,5,535,Potential Loyalists
+17316,55,1,124,1,1,3,311,Regular Customers
+17318,360,1,164,1,1,1,111,Lost Customers
+17319,304,1,29,1,1,1,111,Lost Customers
+17320,3,4,1695,4,3,5,534,Potential Loyalists
+17321,29,4,1040,4,3,4,434,Potential Loyalists
+17322,11,5,922,3,3,5,533,Potential Loyalists
+17323,42,5,644,3,3,3,333,Regular Customers
+17324,1,9,1311,4,4,5,544,Champions
+17325,45,2,512,3,2,3,323,Regular Customers
+17326,43,2,321,2,2,3,322,Regular Customers
+17327,44,2,152,1,2,3,321,Regular Customers
+17328,308,1,104,1,1,1,111,Lost Customers
+17329,366,3,481,2,3,1,132,Hibernating
+17330,179,2,59,1,2,1,121,Hibernating
+17332,163,5,838,3,3,2,233,Hibernating
+17334,41,1,328,2,1,3,312,Regular Customers
+17335,18,2,508,3,2,4,423,Potential Loyalists
+17336,107,1,81,1,1,2,211,Lost Customers
+17338,10,9,5498,5,4,5,545,Champions
+17339,0,2,119,1,2,5,521,Potential Loyalists
+17340,1,8,10051,5,4,5,545,Champions
+17341,1,3,1108,4,3,5,534,Potential Loyalists
+17342,14,4,1227,4,3,5,534,Potential Loyalists
+17343,11,5,1066,4,3,5,534,Potential Loyalists
+17344,363,1,307,2,1,1,112,Lost Customers
+17345,10,6,1066,4,4,5,544,Champions
+17346,8,12,2646,5,4,5,545,Champions
+17348,72,4,1316,4,3,2,234,Hibernating
+17349,15,4,741,3,3,4,433,Potential Loyalists
+17350,29,3,619,3,3,4,433,Potential Loyalists
+17351,62,9,1401,4,4,3,344,Regular Customers
+17352,331,1,36,1,1,1,111,Lost Customers
+17353,126,2,1502,4,2,2,224,Hibernating
+17354,63,3,1750,4,3,3,334,Regular Customers
+17355,21,1,285,2,1,4,412,New Customers
+17356,189,4,768,3,3,1,133,Hibernating
+17358,11,3,500,2,3,5,532,Potential Loyalists
+17359,283,1,156,1,1,1,111,Lost Customers
+17360,20,3,645,3,3,4,433,Potential Loyalists
+17361,311,2,392,2,2,1,122,Hibernating
+17362,35,5,711,3,3,4,433,Potential Loyalists
+17363,30,3,940,3,3,4,433,Potential Loyalists
+17364,11,17,7589,5,4,5,545,Champions
+17365,21,7,3423,5,4,4,445,Loyal Customers
+17366,67,2,1096,4,2,3,324,Regular Customers
+17368,10,6,913,3,4,5,543,Loyal Customers
+17369,90,1,979,3,1,2,213,Lost Customers
+17371,258,3,238,1,3,1,131,Hibernating
+17372,16,20,3034,5,4,4,445,Loyal Customers
+17373,53,3,520,3,3,3,333,Regular Customers
+17374,30,1,231,1,1,4,411,New Customers
+17375,66,1,260,2,1,3,312,Regular Customers
+17376,39,2,250,1,2,3,321,Regular Customers
+17377,0,60,14218,5,5,5,555,Champions
+17378,9,1,10,1,1,5,511,New Customers
+17380,69,3,645,3,3,3,333,Regular Customers
+17381,3,12,19726,5,4,5,545,Champions
+17382,70,7,836,3,4,3,343,Regular Customers
+17383,88,1,110,1,1,2,211,Lost Customers
+17384,102,1,171,1,1,2,211,Lost Customers
+17386,20,1,126,1,1,4,411,New Customers
+17388,55,7,1432,4,4,3,344,Regular Customers
+17389,9,27,25391,5,5,5,555,Champions
+17390,55,1,149,1,1,3,311,Regular Customers
+17392,85,1,168,1,1,2,211,Lost Customers
+17393,45,2,381,2,2,3,322,Regular Customers
+17395,143,1,97,1,1,2,211,Lost Customers
+17396,6,7,1476,4,4,5,544,Champions
+17397,51,1,536,3,1,3,313,Regular Customers
+17400,216,3,2547,5,3,1,135,Hibernating
+17401,176,1,114,1,1,1,111,Lost Customers
+17402,4,12,2462,5,4,5,545,Champions
+17403,85,1,118,1,1,2,211,Lost Customers
+17404,44,8,15874,5,4,3,345,Regular Customers
+17406,1,11,2704,5,4,5,545,Champions
+17407,46,1,552,3,1,3,313,Regular Customers
+17408,135,2,283,2,2,2,222,Hibernating
+17409,56,8,7021,5,4,3,345,Regular Customers
+17411,21,2,646,3,2,4,423,Potential Loyalists
+17412,7,10,3159,5,4,5,545,Champions
+17413,39,2,560,3,2,3,323,Regular Customers
+17414,58,4,1471,4,3,3,334,Regular Customers
+17416,28,15,10405,5,4,4,445,Loyal Customers
+17417,183,1,164,1,1,1,111,Lost Customers
+17418,22,1,206,1,1,4,411,New Customers
+17419,2,8,2273,5,4,5,545,Champions
+17420,8,4,485,2,3,5,532,Potential Loyalists
+17421,21,3,1059,4,3,4,434,Potential Loyalists
+17422,16,5,1615,4,3,4,434,Potential Loyalists
+17423,28,1,420,2,1,4,412,New Customers
+17426,87,7,3040,5,4,2,245,At Risk
+17428,3,18,14562,5,4,5,545,Champions
+17429,31,2,832,3,2,4,423,Potential Loyalists
+17430,0,3,469,2,3,5,532,Potential Loyalists
+17432,20,7,1385,4,4,4,444,Loyal Customers
+17433,20,1,266,2,1,4,412,New Customers
+17435,46,1,331,2,1,3,312,Regular Customers
+17436,43,3,317,2,3,3,332,Regular Customers
+17437,164,1,373,2,1,2,212,Lost Customers
+17438,79,4,1034,4,3,2,234,Hibernating
+17439,290,1,325,2,1,1,112,Lost Customers
+17440,184,1,137,1,1,1,111,Lost Customers
+17441,367,1,293,2,1,1,112,Lost Customers
+17442,16,9,2371,5,4,4,445,Loyal Customers
+17448,132,46,14556,5,5,2,255,At Risk
+17449,22,6,2430,5,4,4,445,Loyal Customers
+17450,2,7,52422,5,4,5,545,Champions
+17454,97,6,1030,4,4,2,244,At Risk
+17456,0,2,975,3,2,5,523,Potential Loyalists
+17457,14,9,4247,5,4,5,545,Champions
+17458,16,1,213,1,1,4,411,New Customers
+17460,7,12,1605,4,4,5,544,Champions
+17463,195,2,661,3,2,1,123,Hibernating
+17464,157,2,710,3,2,2,223,Hibernating
+17465,60,7,2542,5,4,3,345,Regular Customers
+17467,30,1,102,1,1,4,411,New Customers
+17468,10,1,57,1,1,5,511,New Customers
+17469,35,12,3180,5,4,4,445,Loyal Customers
+17470,2,7,1679,4,4,5,544,Champions
+17471,109,1,321,2,1,2,212,Lost Customers
+17472,263,1,224,1,1,1,111,Lost Customers
+17473,43,2,607,3,2,3,323,Regular Customers
+17474,234,1,1047,4,1,1,114,Lost Customers
+17476,30,2,489,2,2,4,422,Potential Loyalists
+17477,247,2,1144,4,2,1,124,Hibernating
+17478,43,2,1272,4,2,3,324,Regular Customers
+17479,267,1,389,2,1,1,112,Lost Customers
+17480,79,1,390,2,1,2,212,Lost Customers
+17482,122,2,778,3,2,2,223,Hibernating
+17483,49,1,177,1,1,3,311,Regular Customers
+17484,211,2,209,1,2,1,121,Hibernating
+17487,363,1,160,1,1,1,111,Lost Customers
+17488,276,1,336,2,1,1,112,Lost Customers
+17490,23,2,658,3,2,4,423,Potential Loyalists
+17491,2,8,2422,5,4,5,545,Champions
+17492,113,2,747,3,2,2,223,Hibernating
+17493,20,1,100,1,1,4,411,New Customers
+17494,136,1,54,1,1,2,211,Lost Customers
+17495,25,1,309,2,1,4,412,New Customers
+17496,198,3,1141,4,3,1,134,Hibernating
+17497,25,2,287,2,2,4,422,Potential Loyalists
+17499,196,1,718,3,1,1,113,Lost Customers
+17504,15,9,6568,5,4,4,445,Loyal Customers
+17505,185,3,1289,4,3,1,134,Hibernating
+17508,16,7,4191,5,4,4,445,Loyal Customers
+17510,55,1,206,1,1,3,311,Regular Customers
+17511,2,31,84541,5,5,5,555,Champions
+17512,87,8,2542,5,4,2,245,At Risk
+17513,43,2,645,3,2,3,323,Regular Customers
+17514,304,1,334,2,1,1,112,Lost Customers
+17515,29,5,978,3,3,4,433,Potential Loyalists
+17516,13,1,189,1,1,5,511,New Customers
+17518,60,2,329,2,2,3,322,Regular Customers
+17519,3,10,3265,5,4,5,545,Champions
+17521,29,2,554,3,2,4,423,Potential Loyalists
+17524,73,2,394,2,2,2,222,Hibernating
+17525,32,2,739,3,2,4,423,Potential Loyalists
+17526,0,9,2970,5,4,5,545,Champions
+17529,245,2,1240,4,2,1,124,Hibernating
+17530,0,3,756,3,3,5,533,Potential Loyalists
+17531,162,2,970,3,2,2,223,Hibernating
+17532,20,1,65,1,1,4,411,New Customers
+17533,69,1,34,1,1,3,311,Regular Customers
+17534,86,4,1445,4,3,2,234,Hibernating
+17536,55,2,288,2,2,3,322,Regular Customers
+17539,252,4,1226,4,3,1,134,Hibernating
+17540,18,4,1011,4,3,4,434,Potential Loyalists
+17541,144,1,124,1,1,2,211,Lost Customers
+17542,276,2,170,1,2,1,121,Hibernating
+17543,184,1,120,1,1,1,111,Lost Customers
+17544,25,3,960,3,3,4,433,Potential Loyalists
+17545,25,3,802,3,3,4,433,Potential Loyalists
+17547,10,2,727,3,2,5,523,Potential Loyalists
+17548,13,3,627,3,3,5,533,Potential Loyalists
+17550,32,6,2280,5,4,4,445,Loyal Customers
+17552,7,10,2154,5,4,5,545,Champions
+17553,107,3,2270,5,3,2,235,Hibernating
+17555,60,3,574,3,3,3,333,Regular Customers
+17556,14,1,142,1,1,5,511,New Customers
+17557,367,1,34,1,1,1,111,Lost Customers
+17558,28,1,259,2,1,4,412,New Customers
+17559,147,1,167,1,1,2,211,Lost Customers
+17560,30,4,1040,4,3,4,434,Potential Loyalists
+17561,25,3,554,3,3,4,433,Potential Loyalists
+17563,213,2,392,2,2,1,122,Hibernating
+17565,221,1,131,1,1,1,111,Lost Customers
+17567,7,2,1024,4,2,5,524,Potential Loyalists
+17568,268,1,382,2,1,1,112,Lost Customers
+17570,16,1,100,1,1,4,411,New Customers
+17571,177,1,205,1,1,1,111,Lost Customers
+17572,8,7,496,2,4,5,542,Loyal Customers
+17575,302,1,171,1,1,1,111,Lost Customers
+17576,0,23,5434,5,5,5,555,Champions
+17577,280,2,348,2,2,1,122,Hibernating
+17578,109,6,903,3,4,2,243,At Risk
+17579,213,1,304,2,1,1,112,Lost Customers
+17580,11,2,329,2,2,5,522,Potential Loyalists
+17581,7,20,7712,5,4,5,545,Champions
+17582,81,4,1275,4,3,2,234,Hibernating
+17583,195,1,135,1,1,1,111,Lost Customers
+17584,102,4,4067,5,3,2,235,Hibernating
+17585,80,3,960,3,3,2,233,Hibernating
+17586,254,1,167,1,1,1,111,Lost Customers
+17587,263,1,181,1,1,1,111,Lost Customers
+17588,31,4,1699,4,3,4,434,Potential Loyalists
+17589,20,14,11645,5,4,4,445,Loyal Customers
+17591,2,2,550,3,2,5,523,Potential Loyalists
+17592,373,1,148,1,1,1,111,Lost Customers
+17593,44,6,4168,5,4,3,345,Regular Customers
+17594,84,2,1504,4,2,2,224,Hibernating
+17596,3,7,2092,4,4,5,544,Champions
+17597,53,4,1439,4,3,3,334,Regular Customers
+17598,16,1,409,2,1,4,412,New Customers
+17599,112,1,52,1,1,2,211,Lost Customers
+17601,15,1,305,2,1,4,412,New Customers
+17602,107,8,2348,5,4,2,245,At Risk
+17603,252,3,1398,4,3,1,134,Hibernating
+17604,57,4,636,3,3,3,333,Regular Customers
+17605,225,1,160,1,1,1,111,Lost Customers
+17606,372,1,87,1,1,1,111,Lost Customers
+17607,11,1,333,2,1,5,512,New Customers
+17608,84,2,305,2,2,2,222,Hibernating
+17609,37,6,782,3,4,3,343,Regular Customers
+17610,175,5,1529,4,3,2,234,Hibernating
+17611,56,13,4387,5,4,3,345,Regular Customers
+17612,14,12,3346,5,4,5,545,Champions
+17615,22,3,403,2,3,4,432,Potential Loyalists
+17616,2,2,489,2,2,5,522,Potential Loyalists
+17617,193,1,395,2,1,1,112,Lost Customers
+17618,18,8,3101,5,4,4,445,Loyal Customers
+17621,39,3,1795,4,3,3,334,Regular Customers
+17622,232,2,1130,4,2,1,124,Hibernating
+17623,44,6,1856,4,4,3,344,Regular Customers
+17624,72,2,725,3,2,2,223,Hibernating
+17625,81,4,4020,5,3,2,235,Hibernating
+17626,237,1,254,2,1,1,112,Lost Customers
+17627,113,1,296,2,1,2,212,Lost Customers
+17629,23,2,641,3,2,4,423,Potential Loyalists
+17631,9,4,470,2,3,5,532,Potential Loyalists
+17633,14,3,732,3,3,5,533,Potential Loyalists
+17635,59,3,1265,4,3,3,334,Regular Customers
+17638,282,2,842,3,2,1,123,Hibernating
+17639,22,5,506,3,3,4,433,Potential Loyalists
+17640,14,5,2547,5,3,5,535,Potential Loyalists
+17642,64,3,1112,4,3,3,334,Regular Customers
+17643,8,2,439,2,2,5,522,Potential Loyalists
+17644,29,9,3132,5,4,4,445,Loyal Customers
+17646,0,10,3141,5,4,5,545,Champions
+17647,304,2,198,1,2,1,121,Hibernating
+17648,20,1,418,2,1,4,412,New Customers
+17649,104,2,710,3,2,2,223,Hibernating
+17651,133,6,1758,4,4,2,244,At Risk
+17655,1,3,1013,4,3,5,534,Potential Loyalists
+17657,65,1,126,1,1,3,311,Regular Customers
+17659,7,3,835,3,3,5,533,Potential Loyalists
+17660,372,1,163,1,1,1,111,Lost Customers
+17662,296,2,412,2,2,1,122,Hibernating
+17663,52,10,3372,5,4,3,345,Regular Customers
+17664,109,2,561,3,2,2,223,Hibernating
+17665,128,1,563,3,1,2,213,Lost Customers
+17666,112,3,1319,4,3,2,234,Hibernating
+17667,70,4,1895,4,3,3,334,Regular Customers
+17669,97,3,2735,5,3,2,235,Hibernating
+17671,0,2,830,3,2,5,523,Potential Loyalists
+17672,52,5,2600,5,3,3,335,Regular Customers
+17673,10,7,2604,5,4,5,545,Champions
+17674,3,1,300,2,1,5,512,New Customers
+17675,2,40,17885,5,5,5,555,Champions
+17676,1,5,1378,4,3,5,534,Potential Loyalists
+17677,1,28,20329,5,5,5,555,Champions
+17678,238,1,301,2,1,1,112,Lost Customers
+17679,156,5,1585,4,3,2,234,Hibernating
+17680,18,2,313,2,2,4,422,Potential Loyalists
+17681,232,5,731,3,3,1,133,Hibernating
+17682,3,6,1982,4,4,5,544,Champions
+17683,20,3,819,3,3,4,433,Potential Loyalists
+17685,7,6,2751,5,4,5,545,Champions
+17686,58,2,2557,5,2,3,325,Regular Customers
+17687,55,1,432,2,1,3,312,Regular Customers
+17688,28,1,304,2,1,4,412,New Customers
+17689,23,2,317,2,2,4,422,Potential Loyalists
+17690,1,8,2690,5,4,5,545,Champions
+17691,3,3,489,2,3,5,532,Potential Loyalists
+17692,31,8,2234,5,4,4,445,Loyal Customers
+17694,146,2,1412,4,2,2,224,Hibernating
+17695,29,3,980,3,3,4,433,Potential Loyalists
+17696,17,19,5393,5,4,4,445,Loyal Customers
+17699,111,2,442,2,2,2,222,Hibernating
+17700,16,10,4145,5,4,4,445,Loyal Customers
+17702,18,2,1319,4,2,4,424,Potential Loyalists
+17703,53,1,296,2,1,3,312,Regular Customers
+17705,90,2,260,2,2,2,222,Hibernating
+17706,1,17,10245,5,4,5,545,Champions
+17707,11,6,456,2,4,5,542,Loyal Customers
+17708,37,2,620,3,2,3,323,Regular Customers
+17709,105,4,533,3,3,2,233,Hibernating
+17710,58,1,293,2,1,3,312,Regular Customers
+17713,17,4,1198,4,3,4,434,Potential Loyalists
+17714,59,4,1257,4,3,3,334,Regular Customers
+17715,227,1,163,1,1,1,111,Lost Customers
+17716,31,13,10300,5,4,4,445,Loyal Customers
+17717,56,1,376,2,1,3,312,Regular Customers
+17718,279,1,299,2,1,1,112,Lost Customers
+17720,2,7,1572,4,4,5,544,Champions
+17721,294,1,307,2,1,1,112,Lost Customers
+17722,1,2,2006,4,2,5,524,Potential Loyalists
+17723,10,1,102,1,1,5,511,New Customers
+17726,30,7,1092,4,4,4,444,Loyal Customers
+17728,39,2,1362,4,2,3,324,Regular Customers
+17729,231,1,438,2,1,1,112,Lost Customers
+17730,17,7,2475,5,4,4,445,Loyal Customers
+17731,256,2,468,2,2,1,122,Hibernating
+17732,7,8,2166,5,4,5,545,Champions
+17734,160,3,741,3,3,2,233,Hibernating
+17735,2,8,4134,5,4,5,545,Champions
+17738,30,9,2304,5,4,4,445,Loyal Customers
+17739,9,11,4939,5,4,5,545,Champions
+17740,24,6,426,2,4,4,442,Loyal Customers
+17741,41,2,101,1,2,3,321,Regular Customers
+17742,63,9,1743,4,4,3,344,Regular Customers
+17743,83,1,229,1,1,2,211,Lost Customers
+17744,15,1,326,2,1,4,412,New Customers
+17745,112,2,600,3,2,2,223,Hibernating
+17746,106,3,793,3,3,2,233,Hibernating
+17748,162,1,358,2,1,2,212,Lost Customers
+17749,181,1,351,2,1,1,112,Lost Customers
+17751,56,1,157,1,1,3,311,Regular Customers
+17753,99,4,390,2,3,2,232,Hibernating
+17754,9,8,2805,5,4,5,545,Champions
+17756,10,3,733,3,3,5,533,Potential Loyalists
+17757,3,28,3817,5,5,5,555,Champions
+17758,62,4,1555,4,3,3,334,Regular Customers
+17759,28,2,441,2,2,4,422,Potential Loyalists
+17760,8,5,631,3,3,5,533,Potential Loyalists
+17762,91,1,129,1,1,2,211,Lost Customers
+17763,288,3,71,1,3,1,131,Hibernating
+17764,37,3,804,3,3,3,333,Regular Customers
+17765,83,1,158,1,1,2,211,Lost Customers
+17766,16,2,299,2,2,4,422,Potential Loyalists
+17767,45,1,141,1,1,3,311,Regular Customers
+17768,22,4,1236,4,3,4,434,Potential Loyalists
+17769,18,7,3105,5,4,4,445,Loyal Customers
+17771,71,2,141,1,2,2,221,Hibernating
+17772,27,1,202,1,1,4,411,New Customers
+17773,149,2,585,3,2,2,223,Hibernating
+17774,32,5,2102,4,3,4,434,Potential Loyalists
+17776,21,2,338,2,2,4,422,Potential Loyalists
+17778,296,1,197,1,1,1,111,Lost Customers
+17780,302,3,352,2,3,1,132,Hibernating
+17782,17,2,679,3,2,4,423,Potential Loyalists
+17783,147,1,96,1,1,2,211,Lost Customers
+17784,185,1,112,1,1,1,111,Lost Customers
+17785,80,2,271,2,2,2,222,Hibernating
+17787,6,1,736,3,1,5,513,New Customers
+17789,296,1,171,1,1,1,111,Lost Customers
+17790,13,6,818,3,4,5,543,Loyal Customers
+17792,102,2,370,2,2,2,222,Hibernating
+17794,321,2,147,1,2,1,121,Hibernating
+17796,4,4,664,3,3,5,533,Potential Loyalists
+17797,30,5,1205,4,3,4,434,Potential Loyalists
+17798,216,1,183,1,1,1,111,Lost Customers
+17799,24,10,3285,5,4,4,445,Loyal Customers
+17801,86,3,798,3,3,2,233,Hibernating
+17802,7,8,3768,5,4,5,545,Champions
+17803,27,1,184,1,1,4,411,New Customers
+17804,11,3,385,2,3,5,532,Potential Loyalists
+17805,245,1,414,2,1,1,112,Lost Customers
+17807,30,3,437,2,3,4,432,Potential Loyalists
+17808,183,4,262,2,3,1,132,Hibernating
+17809,6,11,5925,5,4,5,545,Champions
+17810,303,2,374,2,2,1,122,Hibernating
+17811,9,8,1772,4,4,5,544,Champions
+17812,3,4,433,2,3,5,532,Potential Loyalists
+17814,10,2,1617,4,2,5,524,Potential Loyalists
+17815,28,1,591,3,1,4,413,New Customers
+17816,0,3,75,1,3,5,531,Potential Loyalists
+17817,13,3,420,2,3,5,532,Potential Loyalists
+17818,372,1,130,1,1,1,111,Lost Customers
+17819,6,6,2907,5,4,5,545,Champions
+17820,9,1,183,1,1,5,511,New Customers
+17821,41,1,334,2,1,3,312,Regular Customers
+17822,55,5,2188,5,3,3,335,Regular Customers
+17823,56,2,494,2,2,3,322,Regular Customers
+17825,233,4,731,3,3,1,133,Hibernating
+17826,9,1,134,1,1,5,511,New Customers
+17827,256,1,392,2,1,1,112,Lost Customers
+17829,44,4,3867,5,3,3,335,Regular Customers
+17833,358,1,342,2,1,1,112,Lost Customers
+17834,49,2,730,3,2,3,323,Regular Customers
+17838,0,10,3943,5,4,5,545,Champions
+17840,78,1,185,1,1,2,211,Lost Customers
+17841,0,91,29892,5,5,5,555,Champions
+17842,237,1,430,2,1,1,112,Lost Customers
+17843,46,1,120,1,1,3,311,Regular Customers
+17845,190,4,598,3,3,1,133,Hibernating
+17847,150,2,129,1,2,2,221,Hibernating
+17848,52,21,2749,5,5,3,355,Regular Customers
+17849,115,4,457,2,3,2,232,Hibernating
+17850,7,155,51208,5,5,5,555,Champions
+17851,57,6,1563,4,4,3,344,Regular Customers
+17852,23,3,548,3,3,4,433,Potential Loyalists
+17853,42,3,1608,4,3,3,334,Regular Customers
+17854,97,4,760,3,3,2,233,Hibernating
+17855,7,1,208,1,1,5,511,New Customers
+17857,0,2,1803,4,2,5,524,Potential Loyalists
+17858,4,19,7641,5,4,5,545,Champions
+17860,3,4,762,3,3,5,533,Potential Loyalists
+17861,20,10,3026,5,4,4,445,Loyal Customers
+17862,20,3,948,3,3,4,433,Potential Loyalists
+17863,4,7,2585,5,4,5,545,Champions
+17864,20,2,326,2,2,4,422,Potential Loyalists
+17865,10,26,15848,5,5,5,555,Champions
+17866,119,2,805,3,2,2,223,Hibernating
+17867,45,9,424,2,4,3,342,Regular Customers
+17868,21,1,234,1,1,4,411,New Customers
+17869,3,3,607,3,3,5,533,Potential Loyalists
+17870,1,2,1213,4,2,5,524,Potential Loyalists
+17871,32,4,963,3,3,4,433,Potential Loyalists
+17872,16,1,235,1,1,4,411,New Customers
+17873,8,14,4656,5,4,5,545,Champions
+17875,323,1,167,1,1,1,111,Lost Customers
+17876,34,3,3424,5,3,4,435,Potential Loyalists
+17878,30,2,1032,4,2,4,424,Potential Loyalists
+17880,274,2,366,2,2,1,122,Hibernating
+17882,14,2,313,2,2,5,522,Potential Loyalists
+17883,174,3,324,2,3,2,232,Hibernating
+17884,3,18,2355,5,4,5,545,Champions
+17886,72,3,708,3,3,2,233,Hibernating
+17888,9,17,1094,4,4,5,544,Champions
+17889,9,5,571,3,3,5,533,Potential Loyalists
+17894,1,11,1333,4,4,5,544,Champions
+17897,2,8,2018,4,4,5,544,Champions
+17898,87,2,147,1,2,2,221,Hibernating
+17901,156,2,149,1,2,2,221,Hibernating
+17902,181,1,216,1,1,1,111,Lost Customers
+17903,29,1,381,2,1,4,412,New Customers
+17905,8,10,1583,4,4,5,544,Champions
+17907,275,1,291,2,1,1,112,Lost Customers
+17908,8,5,1168,4,3,5,534,Potential Loyalists
+17909,372,1,132,1,1,1,111,Lost Customers
+17910,361,1,261,2,1,1,112,Lost Customers
+17912,10,1,64,1,1,5,511,New Customers
+17913,35,12,3068,5,4,4,445,Loyal Customers
+17915,186,1,242,1,1,1,111,Lost Customers
+17916,263,2,43,1,2,1,121,Hibernating
+17918,135,3,396,2,3,2,232,Hibernating
+17919,73,1,536,3,1,2,213,Lost Customers
+17920,3,39,20312,5,5,5,555,Champions
+17921,14,6,1596,4,4,5,544,Champions
+17922,178,1,170,1,1,1,111,Lost Customers
+17923,162,2,289,2,2,2,222,Hibernating
+17924,8,2,574,3,2,5,523,Potential Loyalists
+17925,7,1,244,1,1,5,511,New Customers
+17926,79,3,638,3,3,2,233,Hibernating
+17927,356,1,294,2,1,1,112,Lost Customers
+17928,206,1,128,1,1,1,111,Lost Customers
+17929,22,8,2239,5,4,4,445,Loyal Customers
+17930,28,8,2534,5,4,4,445,Loyal Customers
+17931,32,12,3028,5,4,4,445,Loyal Customers
+17933,267,1,114,1,1,1,111,Lost Customers
+17934,41,1,344,2,1,3,312,Regular Customers
+17935,35,5,540,3,3,4,433,Potential Loyalists
+17938,55,1,144,1,1,3,311,Regular Customers
+17940,80,6,26286,5,4,2,245,At Risk
+17941,225,3,1128,4,3,1,134,Hibernating
+17944,58,1,75,1,1,3,311,Regular Customers
+17945,331,3,360,2,3,1,132,Hibernating
+17949,6,74,60117,5,5,5,555,Champions
+17950,0,6,950,3,4,5,543,Loyal Customers
+17951,8,2,627,3,2,5,523,Potential Loyalists
+17952,13,4,819,3,3,5,533,Potential Loyalists
+17953,175,1,160,1,1,2,211,Lost Customers
+17954,2,9,1633,4,4,5,544,Champions
+17955,290,2,392,2,2,1,122,Hibernating
+17958,363,1,465,2,1,1,112,Lost Customers
+17959,227,1,140,1,1,1,111,Lost Customers
+17960,157,2,61,1,2,2,221,Hibernating
+17961,7,62,1699,4,5,5,554,Champions
+17962,184,3,584,3,3,1,133,Hibernating
+17963,106,4,651,3,3,2,233,Hibernating
+17964,7,1,261,2,1,5,512,New Customers
+17965,0,17,4618,5,4,5,545,Champions
+17966,226,5,875,3,3,1,133,Hibernating
+17967,6,2,234,1,2,5,521,Potential Loyalists
+17968,8,4,610,3,3,5,533,Potential Loyalists
+17969,137,18,2141,4,4,2,244,At Risk
+17971,183,1,161,1,1,1,111,Lost Customers
+17974,16,3,1117,4,3,4,434,Potential Loyalists
+17975,1,12,2540,5,4,5,545,Champions
+17976,7,1,353,2,1,5,512,New Customers
+17977,35,1,1277,4,1,4,414,New Customers
+17978,0,4,1160,4,3,5,534,Potential Loyalists
+17980,28,1,221,1,1,4,411,New Customers
+17981,45,1,239,1,1,3,311,Regular Customers
+17982,315,1,138,1,1,1,111,Lost Customers
+17983,30,1,171,1,1,4,411,New Customers
+17984,27,4,1038,4,3,4,434,Potential Loyalists
+17987,11,4,805,3,3,5,533,Potential Loyalists
+17988,122,7,288,2,4,2,242,At Risk
+17989,14,1,228,1,1,5,511,New Customers
+17990,15,3,896,3,3,4,433,Potential Loyalists
+17991,226,1,227,1,1,1,111,Lost Customers
+17992,24,1,254,2,1,4,412,New Customers
+17993,252,1,235,1,1,1,111,Lost Customers
+17994,23,7,1634,4,4,4,444,Loyal Customers
+17995,17,2,419,2,2,4,422,Potential Loyalists
+17996,14,3,482,2,3,5,532,Potential Loyalists
+17998,15,3,639,3,3,4,433,Potential Loyalists
+17999,1,2,348,2,2,5,522,Potential Loyalists
+18000,199,1,124,1,1,1,111,Lost Customers
+18001,84,4,536,3,3,2,233,Hibernating
+18002,10,4,249,1,3,5,531,Potential Loyalists
+18003,11,1,358,2,1,5,512,New Customers
+18006,16,3,553,3,3,4,433,Potential Loyalists
+18007,27,1,220,1,1,4,411,New Customers
+18008,50,14,17670,5,4,3,345,Regular Customers
+18009,177,7,1898,4,4,1,144,At Risk
+18011,8,2,424,2,2,5,522,Potential Loyalists
+18012,358,1,115,1,1,1,111,Lost Customers
+18016,45,2,476,2,2,3,322,Regular Customers
+18017,66,1,165,1,1,3,311,Regular Customers
+18018,34,2,175,1,2,4,421,Potential Loyalists
+18020,178,1,190,1,1,1,111,Lost Customers
+18021,144,2,227,1,2,2,221,Hibernating
+18022,20,4,983,3,3,4,433,Potential Loyalists
+18025,14,6,1177,4,4,5,544,Champions
+18026,135,2,2074,4,2,2,224,Hibernating
+18028,218,1,192,1,1,1,111,Lost Customers
+18029,277,1,433,2,1,1,112,Lost Customers
+18031,13,1,462,2,1,5,512,New Customers
+18034,10,1,370,2,1,5,512,New Customers
+18035,20,2,546,3,2,4,423,Potential Loyalists
+18036,20,8,1158,4,4,4,444,Loyal Customers
+18037,56,9,97,1,4,3,341,Regular Customers
+18038,191,1,149,1,1,1,111,Lost Customers
+18039,9,4,579,3,3,5,533,Potential Loyalists
+18041,0,20,4568,5,4,5,545,Champions
+18042,176,1,116,1,1,1,111,Lost Customers
+18043,1,1,316,2,1,5,512,New Customers
+18044,22,8,1417,4,4,4,444,Loyal Customers
+18046,284,1,189,1,1,1,111,Lost Customers
+18047,16,2,342,2,2,4,422,Potential Loyalists
+18048,128,1,229,1,1,2,211,Lost Customers
+18049,72,2,556,3,2,2,223,Hibernating
+18050,28,1,337,2,1,4,412,New Customers
+18051,269,7,2282,5,4,1,145,At Risk
+18052,199,1,10877,5,1,1,115,Lost Customers
+18053,160,2,271,2,2,2,222,Hibernating
+18054,27,1,176,1,1,4,411,New Customers
+18055,2,6,4411,5,4,5,545,Champions
+18056,253,1,190,1,1,1,111,Lost Customers
+18057,28,3,1203,4,3,4,434,Potential Loyalists
+18058,176,2,603,3,2,1,123,Hibernating
+18060,43,2,1185,4,2,3,324,Regular Customers
+18061,1,19,4369,5,4,5,545,Champions
+18062,21,3,912,3,3,4,433,Potential Loyalists
+18063,25,2,186,1,2,4,421,Potential Loyalists
+18064,81,9,3681,5,4,2,245,At Risk
+18065,23,15,3473,5,4,4,445,Loyal Customers
+18066,21,2,1122,4,2,4,424,Potential Loyalists
+18069,18,6,2503,5,4,4,445,Loyal Customers
+18070,304,1,314,2,1,1,112,Lost Customers
+18071,0,5,975,3,3,5,533,Potential Loyalists
+18074,8,2,1019,4,2,5,524,Potential Loyalists
+18075,9,10,3171,5,4,5,545,Champions
+18076,15,1,151,1,1,4,411,New Customers
+18077,1,8,1705,4,4,5,544,Champions
+18078,60,2,508,3,2,3,323,Regular Customers
+18079,126,1,590,3,1,2,213,Lost Customers
+18083,32,1,470,2,1,4,412,New Customers
+18084,18,2,722,3,2,4,423,Potential Loyalists
+18085,8,3,955,3,3,5,533,Potential Loyalists
+18087,14,15,10705,5,4,5,545,Champions
+18089,81,1,428,2,1,2,212,Lost Customers
+18090,56,1,349,2,1,3,312,Regular Customers
+18091,228,1,360,2,1,1,112,Lost Customers
+18092,0,8,7111,5,4,5,545,Champions
+18093,79,4,2346,5,3,2,235,Hibernating
+18094,81,6,3374,5,4,2,245,At Risk
+18095,62,3,1723,4,3,3,334,Regular Customers
+18096,77,3,894,3,3,2,233,Hibernating
+18097,20,5,1965,4,3,4,434,Potential Loyalists
+18098,31,1,550,3,1,4,413,New Customers
+18100,185,1,451,2,1,1,112,Lost Customers
+18101,9,3,405,2,3,5,532,Potential Loyalists
+18102,0,89,349164,5,5,5,555,Champions
+18103,184,1,105,1,1,1,111,Lost Customers
+18106,111,5,1030,4,3,2,234,Hibernating
+18107,77,1,167,1,1,2,211,Lost Customers
+18108,231,2,577,3,2,1,123,Hibernating
+18109,4,13,1840,4,4,5,544,Champions
+18110,46,1,199,1,1,3,311,Regular Customers
+18111,224,1,405,2,1,1,112,Lost Customers
+18112,53,2,423,2,2,3,322,Regular Customers
+18113,3,1,76,1,1,5,511,New Customers
+18115,332,1,9,1,1,1,111,Lost Customers
+18116,11,5,736,3,3,5,533,Potential Loyalists
+18118,4,4,1079,4,3,5,534,Potential Loyalists
+18119,2,1,181,1,1,5,511,New Customers
+18123,148,1,95,1,1,2,211,Lost Customers
+18124,107,1,111,1,1,2,211,Lost Customers
+18127,38,1,212,1,1,3,311,Regular Customers
+18128,172,1,420,2,1,2,212,Lost Customers
+18131,266,1,222,1,1,1,111,Lost Customers
+18132,139,1,226,1,1,2,211,Lost Customers
+18134,233,2,445,2,2,1,122,Hibernating
+18135,27,5,567,3,3,4,433,Potential Loyalists
+18136,44,2,847,3,2,3,323,Regular Customers
+18137,186,2,145,1,2,1,121,Hibernating
+18140,108,1,536,3,1,2,213,Lost Customers
+18141,36,2,882,3,2,3,323,Regular Customers
+18144,8,8,2169,5,4,5,545,Champions
+18145,17,7,2756,5,4,4,445,Loyal Customers
+18148,281,1,114,1,1,1,111,Lost Customers
+18149,39,4,1012,4,3,3,334,Regular Customers
+18151,55,4,1226,4,3,3,334,Regular Customers
+18152,281,1,426,2,1,1,112,Lost Customers
+18153,294,1,246,1,1,1,111,Lost Customers
+18154,23,3,533,3,3,4,433,Potential Loyalists
+18156,4,1,206,1,1,5,511,New Customers
+18157,206,1,215,1,1,1,111,Lost Customers
+18160,21,1,365,2,1,4,412,New Customers
+18161,14,1,184,1,1,5,511,New Customers
+18162,367,1,379,2,1,1,112,Lost Customers
+18163,219,1,728,3,1,1,113,Lost Customers
+18166,258,1,175,1,1,1,111,Lost Customers
+18168,7,11,2600,5,4,5,545,Champions
+18170,9,6,1897,4,4,5,544,Champions
+18171,105,4,1206,4,3,2,234,Hibernating
+18172,22,32,9918,5,5,4,455,Loyal Customers
+18173,247,1,589,3,1,1,113,Lost Customers
+18174,238,1,58,1,1,1,111,Lost Customers
+18175,310,1,176,1,1,1,111,Lost Customers
+18177,195,3,875,3,3,1,133,Hibernating
+18178,37,7,4512,5,4,3,345,Regular Customers
+18179,157,2,754,3,2,2,223,Hibernating
+18181,35,4,823,3,3,4,433,Potential Loyalists
+18182,98,1,291,2,1,2,212,Lost Customers
+18186,357,1,329,2,1,1,112,Lost Customers
+18187,266,1,724,3,1,1,113,Lost Customers
+18188,65,3,1279,4,3,3,334,Regular Customers
+18189,260,1,313,2,1,1,112,Lost Customers
+18190,238,3,461,2,3,1,132,Hibernating
+18191,112,1,321,2,1,2,212,Lost Customers
+18193,15,2,963,3,2,4,423,Potential Loyalists
+18194,73,5,3188,5,3,2,235,Hibernating
+18195,22,1,101,1,1,4,411,New Customers
+18196,106,2,775,3,2,2,223,Hibernating
+18197,210,1,230,1,1,1,111,Lost Customers
+18199,318,1,344,2,1,1,112,Lost Customers
+18201,357,1,447,2,1,1,112,Lost Customers
+18203,16,3,344,2,3,4,432,Potential Loyalists
+18206,188,1,314,2,1,1,112,Lost Customers
+18207,134,1,544,3,1,2,213,Lost Customers
+18208,200,1,360,2,1,1,112,Lost Customers
+18210,17,1,147,1,1,4,411,New Customers
+18212,312,1,298,2,1,1,112,Lost Customers
+18214,165,4,1780,4,3,2,234,Hibernating
+18215,72,4,1948,4,3,2,234,Hibernating
+18217,148,2,323,2,2,2,222,Hibernating
+18218,231,2,479,2,2,1,122,Hibernating
+18219,3,8,1493,4,4,5,544,Champions
+18220,29,5,1616,4,3,4,434,Potential Loyalists
+18221,25,1,383,2,1,4,412,New Customers
+18223,22,12,7516,5,4,4,445,Loyal Customers
+18225,0,15,7545,5,4,5,545,Champions
+18226,13,15,6650,5,4,5,545,Champions
+18227,119,1,295,2,1,2,212,Lost Customers
+18229,1,10,3526,5,4,5,545,Champions
+18230,13,2,1480,4,2,5,524,Potential Loyalists
+18231,41,23,4797,5,5,3,355,Regular Customers
+18234,186,1,179,1,1,1,111,Lost Customers
+18236,23,6,913,3,4,4,443,Loyal Customers
+18238,150,1,270,2,1,2,212,Lost Customers
+18239,7,2,588,3,2,5,523,Potential Loyalists
+18241,50,4,913,3,3,3,333,Regular Customers
+18242,80,4,1372,4,3,2,234,Hibernating
+18243,49,1,515,3,1,3,313,Regular Customers
+18244,65,2,568,3,2,3,323,Regular Customers
+18245,14,13,3757,5,4,5,545,Champions
+18246,244,1,162,1,1,1,111,Lost Customers
+18247,49,3,839,3,3,3,333,Regular Customers
+18251,80,8,21964,5,4,2,245,At Risk
+18252,183,5,1015,4,3,1,134,Hibernating
+18253,277,1,317,2,1,1,112,Lost Customers
+18254,216,1,267,2,1,1,112,Lost Customers
+18255,91,1,199,1,1,2,211,Lost Customers
+18256,22,1,110,1,1,4,411,New Customers
+18257,81,4,2262,5,3,2,235,Hibernating
+18258,99,6,2059,4,4,2,244,At Risk
+18259,1,5,1979,4,3,5,534,Potential Loyalists
+18260,9,17,7318,5,4,5,545,Champions
+18262,28,2,428,2,2,4,422,Potential Loyalists
+18264,133,1,603,3,1,2,213,Lost Customers
+18266,69,1,251,1,1,3,311,Regular Customers
+18267,307,1,269,2,1,1,112,Lost Customers
+18268,226,5,1464,4,3,1,134,Hibernating
+18269,1,1,168,1,1,5,511,New Customers
+18270,67,1,161,1,1,3,311,Regular Customers
+18271,244,2,680,3,2,1,123,Hibernating
+18272,183,3,1307,4,3,1,134,Hibernating
+18273,225,1,153,1,1,1,111,Lost Customers
+18275,213,2,741,3,2,1,123,Hibernating
+18276,27,5,1320,4,3,4,434,Potential Loyalists
+18277,32,4,1069,4,3,4,434,Potential Loyalists
+18278,39,1,240,1,1,3,311,Regular Customers
+18279,154,1,231,1,1,2,211,Lost Customers
+18280,29,1,307,2,1,4,412,New Customers
+18281,212,1,120,1,1,1,111,Lost Customers
+18283,17,6,641,3,4,4,443,Loyal Customers
+18284,66,1,461,2,1,3,312,Regular Customers
+18285,295,1,427,2,1,1,112,Lost Customers
+18286,111,2,1296,4,2,2,224,Hibernating
+18287,17,4,2345,5,3,4,435,Potential Loyalists
