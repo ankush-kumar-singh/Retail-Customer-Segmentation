@@ -1,170 +1,110 @@
 # 🛍️ Retail Customer Analytics Dashboard
-### End-to-End Customer Segmentation using RFM Analysis & Interactive Dash Dashboard
+### End-to-End Customer Segmentation using RFM Analysis & Plotly Dash
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Dash](https://img.shields.io/badge/Dash-Plotly-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive-success)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
----
-
-## 📌 Project Overview
-
-This project performs **Customer Segmentation** using **RFM (Recency, Frequency, Monetary) Analysis** on a real-world UK retail dataset.
-
-The project includes the complete analytics pipeline:
-
-- Data Cleaning
-- Feature Engineering
-- RFM Score Calculation
-- Customer Segmentation
-- Exploratory Data Analysis
-- Interactive Business Dashboard using Dash
-
-The dashboard enables businesses to understand customer purchasing behaviour and identify valuable customer groups for targeted marketing.
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Dashboard-3F4F75?style=for-the-badge&logo=plotly)
+![Dash](https://img.shields.io/badge/Dash-Web%20App-008DE4?style=for-the-badge&logo=plotly)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ---
 
-# Dashboard Preview
+## 📖 Project Overview
 
-## Dashboard Home
+Retail businesses generate massive transactional data every day. However, transforming this raw data into actionable business insights is often challenging.
 
-![Dashboard Home](images/dashboard_images/dashboard%201st%20page.png)
+This project demonstrates an **end-to-end customer analytics workflow** using **RFM (Recency, Frequency, Monetary) Analysis** to segment customers based on purchasing behaviour and visualize insights through an **interactive Plotly Dash dashboard**.
 
----
-
-## Customer Behaviour Analysis
-
-![Dashboard Analysis](images/dashboard_images/dashboard%202nd%20page.png)
+The project follows a complete analytics pipeline from **raw transactional data** to a **fully interactive business dashboard**.
 
 ---
 
-## Customer Value & Correlation Analysis
+# 🚀 Dashboard Preview
 
-![Dashboard Analysis](images/dashboard_images/dashboard%203rd%20page.png)
+## 🏠 Dashboard Home
 
----
-
-# Project Workflow
-
-```
-Raw Retail Dataset
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-Feature Engineering
-        │
-        ▼
-RFM Calculation
-        │
-        ▼
-Customer Segmentation
-        │
-        ▼
-Exploratory Data Analysis
-        │
-        ▼
-Interactive Dash Dashboard
-```
+![Dashboard Home](images/dashboard_images/dashboard-1st-page.png)
 
 ---
 
-# Customer Segments
+## 📊 Customer Behaviour Analysis
 
-The customers are divided into the following business segments:
-
-- Champions
-- Loyal Customers
-- Potential Loyalists
-- New Customers
-- Regular Customers
-- Hibernating
-- Lost Customers
-- At Risk
-
-Each segment is identified using RFM score combinations.
+![Dashboard Analysis](images/dashboard_images/dashboard-2nd-page.png)
 
 ---
 
-# Dashboard Features
+## 📈 Customer Value & Correlation Analysis
 
-### KPI Cards
+![Dashboard Analysis](images/dashboard_images/dashboard-3rd-page.png)
+
+---
+
+# 🎯 Project Objectives
+
+- Clean raw retail transaction data
+- Perform customer-level RFM analysis
+- Segment customers based on purchasing behaviour
+- Identify valuable customer groups
+- Generate business insights
+- Develop an interactive analytics dashboard
+
+---
+
+# 📊 Dashboard Features
+
+### 📌 KPI Cards
 
 - Total Customers
 - Total Revenue
 - Average Customer Value
 - Champions Count
 
----
+### 🎛 Interactive Filters
 
-### Interactive Filters
+- Customer Segment Filter
+- Dynamic Dashboard Updates
 
-- Segment Filter
-- Customer Filter
+### 📈 Interactive Visualizations
 
----
-
-### Visualizations
-
-- Customer Distribution
-- Segment Share
-- RFM Bubble Plot
+- Customer Segment Distribution
+- Segment Percentage (Donut Chart)
+- RFM Bubble Analysis
 - Monetary Distribution
-- Top Customers
+- Top Spending Customers
 - Correlation Heatmap
 
 ---
 
-# Technologies Used
+# 🧠 RFM Analysis
 
-### Programming
+The segmentation is based on three customer behaviour metrics.
 
-- Python
+| Metric | Description |
+|---------|-------------|
+| **Recency** | Days since customer's last purchase |
+| **Frequency** | Number of unique purchases |
+| **Monetary** | Total amount spent by customer |
 
-### Libraries
-
-- Pandas
-- NumPy
-- Plotly
-- Dash
-- Dash Bootstrap Components
-
-### Data Visualization
-
-- Plotly Express
-- Plotly Graph Objects
+Customers are assigned RFM scores and grouped into meaningful business segments.
 
 ---
 
-# Dataset
+# 👥 Customer Segments
 
-The project uses the **Online Retail Dataset (UK)**.
-
-Main features include:
-
-- Invoice
-- Customer ID
-- Invoice Date
-- Quantity
-- Unit Price
-- Country
-
-After preprocessing, the final dataset contains:
-
-- Customer ID
-- Recency
-- Frequency
-- Monetary
-- Segment
+- 🏆 Champions
+- 💙 Loyal Customers
+- ⭐ Potential Loyalists
+- 👤 Regular Customers
+- 🆕 New Customers
+- ⚠️ At Risk
+- 😴 Hibernating
+- ❌ Lost Customers
 
 ---
 
-# Folder Structure
+# 📂 Project Structure
 
-```
+```text
 Retail-Customer-Segmentation/
 │
 ├── dashboard/
@@ -183,67 +123,131 @@ Retail-Customer-Segmentation/
 │
 ├── images/
 │   ├── dashboard_images/
-│   │   ├── dashboard 1st page.png
-│   │   ├── dashboard 2nd page.png
-│   │   └── dashboard 3rd page.png
+│   │   ├── dashboard-1st-page.png
+│   │   ├── dashboard-2nd-page.png
+│   │   └── dashboard-3rd-page.png
 │   │
 │   └── notebook_images/
-│       ├── Average Monetary Value by Segment.png
-│       ├── Average Purchase Frequency.png
-│       ├── Average Recency.png
-│       ├── Customer Segment Treemap.png
-│       ├── Monetary Distribution.png
-│       ├── Percentage Distribution.png
-│       ├── Top 10 Spenders.png
+│       ├── average-monetary-value-by-segment.png
+│       ├── average-purchase-frequency.png
+│       ├── average-recency-days-since-last-purchase.png
+│       ├── customer-segment-treemap.png
+│       ├── top-10-spenders.png
 │       └── ...
 │
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_RFM_Analysis.ipynb
-│   ├── 03_dashboard.ipynb
-│   └── ...
 │
 └── README.md
 ```
 
 ---
 
-# Business Insights
+# 🧹 Data Cleaning
 
-Some key findings from the analysis:
+The following preprocessing steps were performed before analysis.
 
-- Champions generate the highest revenue.
-- Lost Customers represent the largest customer segment.
-- Frequency and Monetary value show a strong positive relationship.
-- Customers with low Recency tend to spend significantly more.
-- RFM segmentation helps identify customers requiring retention strategies.
+- Removed cancelled invoices
+- Removed missing Customer IDs
+- Removed duplicate records
+- Converted Invoice Date into datetime format
+- Created Total Sales feature
+- Generated customer-level RFM dataset
 
 ---
 
-# Future Improvements
+# 📈 Business Insights
 
-- Authentication System
-- PDF Report Export
-- Excel Report Export
-- Predictive Customer Churn Model
+The analysis revealed several important customer behaviour patterns.
+
+- Champions contribute the highest revenue.
+- Lost Customers represent a large portion of inactive users.
+- Frequency has a strong positive relationship with Monetary value.
+- Customers purchasing more frequently generally spend significantly higher amounts.
+- Customer segmentation can help businesses design targeted marketing campaigns.
+
+---
+
+# 💻 Technology Stack
+
+### Programming
+
+- Python
+
+### Data Analysis
+
+- Pandas
+- NumPy
+
+### Visualization
+
+- Plotly
+- Plotly Express
+
+### Dashboard
+
+- Dash
+- Dash Bootstrap Components
+
+### Development Tools
+
+- Jupyter Notebook
+- VS Code
+
+---
+
+# ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/ankush-kumar-singh/Retail-Customer-Segmentation.git
+```
+
+Move inside the project
+
+```bash
+cd Retail-Customer-Segmentation
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the dashboard
+
+```bash
+python dashboard/app.py
+```
+
+---
+
+# 📌 Future Improvements
+
+- Machine Learning based Customer Segmentation
+- Customer Churn Prediction
 - Customer Lifetime Value Prediction
-- Recommendation Engine
+- Recommendation System
+- PDF Report Export
 - SQL Database Integration
 - Cloud Deployment
 
 ---
 
-# Author
+# 👨‍💻 Author
 
 **Ankush Kumar Singh**
 
-Data Science | Machine Learning | Data Analytics
+🎓 B.Tech CSE (Data Science)
 
-GitHub:
-https://github.com/ankush-kumar-singh
+💼 Data Analytics | Machine Learning | Business Intelligence
 
-LinkedIn:
-www.linkedin.com/in/ankush-kumar-singh-04bb78243
+### Connect with Me
+
+- GitHub: https://github.com/ankush-kumar-singh
+- LinkedIn: www.linkedin.com/in/ankush-kumar-singh-04bb78243
 
 ---
-⭐ If you found this project useful, consider giving it a star.
+
+## ⭐ If you found this project useful, consider giving it a Star.
